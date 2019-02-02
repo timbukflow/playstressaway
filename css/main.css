@@ -98,19 +98,45 @@ textarea {
    ========================================================================== */
 
 
+* {
+background: #006600;
+}
 
+.orb {
+	left: calc(50% - 25px);
+  height: 50px;
+  width: 50px;
+  border-radius: 200px;
+  background: #1F7A8C;
+	top: calc(50% - 25px);
+	position: absolute;
+	z-index:1;
+}
 
+.orbbb {
+	left: calc(50% - 100px);
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+  background: #ffff00;
+  margin: auto;
+  top: calc(50% - 100px);
+	position:absolute;
+}
 
+.orb_1 {
+  animation-name:orb_1;
+  animation-duration: 5s;
+  animation-delay: 0s;
+  animation-iteration-count:infinite;
+	animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+}
 
-
-
-
-
-
-
-
-
-
+@keyframes orb_1 {
+  from { transform: scale(1); background: #006600;}
+	   to { transform: scale(4); background: #66ccff;}
+}
 
 
 /* ==========================================================================
