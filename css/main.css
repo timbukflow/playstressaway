@@ -122,6 +122,7 @@ background: #006600;
   margin: auto;
   top: calc(50% - 100px);
 	position:absolute;
+    filter: blur(4px);
 }
 
 .orb_1 {
