@@ -171,7 +171,7 @@ body {
     height: 10px;
     width: 10px;
     border-radius: 200px;
-    background: rgb(0, 150, 50, 0.5);
+    background: rgba(0, 150, 50, 0.5);
 	
     left: 0;
     right: 0;
