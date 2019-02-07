@@ -220,6 +220,15 @@ body {
     background-image: linear-gradient(to bottom, #f0ffff, #defbfd, #ccf7fc, #b9f3fd, #a6eeff);
 }
 
+@media only screen and (max-width: 600px) {
+  .header {
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 50px;
+    font-size: 20px;
+}
+  }
+
 
 /* ==========================================================================
    Helper classes
