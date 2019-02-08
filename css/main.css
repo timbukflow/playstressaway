@@ -98,22 +98,23 @@ textarea {
    ========================================================================== */
 
 body {
-    background-color: rgba(0, 150, 50, 0.1);
+    background-color: #E1F6EA;
 }
 
 .header {
-    font-family: 'Open Sans', sans-serif;
-    color: #005032;
-    font-weight: 400;
-    width: 40%;
+    font-family: 'Signika', sans-serif;
+    color: #005A32;
+    font-weight: 300;
     text-align: center;
-    margin-left: 30%;
+    width: 50%;
+    margin: auto;
     margin-top: 70px;
-    font-style: italic;
+    font-size: 40px;
+  
 }
 
 .header span {
-    color: rgba(0, 141, 0, 0.5);
+    color: rgba(7, 90, 52, 0.64);
 }
 
 .logo {
@@ -192,7 +193,7 @@ body {
 .breathingcycle-03 {
     height: 10px;
     width: 10px;
-    border-radius: 200px;
+    border-radius: 500px;
     background: rgba(0, 150, 50, 0.25);
 	
     left: 0;
@@ -211,10 +212,10 @@ body {
 }
 
 .breathingcycle-04 {
-    height: 350px;
-    width: 350px;
+    height: 360px;
+    width: 360px;
     border-radius: 200px;
-    background-color: rgba(255, 255, 255, 0.33);
+    background-color: rgba(255, 255, 255, 0.5);
 	
     left: 0;
     right: 0;
@@ -231,24 +232,24 @@ body {
 }
 
 @keyframes breathingcycle {
-    0%      { width: 40px; height: 40px;   }
+    0%      { width: 30px; height: 30px;   }
     33%     { width: 180px; height: 180px; }
     41%     { width: 180px; height: 180px; }
-    100%    { width: 40px; height: 40px;   }
+    100%    { width: 30px; height: 30px;   }
 }
 
 @keyframes breathingcycle-2 {
     0%      { width: 30px; height: 30px;    }
-    33%     { width: 270px; height: 270px;  }
-    41%     { width: 270px; height: 270px;  }
+    33%     { width: 260px; height: 260px;  }
+    41%     { width: 260px; height: 260px;  }
     100%    { width: 30px; height: 30px;    }
 }
 
 @keyframes breathingcycle-3 {
-    0%      { width: 1px; height: 1px;    }
-    33%     { width: 350px; height: 350px;  }
-    41%     { width: 350px; height: 350px;  }
-    100%    { width: 1px; height: 1px;    }
+    0%      { width: 50px; height: 50px;    }
+    33%     { width: 360px; height: 360px;  }
+    41%     { width: 360px; height: 360px;  }
+    100%    { width: 50px; height: 50px;    }
 }
 
 .main-content {
@@ -256,7 +257,7 @@ body {
     top: 100vh;
     height: 800px;
     width: 100%;
-    background-image: linear-gradient(to bottom, #e1f6ea, #aedfc0, #7dc893, #4daf65, #009632);
+    background-color: #E1F6EA;
 }
 
 @media only screen and (max-width: 600px) {
