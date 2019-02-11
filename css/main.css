@@ -297,7 +297,7 @@ h3 span {
     width: 100%;
 }
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1130px) {
     .header {
         width: 76%;
         margin-top: 80px;
