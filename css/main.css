@@ -296,7 +296,32 @@ h3 span {
     float: left;
     width: 100%;
 }
+
+@media only screen and (max-width: 1024px) {
+    .header {
+        width: 76%;
+        margin-top: 80px;
+        font-size: 30px;
+    }
     
+    .logo {
+        bottom: 30px;
+    }
+    
+    h2, h3 {
+    width: 76%;
+    font-size: 24px;
+    margin-top: 50px;
+    }
+    
+    h2 {
+    margin-bottom: 30px;
+    font-size: 30px;
+    }
+    
+    
+}
+
 @media only screen and (max-width: 600px) {
     .header {
         width: 76%;
