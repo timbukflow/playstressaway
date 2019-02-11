@@ -304,6 +304,10 @@ h3 span {
         font-size: 18px;
     }
     
+    .logo {
+        bottom: 30px;
+    }
+    
     h2, h3 {
     width: 76%;
     font-size: 18px;
