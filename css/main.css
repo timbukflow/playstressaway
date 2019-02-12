@@ -98,7 +98,7 @@ textarea {
    ========================================================================== */
 
 body {
-    background-color: #F7F3EE;
+    background-color: rgba(240,245,241,1);
     margin: 0;
     padding: 0;
 }
@@ -126,6 +126,10 @@ h3 {
     margin: auto;
     margin-bottom: 0px;
     font-size: 26px;
+}
+
+.contact {
+    padding-bottom: 50px;
 }
 
 p {
@@ -301,16 +305,27 @@ h3 span {
     position: relative;
     margin-top: 70px;
     width: 100%;
-    background-image: linear-gradient(to bottom, #f7f3ee, #f2eee2, #ebe9d6, #e0e5cd, #d2e2c5);
+    background: rgba(240,245,241,1);
+    background: -moz-linear-gradient(top, rgba(240,245,241,1) 0%, rgba(179,209,183,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(240,245,241,1)), color-stop(100%, rgba(179,209,183,1)));
+    background: -webkit-linear-gradient(top, rgba(240,245,241,1) 0%, rgba(179,209,183,1) 100%);
+    background: -o-linear-gradient(top, rgba(240,245,241,1) 0%, rgba(179,209,183,1) 100%);
+    background: -ms-linear-gradient(top, rgba(240,245,241,1) 0%, rgba(179,209,183,1) 100%);
+    background: linear-gradient(to bottom, rgba(240,245,241,1) 0%, rgba(179,209,183,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f5f1', endColorstr='#b3d1b7', GradientType=0 );
 }
 
 .impressum {
+
+     
     position: relative;
-    background-color: #d2e2c5;
-    padding-top: 30px;
+    background-color: rgba(179,209,183,1);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
 }
+
 #impressum {
-    width: 100%;
     display: none;
 }
 
@@ -323,6 +338,11 @@ h3 span {
         width: 76%;
         padding-top: 80px;
         font-size: 30px;
+    }
+    
+    p {
+      width: 76%;
+    font-size: 14px;
     }
     
     h2, h3 {
