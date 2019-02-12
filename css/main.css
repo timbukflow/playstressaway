@@ -103,7 +103,7 @@ body {
     padding: 0;
 }
 
-.header, h2, h3 {
+.header, h2, h3, p {
     font-family: 'Signika', sans-serif;
     color: #005A32;
     font-weight: 300;
@@ -117,8 +117,7 @@ body {
 
 h2 {
     text-align: left;
-    margin-top: 70px;
-    margin-bottom: 70px;
+    padding-bottom: 50px;
 }
 
 h3 {
@@ -127,6 +126,13 @@ h3 {
     margin: auto;
     margin-bottom: 0px;
     font-size: 26px;
+}
+
+p {
+    text-align: left;
+    font-size: 16px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 a {
@@ -293,15 +299,22 @@ h3 span {
 
 .main-content {
     position: relative;
+    margin-top: 70px;
     width: 100%;
     background-image: linear-gradient(to bottom, #f7f3ee, #f2eee2, #ebe9d6, #e0e5cd, #d2e2c5);
 }
 
-
-
 .impressum {
     position: relative;
     background-color: #d2e2c5;
+    padding-top: 
+}
+#impressum {
+    display: none;
+}
+
+.togglelink {
+    cursor: pointer;
 }
 
 @media only screen and (max-width: 1130px) {
