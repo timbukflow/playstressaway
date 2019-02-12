@@ -16,7 +16,7 @@ $(document).ready(function(){
         $(totoggle).toggle();
         
         if ($(totoggle).is(":visible")) {
-            $('html,body').animate({scrollTop:$(totoggle).offset().top}, 1000,'easeInOutExpo');
+            $('html,body').animate({scrollTop:$(totoggle).offset().top}, 1000);
         }     
     });
      

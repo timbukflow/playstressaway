@@ -307,9 +307,10 @@ h3 span {
 .impressum {
     position: relative;
     background-color: #d2e2c5;
-    padding-top: 
+    padding-top: 30px;
 }
 #impressum {
+    width: 100%;
     display: none;
 }
 
