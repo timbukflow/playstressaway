@@ -6,6 +6,19 @@ $(document).ready(function(){
              return false;
          });
      });
+    
+      
+    //Impressum
+    
+
+    $('.togglelink').click(function() {
+        var totoggle = $(this).attr("data-toggle");
+        $(totoggle).toggle();
+        
+        if ($(totoggle).is(":visible")) {
+            $('html,body').animate({scrollTop:$(totoggle).offset().top}, 1000,'easeInOutExpo');
+        }     
+    });
      
 });
 

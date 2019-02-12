@@ -99,6 +99,8 @@ textarea {
 
 body {
     background-color: #F7F3EE;
+    margin: 0;
+    padding: 0;
 }
 
 .header, h2, h3 {
@@ -108,7 +110,7 @@ body {
     text-align: center;
     width: 50%;
     margin: auto;
-    margin-top: 70px;
+    padding-top: 70px;
     font-size: 40px;
     hyphens: auto;
 }
@@ -123,7 +125,6 @@ h3 {
     text-align: left;
     width: 50%;
     margin: auto;
-    margin-top: 70px;
     margin-bottom: 0px;
     font-size: 26px;
 }
@@ -203,7 +204,7 @@ h3 span {
 	
     left: 0;
     right: 0;
-    top: 30px;
+    top: 0;
     bottom: 0;
     margin: auto;
 	position: absolute;
@@ -224,7 +225,7 @@ h3 span {
 	
     left: 0;
     right: 0;
-    top: 30px;
+    top: 0;
     bottom: 0;
     margin: auto;
 	position: absolute;
@@ -246,7 +247,7 @@ h3 span {
 	
     left: 0;
     right: 0;
-    top: 30px;
+    top: 0;
     bottom: 0;
     margin: auto;
 	position: absolute;
@@ -285,27 +286,29 @@ h3 span {
     100%    { width: 70px; height: 70px;    }
 }
 
+.header-content {
+    position: relative;
+    height: 100vh;
+}
+
 .main-content {
-    position: absolute;
-    top: 100vh;
+    position: relative;
     width: 100%;
     background-image: linear-gradient(to bottom, #f7f3ee, #f2eee2, #ebe9d6, #e0e5cd, #d2e2c5);
 }
 
-.content {
-    float: left;
-    width: 100%;
+
+
+.impressum {
+    position: relative;
+    background-color: #d2e2c5;
 }
 
 @media only screen and (max-width: 1130px) {
     .header {
         width: 76%;
-        margin-top: 80px;
+        padding-top: 80px;
         font-size: 30px;
-    }
-    
-    .logo {
-        bottom: 30px;
     }
     
     h2, h3 {
@@ -342,10 +345,6 @@ h3 span {
     h2 {
     margin-bottom: 30px;
     font-size: 24px;
-    }
-    
-    .breathingcycle-01, .breathingcycle-02, .breathingcycle-03 {
-        top:0;
     }
 
     
