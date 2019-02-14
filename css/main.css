@@ -187,11 +187,24 @@ h3 span {
     animation-delay: 0s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
+    
+    -webkit-animation-name: ein;
+    -webkit-animation-duration: 6s;
+    -webkit-animation-delay: 0s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+}
+
+@-webkit-keyframes ein {
+    0%      { color: rgba(0, 90, 50, 0.5);}
+    33%     { color: rgba(0, 90, 50, 1);}
+    41%     { color: rgba(0, 90, 50, 0.5);}
+    100%    { color: rgba(0, 90, 50, 0.5);}
 }
 
 @keyframes ein {
     0%      { color: rgba(0, 90, 50, 0.5);}
-    33%     { color: rgba(0, 90, 50, 1); }
+    33%     { color: rgba(0, 90, 50, 1);}
     41%     { color: rgba(0, 90, 50, 0.5);}
     100%    { color: rgba(0, 90, 50, 0.5);}
 }
@@ -202,6 +215,19 @@ h3 span {
     animation-delay: 0s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
+    
+    -webkit-animation-name: aus;
+    -webkit-animation-duration: 6s;
+    -webkit-animation-delay: 0s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+}
+
+@-webkit-keyframes aus {
+    0%      { color: rgba(0, 90, 50, 0.5);}
+    33%     { color: rgba(0, 90, 50, 0.5);}
+    41%     { color: rgba(0, 90, 50, 1);}
+    100%    { color: rgba(0, 90, 50, 0.5);}
 }
 
 @keyframes aus {
@@ -230,6 +256,12 @@ h3 span {
     animation-delay: 0s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
+    
+    -webkit-animation-name: breathingcycle;
+    -webkit-animation-duration: 6s;
+    -webkit-animation-delay: 0s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: ease-in-out;
 }
 
 .breathingcycle-02 {
@@ -252,6 +284,12 @@ h3 span {
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
     
+    -webkit-animation-name: breathingcycle-2;
+    -webkit-animation-duration: 6s;
+    -webkit-animation-delay: 0s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: ease-in-out;
+    
 }
 
 .breathingcycle-03 {
@@ -273,18 +311,35 @@ h3 span {
     animation-delay: 0s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
+    
+    -webkit-animation-name: breathingcycle-3;
+    -webkit-animation-duration: 6s;
+    -webkit-animation-delay: 0s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: ease-in-out;
 }
 
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes breathingcycle {
-
+    0%      { width: 10px; height: 10px; }
+    33%     { width: 70px; height: 70px; }
+    41%     { width: 70px; height: 70px; }
+    100%    { width: 10px; height: 10px; }
 }
 
 @keyframes breathingcycle {
-    0%      { width: 10px; height: 10px;   }
+    0%      { width: 10px; height: 10px; }
     33%     { width: 70px; height: 70px; }
     41%     { width: 70px; height: 70px; }
-    100%    { width: 10px; height: 10px;   }
+    100%    { width: 10px; height: 10px; }
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes breathingcycle-2 {
+    0%      { width: 40px; height: 40px;    }
+    33%     { width: 280px; height: 280px;  }
+    41%     { width: 280px; height: 280px;  }
+    100%    { width: 40px; height: 40px;    }
 }
 
 @keyframes breathingcycle-2 {
@@ -292,6 +347,14 @@ h3 span {
     33%     { width: 280px; height: 280px;  }
     41%     { width: 280px; height: 280px;  }
     100%    { width: 40px; height: 40px;    }
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes breathingcycle-3 {
+    0%      { width: 70px; height: 70px;    }
+    33%     { width: 490px; height: 490px;  }
+    41%     { width: 490px; height: 490px;  }
+    100%    { width: 70px; height: 70px;    }
 }
 
 @keyframes breathingcycle-3 {
@@ -360,12 +423,12 @@ h3 span {
 
 @media only screen and (max-width: 600px) {
     .header {
-    padding-top: 40px;
-    font-size: 20px;
+        padding-top: 40px;
+        font-size: 20px;
     }
     
     .logo {
-    bottom: 80px;
+        bottom: 80px;
     }
     
     .breathingcycle-03, .breathingcycle-02, .breathingcycle-01 {
@@ -373,18 +436,18 @@ h3 span {
     }
     
     h2, h3 {
-    width: 82%;
-    font-size: 18px;
+        width: 82%;
+        font-size: 18px;
     }
     
     h2 {
-    margin-bottom: 0px;
-    font-size: 24px;
+        margin-bottom: 0px;
+        font-size: 24px;
     }
     
     p {
-    width: 82%;
-    font-size: 14px;
+        width: 82%;
+        font-size: 14px;
     }
 
     
@@ -412,23 +475,23 @@ h3 span {
 
 @media only screen and (max-width: 320px) {
     .header {
-    padding-top: 40px;
-    font-size: 18px;
-    width: 100%;
+        padding-top: 40px;
+        font-size: 18px;
+        width: 100%;
     }
     
     .logo {
-    width: 180px
+        width: 180px
     }
-    
 }
 
 .no-selection {
-  -webkit-user-select: none;  /* Chrome all / Safari all */
-  -moz-user-select: none;     /* Firefox all */
-  -ms-user-select: none;      /* IE 10+ */
-  user-select: none;          /* Likely future */     
+    -webkit-user-select: none;  /* Chrome all / Safari all */
+    -moz-user-select: none;     /* Firefox all */
+    -ms-user-select: none;      /* IE 10+ */
+    user-select: none;          /* Likely future */     
 }
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
