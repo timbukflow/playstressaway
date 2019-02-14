@@ -111,6 +111,10 @@ body {
     width: 50%;
     margin: auto;
     font-size: 30px;
+    
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
     hyphens: auto;
 }
 
