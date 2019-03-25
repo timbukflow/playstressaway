@@ -4,7 +4,7 @@ $(document).ready(function () {
     
 	$('#navburger').click(function(){
 		$(this).toggleClass('open');
-        $('.nav').toggleClass('on');
+        $('.nav').fadeToggle(1500);
         $('.nav ul').toggleClass('up');
         $('.nav li').toggleClass('open');
 	});
@@ -19,9 +19,15 @@ $(document).ready(function () {
     
     //show and hide
     
-    $('.wl').click(function() {
-        $(this).siblings('.wl-hidden').fadeIn();
-        $(this).css("display", "none")
-    });
+   $(".togglebox").hide();
+        $(".togglebutton").click(function(){
+            var x = $(this).prev(".togglebox").css("display");  
+            if(x=="block")
+                $(this).text("\53");
+            else
+                $(this).text("\u2013");
+            $(this).prev(".togglebox").slideToggle("slow");
+            return true;
+        });
     
 });

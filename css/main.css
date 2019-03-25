@@ -113,10 +113,9 @@ body {
 
 h1,h2,h3 {
     font-family: 'Signika', sans-serif;
-    color: #005A32;
+    color: #404040;
     font-weight: 300;
     text-align: center;
-    width: 50%;
     margin: 0 auto;
     hyphens: auto;
 }
@@ -126,10 +125,18 @@ h1 {
     font-size: 40px;
     font-weight: 400; 
 }
+
 h2 {
     font-size: 22px;
     padding: 10px;
 }
+
+h2.left {
+    font-size: 20px;
+    padding: 10px;
+    text-align: left;
+}
+
 h3 {
     padding-top: 70px;
     font-size: 30px;
@@ -140,9 +147,12 @@ a {
     color: #005A32;
     font-weight: 100;
     text-decoration: none;
-    font-size: 40px;
-    
+    font-size: 40px; 
 } 
+
+button:focus {
+    outline: none;
+}
 
 /*---------------------------------- 
 main-nav
@@ -153,7 +163,8 @@ main-nav
     -webkit-transition: 0.5s;
     transition: 0.5s;
     z-index: 100;
-    background-color: aliceblue;
+    background-color: #fff;
+    padding-bottom: 20px;
 }
 
 .nav-logo {
@@ -240,17 +251,11 @@ nav
     background-color: #fff;
     height: 100vh;
     width: 100%;
-    opacity: 0;
-    display: none;
     position: absolute;
     z-index: 10;
-    transition: 1.25s ease-in-out;
+    display: none;
 }
 
-.nav.on {
-    display: block;
-    opacity: 1;
-}
 
 .nav ul {
     position: absolute;
@@ -259,6 +264,7 @@ nav
     text-align: center;
     padding: 0;
     transition: 1.25s ease-in-out;
+    bottom: -30%;
 }
 
 .nav ul.up {
@@ -268,11 +274,32 @@ nav
 .nav li {
     list-style-type: none;
     transition: 1.25s ease-in-out;
-    transition-delay: 0.5s;
 }
 
 .nav li.open {
     padding: 20px;
+}
+
+
+/*---------------------------------- 
++ button
+-----------------------------------*/
+
+.togglecontainer {
+    text-align: center;
+    
+}
+
+.togglebutton {
+    border-radius: 100px;
+    border: 2px solid #404040;
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 500;
+    color: #404040;
 }
 
 
@@ -399,14 +426,24 @@ stress-container
 -----------------------------------*/
 
 #stresscontainer {
-    width: 100%;
+    width: 80%;
+    margin: 0 10%;
+}
+
+.column25 {
+    width: 25%;
+    float: left;
 }
 
 .imgcontainer {
     position: relative;
-    display: block;
-    overflow: hidden;
-    width: 60%;
+    width: 100%;
+    margin: 40px auto;
+}
+
+.imgcontainer25 {
+    position: relative;
+    width: 40%;
     margin: 40px auto;
 }
 
