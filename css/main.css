@@ -118,22 +118,22 @@ h1,h2,h3 {
     text-align: center;
     margin: 0 auto;
     hyphens: auto;
+    padding: 0 15%;
 }
 
 h1 {
-    padding: 10px;
-    font-size: 40px;
-    font-weight: 400; 
+    margin-top: 140px;
+    font-size: 36px;
+    font-weight: 3300; 
 }
 
 h2 {
     font-size: 22px;
-    padding: 10px;
 }
 
 h2.left {
     font-size: 20px;
-    padding: 10px;
+  
     text-align: left;
 }
 
@@ -268,7 +268,7 @@ nav
 }
 
 .nav ul.up {
-    bottom: 25%;
+    bottom: 10%;
 }
 
 .nav li {
@@ -277,7 +277,7 @@ nav
 }
 
 .nav li.open {
-    padding: 20px;
+    padding: 16px;
 }
 
 
@@ -292,14 +292,16 @@ nav
 
 .togglebutton {
     border-radius: 100px;
-    border: 2px solid #404040;
+    border: 1px solid #404040;
     margin: 10px;
-    width: 30px;
-    height: 30px;
+    width: 28px;
+    height: 28px;
     cursor: pointer;
     font-size: 20px;
     font-weight: 500;
     color: #404040;
+    padding-left: 8px;
+    line-height: 20px;
 }
 
 
@@ -425,20 +427,20 @@ start-container
 stress-container
 -----------------------------------*/
 
-#stresscontainer {
+#stresscontainer, #konzeptcontainer {
     width: 80%;
     margin: 0 10%;
 }
 
 .column25 {
-    width: 25%;
-    float: left;
+    width: 24%;
+    margin-top: 40px;
+    display: inline-block;
 }
 
 .imgcontainer {
     position: relative;
-    width: 100%;
-    margin: 40px auto;
+    margin: 40px 5%;
 }
 
 .imgcontainer25 {

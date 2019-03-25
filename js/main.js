@@ -4,10 +4,25 @@ $(document).ready(function () {
     
 	$('#navburger').click(function(){
 		$(this).toggleClass('open');
-        $('.nav').fadeToggle(1500);
+        $('.nav').fadeToggle(1000);
         $('.nav ul').toggleClass('up');
         $('.nav li').toggleClass('open');
 	});
+    
+    $(".bookmark").click(function(e) {
+	e.preventDefault();
+        
+        var AnchorOffset = 180;
+        var position = $($(this).attr("href")).offset().top - AnchorOffset;
+        
+        $('#navburger').removeClass('open');
+        $('.nav').fadeToggle(1000);
+        $('.nav ul').removeClass('up');
+        $('.nav li').removeClass('open');
+        $("body, html").animate({
+            scrollTop: position
+        }, 2000);
+    });
     
     //slider
     
