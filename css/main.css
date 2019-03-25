@@ -111,21 +111,28 @@ body {
   background: #fff;
 }
 
-h2,h3 {
+h1,h2,h3 {
     font-family: 'Signika', sans-serif;
     color: #005A32;
-    font-weight: 100;
+    font-weight: 300;
     text-align: center;
     width: 50%;
-    margin: auto;
-    padding-top: 70px;
-    font-size: 36px;
+    margin: 0 auto;
     hyphens: auto;
 }
 
+h1 {
+    padding: 10px;
+    font-size: 40px;
+    font-weight: 400; 
+}
 h2 {
     font-size: 22px;
-    padding-bottom: 100px;
+    padding: 10px;
+}
+h3 {
+    padding-top: 70px;
+    font-size: 30px;
 }
 
 a {
@@ -146,6 +153,7 @@ main-nav
     -webkit-transition: 0.5s;
     transition: 0.5s;
     z-index: 100;
+    background-color: aliceblue;
 }
 
 .nav-logo {
@@ -233,12 +241,14 @@ nav
     height: 100vh;
     width: 100%;
     opacity: 0;
+    display: none;
     position: absolute;
     z-index: 10;
     transition: 1.25s ease-in-out;
 }
 
 .nav.on {
+    display: block;
     opacity: 1;
 }
 
@@ -385,25 +395,33 @@ start-container
 } 
 
 /*---------------------------------- 
-main-container
+stress-container
 -----------------------------------*/
 
-.main-container {
-    height: 800px;
-    background-color: #ffffff;
-   
+#stresscontainer {
+    width: 100%;
 }
 
-.stress {
-    position:relative;
-    width: 80%;
-    margin: 0 10%;
+.imgcontainer {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    width: 60%;
+    margin: 40px auto;
 }
 
-.stress img {
-    position:absolute;
-    width: 100%
+.underimg {
+    position: relative;
+    width: 100%;
 }
+
+.overimg {
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    top: 0;
+}
+
 
 
 

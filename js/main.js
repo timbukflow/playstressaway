@@ -11,7 +11,7 @@ $(document).ready(function () {
     
     $(function () {
     setInterval(function () {
-        $('.top').fadeOut(1500).delay(5000).fadeIn(1500).delay(5000);
+        $('.overimg').fadeOut(1500).delay(5000).fadeIn(1500).delay(5000);
     }, 5000);
 });
     
