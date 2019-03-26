@@ -127,8 +127,13 @@ h1 {
     font-weight: 3300; 
 }
 
+h1.left {
+    margin-top: 40px;
+    text-align: left;
+}
+
 h2 {
-    font-size: 22px;
+    font-size: 20px;
 }
 
 h2.left {
@@ -442,6 +447,12 @@ stress-container
     float: left;
 }
 
+.column50 {
+    width: 50%;
+    margin-top: 40px;
+    float: left;
+}
+
 .imgcontainer {
     position: relative;
     margin: 40px 5%;
@@ -463,6 +474,17 @@ stress-container
     width: 100%;
     z-index: 10;
     top: 0;
+}
+
+/*---------------------------------- 
+svg animation
+-----------------------------------*/
+
+
+.st2:hover {
+    fill: #45da6d;
+    cursor: pointer;
+    transform: translateY(-10px);
 }
 
 /*---------------------------------- 
