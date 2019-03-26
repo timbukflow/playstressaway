@@ -9,11 +9,11 @@ $(document).ready(function () {
         $('.nav li').toggleClass('open');
 	});
     
-    $(".bookmark").click(function(e) {
+    $('.bookmark').click(function(e) {
 	e.preventDefault();
         
         var AnchorOffset = 180;
-        var position = $($(this).attr("href")).offset().top - AnchorOffset;
+        var position = $($(this).attr('href')).offset().top - AnchorOffset;
         
         $('#navburger').removeClass('open');
         $('.nav').fadeToggle(1000);
@@ -32,6 +32,7 @@ $(document).ready(function () {
     }, 5000);
     });
     
+    
     //show and hide
     
    $(".togglebox").hide();
@@ -44,5 +45,17 @@ $(document).ready(function () {
             $(this).prev(".togglebox").slideToggle("slow");
             return true;
         });
+    
+    
+    //Impressum
+
+    $('.togglelink').click(function() {
+        var totoggle = $(this).attr("data-toggle");
+        $(totoggle).toggle();
+        
+        if ($(totoggle).is(":visible")) {
+            $('html,body').animate({scrollTop:$(totoggle).offset().top}, 1000);
+        }     
+    });
     
 });

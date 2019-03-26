@@ -111,7 +111,7 @@ body {
   background: #fff;
 }
 
-h1,h2,h3 {
+h1, h2, h3, p {
     font-family: 'Signika', sans-serif;
     color: #404040;
     font-weight: 300;
@@ -133,7 +133,6 @@ h2 {
 
 h2.left {
     font-size: 20px;
-  
     text-align: left;
 }
 
@@ -149,6 +148,10 @@ a {
     text-decoration: none;
     font-size: 40px; 
 } 
+
+.contact a {
+    font-size: 22px;
+}
 
 button:focus {
     outline: none;
@@ -427,15 +430,16 @@ start-container
 stress-container
 -----------------------------------*/
 
-#stresscontainer, #konzeptcontainer {
+#stresscontainer, #konzeptcontainer, #footercontainer {
     width: 80%;
     margin: 0 10%;
+    overflow: hidden;
 }
 
 .column25 {
-    width: 24%;
+    width: 25%;
     margin-top: 40px;
-    display: inline-block;
+    float: left;
 }
 
 .imgcontainer {
@@ -461,7 +465,31 @@ stress-container
     top: 0;
 }
 
+/*---------------------------------- 
+footer impressum
+-----------------------------------*/
 
+.contact {
+    margin-top: 140px;
+}
+.impressum p {
+    margin-top: 20px;
+}
+
+.impressum {
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 10px;  
+    text-align: center;
+}
+
+#impressum {
+    display: none;
+}
+
+.togglelink {
+    cursor: pointer;
+}
 
 
 
