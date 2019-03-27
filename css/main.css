@@ -118,13 +118,14 @@ h1, h2, h3, p {
     text-align: center;
     margin: 0 auto;
     hyphens: auto;
-    padding: 0 15%;
+    padding: 0 8%;
+    letter-spacing: 0.3px;
 }
 
 h1 {
     margin-top: 140px;
-    font-size: 36px;
-    font-weight: 3300; 
+    font-size: 28px;
+    font-weight: 400; 
 }
 
 h1.left {
@@ -134,6 +135,7 @@ h1.left {
 
 h2 {
     font-size: 20px;
+    margin-top: 8px;
 }
 
 h2.left {
@@ -172,11 +174,10 @@ main-nav
     transition: 0.5s;
     z-index: 100;
     background-color: #fff;
-    padding-bottom: 20px;
 }
 
 .nav-logo {
-    padding-top: 40px;
+    padding-top: 30px;
     left: 0;
     right: 0;
     margin: auto;
@@ -193,7 +194,7 @@ nav
     float: right;
     width: 30px;
     height: 20px;
-    margin: 50px;
+    margin: 60px;
     position: relative;
     cursor: pointer;
     z-index: 11;
@@ -435,7 +436,7 @@ start-container
 stress-container
 -----------------------------------*/
 
-#stresscontainer, #konzeptcontainer, #footercontainer {
+#stresscontainer, #konzeptcontainer01, #konzeptcontainer02, #footercontainer {
     width: 80%;
     margin: 0 10%;
     overflow: hidden;
@@ -481,11 +482,6 @@ svg animation
 -----------------------------------*/
 
 
-.st2:hover {
-    fill: #45da6d;
-    cursor: pointer;
-    transform: translateY(-10px);
-}
 
 /*---------------------------------- 
 footer impressum
