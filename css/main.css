@@ -176,7 +176,7 @@ page fadein
 -----------------------------------*/
 
 .pagefadein {
-    height: 100vh;
+    height: 500%;
     width: 100%;
     background-color: #fff;
     position: absolute;
