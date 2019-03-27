@@ -113,34 +113,35 @@ body {
 
 h1, h2, h3, p {
     font-family: 'Signika', sans-serif;
-    color: #404040;
+    color: #575757;
     font-weight: 300;
     text-align: center;
     margin: 0 auto;
     hyphens: auto;
-    padding: 0 8%;
+    padding: 0 15%;
     letter-spacing: 0.3px;
 }
 
 h1 {
-    margin-top: 140px;
-    font-size: 28px;
-    font-weight: 400; 
+    color: #005A32;
+    margin-top: 250px;
+    font-size: 36px;
 }
 
 h1.left {
     margin-top: 40px;
-    text-align: left;
+    text-align: center;
 }
 
 h2 {
-    font-size: 20px;
+    color: #575757;
+    font-size: 22px;
     margin-top: 8px;
 }
 
 h2.left {
-    font-size: 20px;
-    text-align: left;
+    text-align: center;
+    margin-top: 20px;
 }
 
 h3 {
@@ -456,13 +457,19 @@ stress-container
 
 .imgcontainer {
     position: relative;
-    margin: 40px 5%;
+    margin: 70px 5%;
+}
+
+.imgcontainer50 {
+    position: relative;
+    width: 40%;
+    margin: 70px auto;
 }
 
 .imgcontainer25 {
     position: relative;
     width: 40%;
-    margin: 40px auto;
+    margin: 70px auto;
 }
 
 .underimg {
