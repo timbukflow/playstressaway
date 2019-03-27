@@ -12,7 +12,7 @@ $(document).ready(function () {
     $('.bookmark').click(function(e) {
 	e.preventDefault();
         
-        var AnchorOffset = 180;
+        var AnchorOffset = 20;
         var position = $($(this).attr('href')).offset().top - AnchorOffset;
         
         $('#navburger').removeClass('open');

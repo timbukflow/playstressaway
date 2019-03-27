@@ -155,7 +155,12 @@ a {
     font-weight: 100;
     text-decoration: none;
     font-size: 40px; 
-} 
+}
+
+#impressum a {
+    font-size: 16px;
+    color: #575757;
+}
 
 .contact a {
     font-size: 22px;
@@ -437,7 +442,7 @@ start-container
 stress-container
 -----------------------------------*/
 
-#stresscontainer, #konzeptcontainer01, #konzeptcontainer02, #footercontainer {
+#stresscontainer, #konzeptcontainer01, #konzeptcontainer02, #produktecontainer, #footercontainer {
     width: 80%;
     margin: 0 10%;
     overflow: hidden;
@@ -482,6 +487,7 @@ stress-container
     width: 100%;
     z-index: 10;
     top: 0;
+    left: 0;
 }
 
 /*---------------------------------- 
