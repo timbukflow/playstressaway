@@ -58,6 +58,8 @@ $(document).ready(function () {
         }     
     });
     
-
+        //Page Load
+    
+    $('.pagefadein').fadeOut(1000);
     
 });

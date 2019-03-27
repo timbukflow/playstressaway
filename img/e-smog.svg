@@ -3,7 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 500 800" style="enable-background:new 0 0 500 800;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.2;fill:#FF2832;}
+	.st0{opacity:0.2;fill:#FF2832;enable-background:new    ;}
 	.st1{fill:#FF2832;}
 	.st2{fill:#969696;}
 	.st3{fill:none;stroke:#969696;stroke-width:10;stroke-miterlimit:10;}
@@ -13,6 +13,5 @@
 <circle class="st0" cx="250" cy="300.3" r="250"/>
 <circle class="st1" cx="250" cy="300.3" r="35"/>
 <circle class="st2" cx="250" cy="300.3" r="15"/>
-<polyline class="st3" points="0,800 250,300 500,800 "/>
-<polyline class="st3" points="341.8,483.6 250,667.1 158.2,483.6 "/>
+<line class="st3" x1="250" y1="300.3" x2="250" y2="800"/>
 </svg>

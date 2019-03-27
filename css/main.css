@@ -115,6 +115,7 @@ h1, h2, h3, p {
     font-family: 'Signika', sans-serif;
     color: #575757;
     font-weight: 300;
+    font-weight: lighter;
     text-align: center;
     margin: 0 auto;
     hyphens: auto;
@@ -134,7 +135,7 @@ h1.left {
 }
 
 h2 {
-    color: #575757;
+    color: #005A32;
     font-size: 22px;
     margin-top: 8px;
 }
@@ -171,8 +172,23 @@ button:focus {
 }
 
 /*---------------------------------- 
+page fadein
+-----------------------------------*/
+
+.pagefadein {
+    height: 100vh;
+    width: 100%;
+    background-color: #fff;
+    position: absolute;
+    z-index: 99;
+}
+
+
+
+/*---------------------------------- 
 main-nav
 -----------------------------------*/
+
 #navcontainer {
     width: 100%;
     position: fixed;
@@ -302,21 +318,19 @@ nav
 
 .togglecontainer {
     text-align: center;
+        padding-top: 15px;
     
 }
 
 .togglebutton {
     border-radius: 100px;
-    border: 1px solid #404040;
+    border:6px solid #d1e6d8;
+    background-color: #009632;
     margin: 10px;
-    width: 28px;
-    height: 28px;
     cursor: pointer;
     font-size: 20px;
     font-weight: 500;
-    color: #404040;
-    padding-left: 8px;
-    line-height: 20px;
+    color: #fff;
 }
 
 
@@ -442,10 +456,14 @@ start-container
 stress-container
 -----------------------------------*/
 
-#stresscontainer, #konzeptcontainer01, #konzeptcontainer02, #produktecontainer, #footercontainer {
+#stresscontainer, #konzeptcontainer01, #konzeptcontainer02, .produktecontainer, #footercontainer {
     width: 80%;
     margin: 0 10%;
     overflow: hidden;
+}
+
+.top {
+    padding-top: 150px;
 }
 
 .column25 {
@@ -494,7 +512,14 @@ stress-container
 svg animation
 -----------------------------------*/
 
+#wasser, #neuro, #smog {
+    transition: all 0.5s; 
+    transform-origin: 50%;
+}
 
+#wasser:hover, #neuro:hover, #smog:hover {
+    transform: scale(0.9);
+}
 
 /*---------------------------------- 
 footer impressum
