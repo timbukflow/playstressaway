@@ -118,7 +118,6 @@ h1, h2, h3, p {
     font-weight: lighter;
     text-align: center;
     margin: 0 auto;
-    hyphens: auto;
     padding: 0 15%;
     letter-spacing: 0.3px;
 }
@@ -456,7 +455,7 @@ start-container
 stress-container
 -----------------------------------*/
 
-#stresscontainer, #konzeptcontainer01, #konzeptcontainer02, .produktecontainer, #footercontainer {
+#stress, #konzept, #konzept02, .produkte, #footer {
     width: 80%;
     margin: 0 10%;
     overflow: hidden;
