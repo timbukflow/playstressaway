@@ -24,6 +24,20 @@ $(document).ready(function () {
         }, 2000);
     });
     
+    //Sroll resizing Navigation
+    
+    $(document).on('scroll', function () {
+        if ($(document).scrollTop() > 10) {
+        $('.nav-logo').css('paddingTop', '20px');
+        $('.nav-logo').css('width', '150px');
+        $('#navburger').css('margin', '45px 50px 40px 40px');
+    }   else {
+        $('.nav-logo').css('paddingTop', '30px');
+        $('.nav-logo').css('width', '180px');
+        $('#navburger').css('margin', '55px 50px 50px 50px');
+    }
+    });
+    
     //slider
     
     $(function () {

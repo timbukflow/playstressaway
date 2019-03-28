@@ -124,7 +124,7 @@ h1, h2, h3, p {
 
 h1 {
     color: #005A32;
-    margin-top: 250px;
+    margin-top: 200px;
     font-size: 36px;
 }
 
@@ -134,14 +134,16 @@ h1.left {
 }
 
 h2 {
-    color: #005A32;
-    font-size: 22px;
+    color: #3c3c3c;
+    font-size: 21px;
     margin-top: 8px;
 }
 
 h2.left {
     text-align: center;
     margin-top: 20px;
+    padding: 0 8%;
+    word-break:keep-all;
 }
 
 h3 {
@@ -182,8 +184,6 @@ page fadein
     z-index: 99;
 }
 
-
-
 /*---------------------------------- 
 main-nav
 -----------------------------------*/
@@ -191,8 +191,6 @@ main-nav
 #navcontainer {
     width: 100%;
     position: fixed;
-    -webkit-transition: 0.5s;
-    transition: 0.5s;
     z-index: 100;
     background-color: #fff;
 }
@@ -205,6 +203,7 @@ main-nav
     position: absolute;
     width: 180px;
     z-index: 12;
+    transition: ease 1s ;
 }
 
 /*---------------------------------- 
@@ -213,12 +212,13 @@ nav
 
 #navburger {
     float: right;
-    width: 30px;
-    height: 20px;
-    margin: 60px;
+    width: 25px;
+    height: 17px;
+    margin: 55px 50px 50px 50px;
     position: relative;
     cursor: pointer;
     z-index: 11;
+    transition: ease 1s;
 }
 
 #navburger span {
@@ -244,15 +244,15 @@ nav
 }
 
 #navburger span:nth-child(2),#navburger span:nth-child(3) {
-    top: 8px;
+    top: 7px;
 }
 
 #navburger span:nth-child(4) {
-    top: 16px;
+    top: 14px;
 }
 
 #navburger.open span:nth-child(1) {
-    top: 8px;
+    top: 7px;
     width: 0%;
     left: 50%;
 }
@@ -317,7 +317,7 @@ nav
 
 .togglecontainer {
     text-align: center;
-        padding-top: 15px;
+    padding-top: 15px;
     
 }
 
@@ -334,7 +334,7 @@ nav
 
 
 /*---------------------------------- 
-start-container
+    start-container
 -----------------------------------*/
 
 .start-container {
@@ -359,16 +359,20 @@ start-container
     position: absolute;
 }
 
+/*---------------------------------- 
+    atmung
+-----------------------------------*/
+
 .ein {
     color: #005a32;
     animation: ein 8s ease-in-out infinite;
 }
 
 @keyframes ein {
-    0%      { color: #fff; }
-    30%      { color: #005a32; }
-    50%      { color: #fff; }
-    100%    { color: #fff; }
+    0%   { color: #fff; }
+    30%  { color: #005a32; }
+    50%  { color: #fff; }
+    100% { color: #fff; }
 }
 
 .aus {
@@ -377,10 +381,10 @@ start-container
 }
 
 @keyframes aus {
-    0%      { color: #fff; }
-    30%    { color: #fff; }
-    50%    { color: #005a32; }
-    100%    { color: #fff; }
+    0%   { color: #fff; }
+    30%  { color: #fff; }
+    50%  { color: #005a32; }
+    100% { color: #fff; }
     
 }
 
@@ -421,65 +425,64 @@ start-container
   animation: circle-7 8s ease-in-out infinite;
 }
 
-
 @keyframes circle-1 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(-100px, 0px); }
     35%  { transform: translate(-100px, 0px); }
-    95%   { transform: translate(0, 0) scale(0.1); }
-    100%   { transform: translate(0, 0) scale(0.1); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
 }
 
 @keyframes circle-2 {
-    0%    { transform: translate(0, 0) scale(0.1); }
+    0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(-50px, -86px); }
     35%  { transform: translate(-50px, -86px); }
-    95%    { transform: translate(0, 0) scale(0.1); }
-    100%    { transform: translate(0, 0) scale(0.1); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
 }
 
 @keyframes circle-3 {
-    0%    { transform: translate(0, 0) scale(0.1); }
+    0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(50px, -86px); }
     35%  { transform: translate(50px, -86px); }
-    95%    { transform: translate(0, 0) scale(0.1); }
-    100%    { transform: translate(0, 0) scale(0.1); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
 }
 
 @keyframes circle-4 {
-    0%    { transform: translate(0, 0) scale(0.1); }
+    0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(100px, 0px); }
     35%  { transform: translate(100px, 0px); }
-    95%    { transform: translate(0, 0) scale(0.1); }
-    100%    { transform: translate(0, 0) scale(0.1); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
 }
 
 @keyframes circle-5 {
-    0%    { transform: translate(0, 0) scale(0.1); }
+    0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(50px, 86px); }
     35%  { transform: translate(50px, 86px); }
-    95%    { transform: translate(0, 0) scale(0.1); }
-    100%    { transform: translate(0, 0) scale(0.1); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
 }
 
 @keyframes circle-6 {
-    0%      { transform: translate(0, 0) scale(0.1); }
-    30%     { transform: translate(-50px, 86px); }
-    35%     { transform: translate(-50px, 86px); }
-    95%     { transform: translate(0, 0) scale(0.1); }
-    100%    { transform: translate(0, 0) scale(0.1); }
+    0%   { transform: translate(0, 0) scale(0.1); }
+    30%  { transform: translate(-50px, 86px); }
+    35%  { transform: translate(-50px, 86px); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
 } 
 
 @keyframes circle-7 {
-    0%    { transform: translate(0, 0) scale(0.15); }
+    0%   { transform: translate(0, 0) scale(0.15); }
     30%  { transform: translate(0px, 0px); }
     35%  { transform: translate(0px, 0px); }
-    95%    { transform: translate(0, 0) scale(0.15); }
-    100%    { transform: translate(0, 0) scale(0.15); }
+    95%  { transform: translate(0, 0) scale(0.15); }
+    100% { transform: translate(0, 0) scale(0.15); }
 } 
 
 /*---------------------------------- 
-stress-container
+    container
 -----------------------------------*/
 
 #stress, #konzept, #konzept02, .produkte, #footer {
@@ -498,6 +501,11 @@ stress-container
     float: left;
 }
 
+.column33 {
+    width: 33%;
+    float: left;
+}
+
 .column50 {
     width: 50%;
     margin-top: 40px;
@@ -506,7 +514,7 @@ stress-container
 
 .imgcontainer {
     position: relative;
-    margin: 70px 5%;
+    margin: 50px 10% 20px 10%;
 }
 
 .imgcontainer50 {
@@ -519,6 +527,10 @@ stress-container
     position: relative;
     width: 40%;
     margin: 70px auto;
+}
+
+.questioncontainer{
+    overflow: hidden;
 }
 
 .underimg {
