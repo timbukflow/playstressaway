@@ -328,8 +328,10 @@ nav
     margin: 10px;
     cursor: pointer;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: bold;
     color: #fff;
+    width: 40px;
+    height: 40px;
 }
 
 
@@ -485,7 +487,7 @@ nav
     container
 -----------------------------------*/
 
-#stress, #konzept, #konzept02, .produkte, #footer {
+#stress, #konzept, #loesung, .produkte, #footer {
     width: 80%;
     margin: 0 10%;
     overflow: hidden;
@@ -550,13 +552,12 @@ nav
 svg animation
 -----------------------------------*/
 
-#wasser, #neuro, #smog {
-    transition: all 0.5s; 
-    transform-origin: 50%;
+.hoverimg {
+    transition: ease 0.5s;
 }
 
-#wasser:hover, #neuro:hover, #smog:hover {
-    transform: scale(0.9);
+.hoverimg:hover {
+    transform: scale(1.1);
 }
 
 /*---------------------------------- 
