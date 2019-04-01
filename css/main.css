@@ -893,12 +893,16 @@ responsive ipad
     width: 50%;
     }
     
+    .column25cont {
+        overflow: hidden;
+    }
+    
     .imgcontainer50 {
     width: 50%;
     }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 400px) {
     
     .nav-logo {
     padding-top: 20px !important;
