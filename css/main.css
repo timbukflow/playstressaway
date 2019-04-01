@@ -211,8 +211,8 @@ main-nav
     transition: ease 1s;
 }
 
-#navcontainer img {
-    width: 180px;
+.logo {
+    width: 100%; 
 }
 
 /*---------------------------------- 
