@@ -335,10 +335,10 @@ nav
 }
 
 .togglebutton {
-    /*border-radius: 100px;*/
+    border-radius: 100px;
     border:6px solid #d1e6d8;
     background-color: #009632;
-    margin: 10px;
+    /*margin: 10px;*/
     cursor: pointer;
     font-size: 20px;
     font-weight: bold;
