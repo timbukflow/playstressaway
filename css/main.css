@@ -211,7 +211,7 @@ main-nav
     transition: ease 1s;
 }
 
-.navcontainer img {
+#navcontainer img {
     width: 180px;
 }
 
