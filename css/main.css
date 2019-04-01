@@ -902,7 +902,7 @@ responsive ipad
     }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 465px) {
     
     .nav-logo {
     padding-top: 20px !important;
