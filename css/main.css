@@ -820,52 +820,58 @@ nav
     margin-top: 10px;
 }
 
-table {
+.table {
     color: #005A32;
     font-size: 21px;
-    border-collapse: collapse;
     width: 100%;
     margin-top: 100px;
 }
 
-td, th {
+.tr {
+    width: 100%;
+    display: inline-block;
     border: 1px solid #005A32;
     border-right: none;
     border-left: none;
-    text-align: middle;
-    padding: 15px 10px;
-    width: 12%;
 }
 
-th {
+.td, .th {
+    font-family: 'Signika', sans-serif;
+    text-align: center;
+    padding: 15px 10px;
+    width: 12%;
+    float: left;
+}
+
+.th {
     font-size: 16px;
     font-weight: 300;
 }
 
-td span {
+.td span {
     font-size: 21px;
     display: inline-block;
 }
 
-td span.green {
+.td span.green {
     color: green;
 }
 
-td span.yellow {
+.td span.yellow {
     color: #f7c45a;
 }
 
-td span.red {
+.td span.red {
     color: #e1614a;
 }
 
-th.first,
-td.first {
+.th.first,
+.td.first {
     width: 52%;
     text-align: left;
 }
 
-td.result span,
+.td .result span,
 .result {
     font-size: 60px;
     color: #005A32;
