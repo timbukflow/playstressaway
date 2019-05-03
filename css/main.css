@@ -108,10 +108,10 @@ textarea {
 }
 
 body {
-  background: #fff;
+  background: #ffffff;
 }
 
-h1, h2, h3, p {
+h1, h2, h3, p, table {
     font-family: 'Signika', sans-serif;
     color: #575757;
     font-weight: 300;
@@ -290,7 +290,7 @@ nav
 }
 
 .nav {
-    background-color: #fff;
+    background-color: #d5e7ff;
     height: 100vh;
     width: 100%;
     position: absolute;
@@ -313,7 +313,7 @@ nav
 }
 
 .nav ul.up {
-    bottom: 10%;
+    bottom: 20%;
 }
 
 .nav li {
@@ -324,8 +324,20 @@ nav
     transition: 1.25s ease-in-out;
 }
 
+.nav a {
+    -webkit-transition: 0.25s ease-in-out;
+    -moz-transition: 0.25s ease-in-out;
+    -o-transition: 0.25s ease-in-out;
+    transition: 0.25s ease-in-out;
+}
+
+
 .nav li.open {
     padding: 16px;
+}
+
+.nav a:hover {
+    font-size: 50px
 }
 
 
@@ -733,9 +745,8 @@ nav
 }
 
 .ktop {
-
     padding-top: 200px;
-}
+    }
 
 .column25 {
     width: 25%;
@@ -787,6 +798,172 @@ nav
     top: 0;
     left: 0;
 }
+
+/*---------------------------------- 
+    stresstest
+-----------------------------------*/
+
+.imgcontainerstress {
+    position: relative;
+    width: 35%;
+    margin: 70px auto;
+    margin-top: 40px;
+}
+
+.kontakt h1 {
+    margin: 0;
+}
+
+.kontakt p {
+    text-align: left;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+table {
+    color: #005A32;
+    font-size: 21px;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 100px;
+}
+
+td, th {
+    border: 1px solid #005A32;
+    border-right: none;
+    border-left: none;
+    text-align: middle;
+    padding: 15px 10px;
+    width: 12%;
+}
+
+th {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+td span {
+    font-size: 21px;
+    display: inline-block;
+}
+
+td span.green {
+    color: green;
+}
+
+td span.yellow {
+    color: #f7c45a;
+}
+
+td span.red {
+    color: #e1614a;
+}
+
+th.first,
+td.first {
+    width: 52%;
+    text-align: left;
+}
+
+td.result span,
+.result {
+    font-size: 60px;
+    color: #005A32;
+}
+
+.stressimg {
+    width: 36%;
+}
+
+
+#stresstest a {
+    display: block;
+    color: #fff;
+    width: 100%;
+    font-size: 36px;
+    text-align: center;
+    background-color: #005A32;
+    padding: 20px;
+    margin-top: 150px;
+    -webkit-transition: ease 0.5s;
+    -moz-transition: ease 0.5s;
+    -o-transition: ease 0.5s;
+    transition: ease 0.5s;
+}
+
+#stresstest a:hover {
+    border-radius: 100% 100% 0 0;
+}
+
+
+
+
+/*---------------------------------- 
+    radiobutton
+-----------------------------------*/
+
+/* The container */
+.container {
+    display: inline-block;
+    position: relative;
+    padding-left: 28px;
+    margin-bottom: 18px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Hide the browser's default radio button */
+.container input {
+    display: none;
+}
+
+/* Create a custom radio button */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: #005A32;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.container .checkmark:after {
+ 	top: 9px;
+	left: 9px;
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background: white;
+}
+
 
 /*---------------------------------- 
 svg animation
@@ -1190,10 +1367,8 @@ responsive ipad
     
     .top {
     padding-top: 70px;
+    }
 }
-}
-
-
 
 
 

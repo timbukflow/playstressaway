@@ -76,5 +76,22 @@ $(document).ready(function () {
 ///////////////// Page Load ///////////////// 
     
     $('.pagefadein').fadeOut(1000);
+
+    
+///////////////// Check Box /////////////////     
+     
+    $(".stresstest").click(function(event) {
+        var total = 0;
+        $(".stresstest:checked").each(function() {
+            total += parseInt($(this).val());
+        });
+        
+        if (total == 0) {
+            $('#amount').text('0');
+        } else {                
+            $('#amount').text(total);
+        }
+    });
     
 });
+
