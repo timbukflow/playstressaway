@@ -105,6 +105,7 @@ textarea {
 
 * {
     box-sizing: border-box;
+    hyphens: auto;
 }
 
 body {
@@ -157,7 +158,8 @@ a {
     color: #005A32;
     font-weight: 100;
     text-decoration: none;
-    font-size: 40px; 
+    font-size: 40px;
+    display: block;
 }
 
 #impressum a {
@@ -290,7 +292,7 @@ nav
 }
 
 .nav {
-    background-color: #d5e7ff;
+    background-color: #e0edff;
     height: 100vh;
     width: 100%;
     position: absolute;
@@ -331,7 +333,6 @@ nav
     transition: 0.25s ease-in-out;
 }
 
-
 .nav li.open {
     padding: 16px;
 }
@@ -340,15 +341,13 @@ nav
     font-size: 50px
 }
 
-
 /*---------------------------------- 
 + button
 -----------------------------------*/
 
 .togglecontainer {
     text-align: center;
-    padding-top: 15px;
-    
+    padding-top: 15px;  
 }
 
 .togglebutton {
@@ -364,7 +363,6 @@ nav
     width: 40px;
     height: 40px;
 }
-
 
 /*---------------------------------- 
     start-container
@@ -746,7 +744,7 @@ nav
 
 .ktop {
     padding-top: 200px;
-    }
+}
 
 .column25 {
     width: 25%;
@@ -892,7 +890,6 @@ span.respcheck {
     width: 36%;
 }
 
-
 #stresstest a {
     display: block;
     color: #fff;
@@ -912,14 +909,10 @@ span.respcheck {
     border-radius: 100% 100% 0 0;
 }
 
-
-
-
 /*---------------------------------- 
     radiobutton
 -----------------------------------*/
 
-/* The container */
 .container {
     position: relative;
     display: inline-block;
@@ -931,12 +924,10 @@ span.respcheck {
     user-select: none;
 }
 
-/* Hide the browser's default radio button */
 .container input {
     display: none;
 }
 
-/* Create a custom radio button */
 .checkmark {
     position: relative;
     height: 25px;
@@ -946,29 +937,24 @@ span.respcheck {
     border-radius: 50%;
 }
 
-/* On mouse-over, add a grey background color */
 .container:hover input ~ .checkmark {
   background-color: #ccc;
 }
 
-/* When the radio button is checked, add a blue background */
 .container input:checked ~ .checkmark {
   background-color: #005A32;
 }
 
-/* Create the indicator (the dot/circle - hidden when not checked) */
 .checkmark:after {
   content: "";
   position: absolute;
   display: none;
 }
 
-/* Show the indicator (dot/circle) when checked */
 .container input:checked ~ .checkmark:after {
   display: block;
 }
 
-/* Style the indicator (dot/circle) */
 .container .checkmark:after {
  	top: 9px;
 	left: 9px;
@@ -978,9 +964,8 @@ span.respcheck {
 	background: white;
 }
 
-
 /*---------------------------------- 
-svg animation
+    svg animation
 -----------------------------------*/
 
 .hoverimg {
@@ -999,7 +984,7 @@ svg animation
 }
 
 /*---------------------------------- 
-footer impressum
+    footer impressum
 -----------------------------------*/
 
 .contact {
@@ -1030,52 +1015,21 @@ footer impressum
 
 
 /*---------------------------------- 
-responsive ipad
+    responsive
 -----------------------------------*/
-
 
 
 @media only screen and (max-width: 1024px) {
     
-    h1, h2, h3, p {
-    padding: 0 10%;
-    }
-    
-    h1 {
-    font-size: 32px; 
-    margin-top: 150px;
-    }
-    
-    h2 {
-    font-size: 18px;
-    }
-
-    h2.left {
-    margin-top: 20px;
-    padding: 0 6%;
-    hyphens: auto;
-    }
-    
-    a {
-    font-size: 32px;
-    }
-    
-    .imgcontainer {
-    margin: 45px 7% 15px 7%;
-    }
-    
-    .column25 {
-    width: 25%;
-    }
-    
-    .imgcontainer25 {
-    margin: 36px auto;
-    }
-    
-    .imgcontainer50 {
-    width: 40%;
-    margin: 36px auto;
-    }
+    h1, h2, h3, p {padding: 0 10%;}
+    h1 {font-size: 32px; margin-top: 150px;}
+    h2 {font-size: 18px;}
+    h2.left {margin-top: 20px; padding: 0 6%; hyphens: auto;}
+    a {font-size: 32px;}
+    .imgcontainer {margin: 45px 7% 15px 7%;}
+    .column25 {width: 25%;}
+    .imgcontainer25 {margin: 36px auto;}
+    .imgcontainer50 {width: 40%;margin: 36px auto;}
 }
 
 @media only screen and (max-width: 768px) {
@@ -1089,8 +1043,7 @@ responsive ipad
     .td {width: 25%;}
     .td.firstg {width: 75%}
     span.respcheck {display: block;}
-    .result {font-size: 50px;}
-    
+    .result {font-size: 50px;}   
 }
 
 @media only screen and (max-width: 465px) {
@@ -1395,8 +1348,6 @@ responsive ipad
         margin-top: 80px;
     }
 }
-
-
 
  /* ==========================================================================
    Helper classes
