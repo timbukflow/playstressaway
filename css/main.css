@@ -825,14 +825,14 @@ nav
     font-size: 21px;
     width: 100%;
     margin-top: 100px;
+    display: inline-block;
 }
 
 .tr {
     width: 100%;
     display: inline-block;
-    border: 1px solid #005A32;
-    border-right: none;
-    border-left: none;
+    border-bottom: 1px solid #005A32;
+    float: left;
 }
 
 .td, .th {
@@ -850,31 +850,42 @@ nav
 
 .td span {
     font-size: 21px;
+    font-weight: 300;
     display: inline-block;
 }
 
-.td span.green {
-    color: green;
-}
-
-.td span.yellow {
+.th span.yellow {
     color: #f7c45a;
 }
 
-.td span.red {
+.th span.red {
     color: #e1614a;
 }
 
-.th.first,
-.td.first {
+.first {
     width: 52%;
     text-align: left;
 }
 
-.td .result span,
+.firstg {
+    width: 88%;
+    text-align: left;
+}
+
+.last {
+    width: 100%;
+    text-align: left;
+}
+
+.result span,
 .result {
     font-size: 60px;
     color: #005A32;
+}
+
+span.respcheck {
+    display: none;
+    font-size: 16px;
 }
 
 .stressimg {
@@ -910,10 +921,8 @@ nav
 
 /* The container */
 .container {
-    display: inline-block;
     position: relative;
-    padding-left: 28px;
-    margin-bottom: 18px;
+    display: inline-block;
     cursor: pointer;
     font-size: 22px;
     -webkit-user-select: none;
@@ -929,13 +938,12 @@ nav
 
 /* Create a custom radio button */
 .checkmark {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 25px;
-  width: 25px;
-  background-color: #eee;
-  border-radius: 50%;
+    position: relative;
+    height: 25px;
+    width: 25px;
+    margin: 10px;
+    background-color: #eee;
+    border-radius: 50%;
 }
 
 /* On mouse-over, add a grey background color */
@@ -1072,17 +1080,17 @@ responsive ipad
 
 @media only screen and (max-width: 768px) {
     
-    .column25 {
-    width: 50%;
-    }
+    .column25 {width: 50%;}
+    .column25cont {overflow: hidden;}
+    .imgcontainer50,
+    .imgcontainerstress {width: 50%;}
+    .respout {display: none;}
+    .th.first, .td.first {width: 100%;}
+    .td {width: 25%;}
+    .td.firstg {width: 75%}
+    span.respcheck {display: block;}
+    .result {font-size: 50px;}
     
-    .column25cont {
-        overflow: hidden;
-    }
-    
-    .imgcontainer50 {
-    width: 50%;
-    }
 }
 
 @media only screen and (max-width: 465px) {
@@ -1372,7 +1380,19 @@ responsive ipad
     }
     
     .top {
-    padding-top: 70px;
+    padding-top: 80px;
+    }
+    
+    #stresstest a {
+        font-size: 24px;
+        margin-top: 80px;
+    }
+    .imgcontainerstress {
+        width: 70%;
+        margin: 60px auto;
+    }
+    .table {
+        margin-top: 80px;
     }
 }
 
