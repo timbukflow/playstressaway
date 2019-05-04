@@ -153,6 +153,10 @@ h3 {
     font-size: 30px;
 }
 
+h3 span {
+    display: block;
+}
+
 a {
     font-family: 'Signika', sans-serif;
     color: #005A32;
@@ -292,7 +296,7 @@ nav
 }
 
 .nav {
-    background-color: #e0edff;
+    background-color: #e4eeff;
     height: 100vh;
     width: 100%;
     position: absolute;
@@ -386,7 +390,7 @@ nav
 .header-container {
     left: 0;
     right: 0;
-    bottom: 10%;
+    bottom: 5%;
     position: absolute;
 }
 
@@ -906,7 +910,7 @@ span.respcheck {
 }
 
 #stresstest a:hover {
-    border-radius: 100% 100% 0 0;
+    border-radius: 40% 40% 0 0;
 }
 
 /*---------------------------------- 
