@@ -898,16 +898,16 @@ span.respcheck {
     display: block;
     color: #fff;
     width: 100%;
-    font-size: 32px;
+    font-size: 30px;
     text-align: center;
     background-color: #005A32;
-    padding: 80px;
+    padding: 50px;
     margin-top: 150px;
     -webkit-transition: ease 0.5s;
     -moz-transition: ease 0.5s;
     -o-transition: ease 0.5s;
     transition: ease 0.5s;
-    border-radius: 50% 50% 0 0;
+    border-radius: 40% 40% 0 0;
 }
 
 #stresstest a:hover {
