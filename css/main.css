@@ -1342,8 +1342,10 @@ span.respcheck {
     }
     
     #stresstest a {
-        font-size: 24px;
+            font-size: 24px;
         margin-top: 80px;
+        border-radius: 20% 20% 0 0;
+        padding: 30px;
     }
     .imgcontainerstress {
         width: 70%;
