@@ -1048,7 +1048,10 @@ span.respcheck {
     .td {width: 25%;}
     .td.firstg {width: 75%}
     span.respcheck {display: block;}
-    .result {font-size: 50px;}   
+    .result {font-size: 50px;}
+    .kontakt a {font-size: 20px;}
+    .kontakt h1 {font-size: 20px;}
+    
 }
 
 @media only screen and (max-width: 465px) {
@@ -1302,14 +1305,6 @@ span.respcheck {
     
     #impressum a {
     font-size: 14px;
-    }
-    
-    .kontakt a {
-    font-size: 20px;
-    }
-    
-    .kontakt h1 {
-    font-size: 20px;
     }
     
     #stress, #konzept, #loesung, .produkte, .kontakt, #footer {
