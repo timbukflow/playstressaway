@@ -31,10 +31,36 @@
     
     
     <section id="stress">
-        <div class="wave"><img src="img/pltest.svg" alt="test" /></div>
+        <div class="wave"><img src="img/pltest.svg" alt="test" width="101%" /></div>
         <article class="articlecontainer">
             <div class="container50">
-                <h1>Aktivierung</h1>
+                <h1>Job Stress Index</h1>
+                <p class="lauftext">
+                    Die aktuellsten neurobiologischen Fakten zum Stresssystem werden erarbeitet und die Wirkung auf die Arbeitsumgebung von den teilnehmenden Vorgesetzten und Mitarbeitenden verstanden. Die wirksamen &Uuml;bungen werden vermittelt und vor Ort gemeinsam trainiert.
+                </p>
+                <div class="togglecontainer">
+                    <div class="togglebox">
+                      <div class="content">
+                        <p class="lauftext">
+                            Die aktuellsten neurobiologischen Fakten zum Stresssystem werden erarbeitet und die Wirkung auf die Arbeitsumgebung von den teilnehmenden Vorgesetzten und Mitarbeitenden verstanden. Die wirksamen &Uuml;bungen werden vermittelt und vor Ort gemeinsam trainiert.
+                        </p>
+                      </div>
+                    </div>
+                    <button class="togglebutton">&#43;</button>
+                </div>
+            </div>
+            <figure class="container50">
+                <img class="" src="img/play-stress-away-job-stress-index-schweiz.svg" alt="play-stress-away-job-stress-index-schweiz" title="play stress" width="100%"/>
+                <figcaption>Job-Stress-Index Schweiz 2018</figcaption>
+            </figure>
+        </article>
+        <article class="articlecontainer">
+            <figure class="container50">
+                <img class="" src="img/play-stress-away-job-stress-index-schweiz.svg" alt="play-stress-away-job-stress-index-schweiz" title="play stress" width="100%"/>
+                <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+            </figure>
+            <div class="container50">
+                <h1>Stressoren</h1>
                 <p class="lauftext">
                     Die aktuellsten neurobiologischen Fakten zum Stresssystem werden erarbeitet und die Wirkung auf die Arbeitsumgebung von den teilnehmenden Vorgesetzten und Mitarbeitenden verstanden. Die wirksamen &Uuml;bungen werden vermittelt und vor Ort gemeinsam trainiert.
                 </p>
@@ -49,10 +75,6 @@
                     <button class="togglebutton">&#43;</button>
                 </div>
             </div>
-            <figure class="container50">
-                <img class="" src="img/play-stress-away-job-stress-index-schweiz.svg" alt="play-stress-away-job-stress-index-schweiz" title="play stress" width="100%"/>
-                <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-            </figure>
         </article>
         
         

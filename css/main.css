@@ -118,13 +118,14 @@ body {
   background: #ffffff;
 }
 
-h1, h2, h3, p, table {
+h1, h2, h3, p, table, figcaption {
     font-family: 'Signika', sans-serif;
     color: #575757;
     font-weight: 300;
     text-align: left;
     padding: 20px;
     margin: 0;
+    font-size: 20px;
     letter-spacing: 0.3px;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -132,6 +133,11 @@ h1, h2, h3, p, table {
 }
 
 p {padding-top: 0px;}
+
+figcaption {
+    color: #888888;
+    font-size: 14px;
+}
 
 h1 {
     color: #575757;
@@ -359,14 +365,28 @@ nav
 -----------------------------------*/
 
 .togglecontainer {
-    margin: 20px;
 }
 
 .togglebutton {
     border-radius: 100px;
     border: 1px solid #575757;
     background: none;
-    margin: 10px;
+    margin-left: 20px;
+    padding: 0;
+    line-height: 0;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 300;
+    color: #575757;
+    width: 30px;
+    height: 30px;
+}
+
+.togglebutton:hover {
+    border-radius: 100px;
+    border: 1px solid #575757;
+    background: none;
+    margin-left: 20px;
     padding: 0;
     line-height: 0;
     cursor: pointer;
@@ -750,10 +770,9 @@ section {
 }
 
 .articlecontainer {
+    overflow: hidden;
     max-width: 1440px;
     margin: 0 auto;
-    display: inline-block;
-    margin-top: 110px;
 }
 
 article .container50 {
@@ -762,9 +781,20 @@ article .container50 {
     margin: 4%;
 }
 
+figcaption {
+    margin-top: 20px;
+}
 
-#stress {
-    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 75%, rgba(216,255,240,1) 100%);
+
+.wave {
+    position: relative;
+    height: 380px;
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(220,232,233,1) 100%);
+}
+.wave img {
+    position: absolute;
+    top: -2px;
 }
 
 #stress, #konzept, #loesung, .produkte, .kontakt, #footer {
