@@ -1,40 +1,11 @@
-<!doctype html>
-<html class="no-js" lang="de-CH">
-
-<head>
-   <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>playstressaway</title>
-    <meta name="robots" content="all">
-    <meta name="robots" content="index, follow">
-    <meta name="author" content="play stress away gmbh">
-    
-    <meta name="google-site-verification" content="VtYYXQk1_zESEOygnvAPPyfo_84PJzyJUegJvUIPjj8" />
-    
-    <meta http-equiv="Cache-Control" content="no-cache">
-    <meta property="og:type" content="business.business">
-    <meta property="og:title" content="playstressaway">
-    <meta property="og:url" content="http://playstressaway.ch">
-    <meta property="business:contact_data:street_address" content="Schaffhauserstrasse 115">
-    <meta property="business:contact_data:locality" content="Kloten">
-    <meta property="business:contact_data:region" content="8302">
-    <meta property="business:contact_data:postal_code" content="8302">
-    <meta property="business:contact_data:country_name" content="Switzerland">
-    
-    <meta name="description" content="Wirkungsvolle Prävention und Aktivierung dank neurobiologischen Fakten. Mit dem play stress away® Konzept reduzieren Sie in Ihrem Unternehmen die Fehlzeiten und Produktionsausfälle, sparen Kosten und ihre vitalisierten Mitarbeitenden mit aktivierten Hirnnutzungsfähigkeiten generieren viele weitere Kunden, die Sie weiterempfehlen.">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#005a32">
-    <meta name="msapplication-TileColor" content="#fbfbfb">
-    <meta name="theme-color" content="#ffffff">
-
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/main.css">
-    <link href="https://fonts.googleapis.com/css?family=Signika:300,400" rel="stylesheet">
+<!DOCTYPE html>
+<!--[if IE 7]>	 <html class="no-js lt-ie9 lt-ie8" lang="de"><![endif]-->
+<!--[if IE 8]>	 <html class="no-js lt-ie9" lang="de"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="de"><!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
+<title>playstressaway | Kontakt</title>
+<meta name="description" content="playstressaway | Kontakt">
+<?php include 'head.php'; ?>
 </head>
 
 <body>

@@ -1,75 +1,17 @@
-<!doctype html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="de-CH">
-
-<head>
-   <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>playstressaway</title>
-    <meta name="robots" content="all">
-    <meta name="robots" content="index, follow">
-    <meta name="author" content="play stress away gmbh">
-    
-    <meta name="google-site-verification" content="VtYYXQk1_zESEOygnvAPPyfo_84PJzyJUegJvUIPjj8" />
-    
-    <meta http-equiv="cache-control" content="max-age=0" />
-    <meta http-equiv="cache-control" content="no-cache" />
-    <meta http-equiv="expires" content="0" />
-    
-    <meta property="og:type" content="business.business">
-    <meta property="og:title" content="playstressaway">
-    <meta property="og:url" content="http://playstressaway.ch">
-    <meta property="business:contact_data:street_address" content="Schaffhauserstrasse 115">
-    <meta property="business:contact_data:locality" content="Kloten">
-    <meta property="business:contact_data:region" content="8302">
-    <meta property="business:contact_data:postal_code" content="8302">
-    <meta property="business:contact_data:country_name" content="Switzerland">
-    
-    <meta name="description" content="Wirkungsvolle Pr&auml;vention und Aktivierung dank neurobiologischen Fakten. Mit dem play stress away® Konzept reduzieren Sie in Ihrem Unternehmen die Fehlzeiten und Produktionsausf&auml;lle, sparen Kosten und ihre vitalisierten Mitarbeitenden mit aktivierten Hirnnutzungsf&auml;higkeiten generieren viele weitere Kunden, die Sie weiterempfehlen.">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#005a32">
-    <meta name="msapplication-TileColor" content="#fbfbfb">
-    <meta name="theme-color" content="#ffffff">
-
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/main.css">
-    <link href="https://fonts.googleapis.com/css?family=Signika:300,400" rel="stylesheet">
+<!DOCTYPE html>
+<!--[if IE 7]>	 <html class="no-js lt-ie9 lt-ie8" lang="de"><![endif]-->
+<!--[if IE 8]>	 <html class="no-js lt-ie9" lang="de"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="de"><!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
+<title>playstressaway</title>
+<meta name="description" content="Wirkungsvolle Pr&auml;vention und Aktivierung dank neurobiologischen Fakten. Mit dem play stress away® Konzept reduzieren Sie in Ihrem Unternehmen die Fehlzeiten und Produktionsausf&auml;lle, sparen Kosten und ihre vitalisierten Mitarbeitenden mit aktivierten Hirnnutzungsf&auml;higkeiten generieren viele weitere Kunden, die Sie weiterempfehlen.">
+<?php include 'head.php'; ?>
 </head>
 
 <body>
-  <!--[if IE]>
-    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-  <![endif]-->
-
-    <nav id="navcontainer" >  
-        <a href="index" target="_top" class="nav-logo">
-            <img class="logo" src="img/playstressaway-logo.svg" alt="playstressaway-logo"/>
-        </a>
-       
-        <div id="navburger">
-            <span></span>
-            <span></span>
-            <span></span>
-            <span></span>    
-        </div>
-        <div class="nav">
-            <ul>
-                <li><a class="bookmark" href="#stress">Stress</a></li>
-                <li><a class="bookmark" href="#konzept">Konzept</a></li>
-                <li><a href="stresstest">Stresstest</a></li>
-                <!--<li><a href="produkte">Produkte</a></li>-->
-                <li><a href="kontakt">Kontakt</a></li>
-            </ul>
-        </div> 
-    </nav>
+    <?php include 'header.php'; ?>
     
-    <div class="pagefadein"></div>
-    
-    <div class="start-container">
+    <section class="start-container">
         <div class="circle-container">
             <div class="circle"></div>
             <div class="circle"></div>
@@ -79,21 +21,49 @@
             <div class="circle"></div>
             <div class="circle"></div>
         </div>
-        <div class="header-container">
+        <article class="header-container">
             <h3>
                 <span class="aus">tief ausatmen</span>
                 <span class="ein">einatmen</span>
             </h3>
-        </div> 
-    </div>
+        </article> 
+    </section>
     
     
-    <div id="stress">
+    <section id="stress">
+        <div class="wave"><img src="img/pltest.svg" alt="test" /></div>
+        <article class="articlecontainer">
+            <div class="container50">
+                <h1>Aktivierung</h1>
+                <p class="lauftext">
+                    Die aktuellsten neurobiologischen Fakten zum Stresssystem werden erarbeitet und die Wirkung auf die Arbeitsumgebung von den teilnehmenden Vorgesetzten und Mitarbeitenden verstanden. Die wirksamen &Uuml;bungen werden vermittelt und vor Ort gemeinsam trainiert.
+                </p>
+                <div class="togglecontainer">
+                    <div class="togglebox">
+                      <div class="content">
+                        <p class="lauftext">
+                            folgt
+                        </p>
+                      </div>
+                    </div>
+                    <button class="togglebutton">&#43;</button>
+                </div>
+            </div>
+            <figure class="container50">
+                <img class="" src="img/play-stress-away-job-stress-index-schweiz.svg" alt="play-stress-away-job-stress-index-schweiz" title="play stress" width="100%"/>
+                <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+            </figure>
+        </article>
+        
+        
+        
+        
+        
+        
         <h1>Job-Stress-Index</h1>
         <h2>der Mitarbeitenden in der Schweiz</h2>
         <div class="imgcontainer">
-            <img class="underimg" src="img/play-stress-away-job-stress-index-schweiz-1.svg" alt="play-stress-away-job-stress-index-schweiz"/>
-            <img class="overimg" src="img/play-stress-away-job-stress-index-schweiz-2.svg" alt="play-stress-away-job-stress-index-schweiz" />
+            <img class="" src="img/play-stress-away-job-stress-index-one.svg" alt="play-stress-away-job-stress-index-schweiz"/>
         </div>
         <div class="questioncontainer">
             <div class="column33">
@@ -149,9 +119,11 @@
                 konzentriert, h&ouml;rt zu und versteht, hohe Merkf&auml;higkeit und Flexibilit&auml;t, Resilienz, Neuro-Agility
             </h2>
         </div>
-    </div>
+        <img class="grad" src="img/pltestr.svg" alt="test" />
+    </section>
     
     <div id="konzept">
+        <img class="grad" src="img/pltest.svg" alt="test" />
         <h1>play stress away® Konzept</h1>
         <h2>Wirkungsvolle Pr&auml;vention und Aktivierung dank neurobiologischen Fakten</h2>
         <div class="imgcontainer">
@@ -162,7 +134,7 @@
             <h2 class="left">
                 Die aktuellsten neurobiologischen Fakten zum Stresssystem werden erarbeitet und die Wirkung auf die Arbeitsumgebung von den teilnehmenden Vorgesetzten und Mitarbeitenden verstanden. Die wirksamen &Uuml;bungen werden vermittelt und vor Ort gemeinsam trainiert.
             </h2>
-            <!--<div class="togglecontainer">
+            <div class="togglecontainer">
                 <div class="togglebox">
                   <div class="content">
                     <h2 class="left">
@@ -171,7 +143,7 @@
                   </div>
                 </div>
                 <button class="togglebutton hoverimg">&#43;</button>
-            </div>-->
+            </div>
         </div>
         <div class="column50">
             <h1 class="left">Verankerung</h1>
