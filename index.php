@@ -54,16 +54,49 @@
                 <figcaption>Job-Stress-Index Schweiz 2018</figcaption>
             </figure>
         </article>
+        
         <article class="articlecontainer">
             <figure class="container50">
-                <img class="animation" src="img/play-stress-away-neuronale-aktivierung-stressabbau.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" title="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
-                <svg version="1.1" id="anima" class="jj" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 360 360" style="enable-background:new 0 0 360 360;" xml:space="preserve">
-                    <circle class="anim" cx="180" cy="180" r="150"/>
-                    <circle class="anim" cx="180" cy="180" r="120"/>
-                    <circle class="anim" cx="180" cy="180" r="180"/>
-                    
+                <img class="animation" src="img/play-stress-away-stressoren-stressabbau.svg" alt="play-stress-away-stressoren-stressabbau" width="100%"/>
+
+                <figcaption>Neuronale-Aktivierung</figcaption>
+            </figure>
+            <div class="container50">
+                <h1>Stressoren</h1>
+                <p class="lauftext">
+                    Stressoren sind <strong>externe Einflüsse</strong>, die mit hoher Wahrscheinlichkeit, bei den meisten Menschen Stress auslösen. Treten diese Stressoren dauerhaft auf, findet der Mensch nicht mehr in seinen Entspannungszustand. Mit chronischer Anspannung treten relativ bald Neuro-Stress Folgen auf, was erwiesenermassen zu Erschöpfung und Krankheit führt.
+                </p>
+                <div class="togglecontainer">
+                    <div class="togglebox">
+                      <div class="content">
+                        <p class="lauftext">
+                            Nach Anspannung und intensivem Einsatz benötigt der Mensch tiefe Entspannung und den daraus folgenden regenerativen Schlaf. Gemäss Gesundheitsförderung Schweiz, Arbeitspapier 26, lassen sich Stressoren im Arbeitskontext in folgende Gruppen einteilen:
+                            <br>1. Aufgabenbezogene Stressoren: z.B. Zeitdruck, Monotonie, hohe Komplexität, Unterbrechungen
+                            <br>2. Soziale Stressoren: z.B. soziale Interaktionen mit Vorgesetzen, Mitarbeitenden, Kunden; Konflikte, Mobbing, Aggression am Arbeitsplatz, mangelndes Feedback
+                            <br>3. Arbeitszeitbezogene Stressoren: z.B. Schichtarbeit, Überstunden
+                            <br>4. Rollenstressoren: z.B. Rollenüberlastung (zu viel, zu kompliziert), Rollenkonflikt (widersprüchliche Erwartungen), Rollenambiguität (unklare Erwartungen)
+                            <br>5. Laupahnbezogene Stressoren: z.B. Unterbeschäqigung, geringe Aufsregsmöglichkeiten, Arbeitsplatzunsicherheit
+                            <br>6. Organisaronale Veränderung: z.B. Einführung neuer Technologien, Unternehmenszusammenschluss
+                            <br>7. Physische Stressoren: z.B. physische Arbeitsbedingungen wie Lärm, Schmutz, chemische oder toxische Substanzen usw.
+                            <br>8. Traumarsche Stressoren: z.B. Unfälle, sehr gefährliche Akrvitäten
+                            <br>Im zusätzlichen play stress away® Workshop Change+ werden betriebsinterne Workshops zu den konkreten Stressoren durchgeführt. Zu Beginn einer Veränderung braucht es immer das Bewusstsein um die Missstände, damit Energie in gewinnbringende Lösungen geleitet werden kann - das trifft auf Privatpersonen wie auch auf Unternehme zu.
+                        </p>
+                      </div>
+                    </div>
+                    <button class="togglebutton">&#43;</button>
+                </div>
+            </div>
+        </article>
+        
+        <article class="articlecontainer">
+            <figure class="container50">
+                <img class="animation" src="img/play-stress-away-neuronale-aktivierung-stressabbau.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <svg version="1.1" id="neuronaleAktivierung" class="pulsing" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 360 360" style="enable-background:new 0 0 360 360;" xml:space="preserve">
+                    <circle class="puls" cx="180" cy="180" r="150"/>
+                    <circle class="puls" cx="180" cy="180" r="120"/>
+                    <circle class="puls" cx="180" cy="180" r="180"/>
                 </svg>
-                <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+                <figcaption>Neuronale-Aktivierung</figcaption>
             </figure>
             <div class="container50">
                 <h1>Stressoren</h1>
@@ -82,73 +115,9 @@
                 </div>
             </div>
         </article>
-        
-        
-        
-        
-        
-        
-        <h1>Job-Stress-Index</h1>
-        <h2>der Mitarbeitenden in der Schweiz</h2>
-        <div class="imgcontainer">
-            <img class="" src="img/play-stress-away-job-stress-index-one.svg" alt="play-stress-away-job-stress-index-schweiz"/>
-        </div>
-        <div class="questioncontainer">
-            <div class="column33">
-                <h2 class="left">
-                    Wie kann der Arbeitgeber den Mitarbeitenden gesunde Arbeitsbedingungen schaffen?
-                </h2>
-            </div>
-            <div class="column33">
-                <h2 class="left">
-                    K&ouml;nnen gestresste Mitarbeitende die Herausforderungen noch bew&auml;ltigen?
-                </h2>
-            </div>
-            <div class="column33">
-                <h2 class="left">
-                    M&ouml;chte ich als Fachkraft in dieser Arbeitsumgebung langfristig arbeiten?
-                </h2>
-            </div>
-        </div>
-        
-        <h1>Stress und die Hirnnutzungsf&auml;higkeiten</h1>
-        <h2>&Uuml;ber welche Hirnnutzungsf&auml;higkeiten verf&uuml;ge ich abh&auml;ngig vom Stresslevel?</h2>
-        <div class="column25cont">
-            <div class="column25">
-                <div class="imgcontainer25">
-                    <img class="underimg hoverimg" src="img/play-stress-away-hirnnutzungsfaehigkeiten-01.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
-                </div>
-                <h2 class="left">
-                    Realit&auml;tsverzerrung, Misstrauen, hohe Anspannung, berufliche und private Konflikte, Anf&auml;lligkeit auf Langzeitausf&auml;lle
-                </h2>
-            </div>
-            <div class="column25">
-                <div class="imgcontainer25">
-                    <img class="underimg hoverimg" src="img/play-stress-away-hirnnutzungsfaehigkeiten-02.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
-                </div>
-                <h2 class="left">
-                    Missverst&auml;ndnisse, Fehler, Anspannung, emotional instabil, Anf&auml;lligkeit auf Krankheiten
-                </h2>
-            </div>
-        </div>    
-        <div class="column25">
-            <div class="imgcontainer25">
-                <img class="underimg hoverimg" src="img/play-stress-away-hirnnutzungsfaehigkeiten-03.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
-            </div>
-            <h2 class="left">
-                steigende Fehlerquote, zunehmend vergesslich, Emotionsebene statt Sachebene
-            </h2>
-        </div>
-        <div class="column25">
-            <div class="imgcontainer25">
-                <img class="underimg hoverimg" src="img/play-stress-away-hirnnutzungsfaehigkeiten-04.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
-            </div>
-            <h2 class="left">
-                konzentriert, h&ouml;rt zu und versteht, hohe Merkf&auml;higkeit und Flexibilit&auml;t, Resilienz, Neuro-Agility
-            </h2>
-        </div>
-        <img class="grad" src="img/pltestr.svg" alt="test" />
     </section>
+    
+    
     
     <div id="konzept">
         <img class="grad" src="img/pltest.svg" alt="test" />
