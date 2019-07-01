@@ -31,7 +31,7 @@
     
     
     <section id="stress">
-        <div class="wave"><img src="img/pltest.svg" alt="test" width="101%" /></div>
+        <div class="wave"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="101%" /></div>
         <article class="articlecontainer">
             <div class="container50">
                 <h1>Job Stress Index</h1>
@@ -56,7 +56,13 @@
         </article>
         <article class="articlecontainer">
             <figure class="container50">
-                <img class="" src="img/play-stress-away-job-stress-index-schweiz.svg" alt="play-stress-away-job-stress-index-schweiz" title="play stress" width="100%"/>
+                <img class="animation" src="img/play-stress-away-neuronale-aktivierung-stressabbau.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" title="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <svg version="1.1" id="anima" class="jj" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 360 360" style="enable-background:new 0 0 360 360;" xml:space="preserve">
+                    <circle class="anim" cx="180" cy="180" r="150"/>
+                    <circle class="anim" cx="180" cy="180" r="120"/>
+                    <circle class="anim" cx="180" cy="180" r="180"/>
+                    
+                </svg>
                 <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
             </figure>
             <div class="container50">
