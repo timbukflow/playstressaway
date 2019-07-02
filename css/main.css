@@ -118,7 +118,7 @@ body {
   background: #ffffff;
 }
 
-h1, h2, h3, p, table, figcaption {
+h1, h2, h3, p, table, figcaption, button {
     font-family: 'Signika', sans-serif;
     color: #575757;
     font-weight: 300;
@@ -176,10 +176,18 @@ h3 span {
 a {
     font-family: 'Signika', sans-serif;
     color: #005A32;
-    font-weight: 100;
+    font-weight: 300;
     text-decoration: none;
     font-size: 40px;
     display: block;
+}
+
+.button {
+    font-family: 'Signika', sans-serif;
+    color: #575757;
+    font-weight: 300;
+    text-decoration: none;
+    font-size: 20px;
 }
 
 #impressum a {
@@ -368,9 +376,23 @@ nav
 .togglecontainer {
 }
 
+button {
+    border-radius: 100px;
+    border: 1px solid #575757;
+    background: none;
+    margin-left: 20px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+button:hover {
+    background: #575757;
+    color: #fff;
+    border: 1px solid #575757;
+}
+
 .togglebutton {
     border-radius: 100%;
-    border: 1px solid #888888;
+    border: 1px solid #575757;
     background: none;
     margin-left: 20px;
     padding: 0;
@@ -378,9 +400,10 @@ nav
     cursor: pointer;
     font-size: 18px;
     font-weight: 300;
-    color: #888888;
+    color: #575757;
     width: 26px;
     height: 26px;
+    text-align: center;
 }
 
 .togglebutton:hover {
@@ -770,7 +793,7 @@ section {
 article .container50 {
     width: 38%;
     float: left;
-    margin: 6%;
+    margin: 20px 6%;
     position: relative;
 }
 
@@ -809,6 +832,26 @@ article .container50 {
     100% { transform: translate(0, 0) scale(1); }
 }
 
+.stressoren {
+    -webkit-animation: stressoren 2s ease-in-out infinite;
+    -moz-animation:    stressoren 2s ease-in-out infinite; 
+    -o-animation:      stressoren 2s ease-in-out infinite;
+    animation:         stressoren 2s ease-in-out infinite;
+    position: relative;
+}
+
+@-webkit-keyframes stressoren {
+    0%   { transform: translate(0, 0) scale(1) }
+    50%  { transform: translate(0, 0) scale(0.9); }
+    100% { transform: translate(0, 0) scale(1); }
+}
+
+@keyframes stressoren {
+    0%   { transform: translate(0, 0) scale(1) rotate(0deg); }
+    50%  { transform: translate(0, 0) scale(1) rotate(5deg);; }
+    100% { transform: translate(0, 0) scale(1) rotate(0deg);; }
+}
+
 
 figcaption {
     margin-top: 20px;
@@ -821,6 +864,7 @@ figcaption {
     background: rgb(255,255,255);
     background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(220,232,233,1) 100%);
 }
+
 .wave img {
     position: absolute;
     top: -2px;

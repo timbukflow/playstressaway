@@ -57,9 +57,10 @@
         
         <article class="articlecontainer">
             <figure class="container50">
-                <img class="animation" src="img/play-stress-away-stressoren-stressabbau.svg" alt="play-stress-away-stressoren-stressabbau" width="100%"/>
-
-                <figcaption>Neuronale-Aktivierung</figcaption>
+                <img class="stressoren" src="img/play-stress-away-stressoren-stress.svg" alt="play-stress-away-stressoren-stressabbau" width="100%"/>
+                <img class="pulsing" src="img/play-stress-away-stressoren-5g.svg" alt="play-stress-away-stressoren-stressabbau" width="100%"/>
+                <img class="pulsing" src="img/play-stress-away-stressoren-reorg.svg" alt="play-stress-away-stressoren-stressabbau" width="100%"/>
+                <figcaption>Stressoren</figcaption>
             </figure>
             <div class="container50">
                 <h1>Stressoren</h1>
@@ -89,6 +90,46 @@
         </article>
         
         <article class="articlecontainer">
+            <div class="container50">
+                <h1>Die neun Sinne des Menschen</h1>
+                <p class="lauftext">
+                    Alle unsere Sinneseindrücke werden zuerst vom Stresssystem darauf überprüft, ob eine Gefahrenlage besteht oder nicht. So werden blitzschnell Stresshormone ausgeschüttet, die uns die Power geben sollen, die Problemstellung zu bewältigen.
+                </p>
+                <div class="togglecontainer">
+                    <div class="togglebox">
+                      <div class="content">
+                        <p class="lauftext">
+                            Können wir dank dieser Anspannung erfolgreich die Herausforderung meistern, gelangen wir in den Entspannungsmodus und bauen Stresshormone ab. Können wir die Problemstellung hingegen nicht bewältigen und die Stresssituation bleibt erhalten, werden noch mehr Stresshormone, so auch Cortisol ausgeschüttet. Wir bleiben in Anspannung, so dass auch Stressspeicher entstehen können. und insbesondere unsere Hirnnutzungsfähigkeiten dadurch eingeschränkt werden. Mit dem play stress away® Konzept arbeiten wir mit der aktuellen Erkenntnis von neun Sinnen. Insbesondere zu den gängigen fünf Sinnen wird dem Gleichgewichts- und dem faszialen Sinn grosse Bedeutung zugemessen. Mit gezielter Aktivierung sämtlicher Sinne, erhöhen wir bei den Teilnehmenden deren Zugang zu den gesamten Ressourcen, die zur Problemlösung eingesetzt werden können. Damit erhöht sich die Wahscheinlichkeit, dass häufiger Entspannung eintritt, und der vitalisierende Kreislauf beginnt. Mit Einbezug der körperlichen Reaktionen, also dem wirkungsvollen Embodiment, bauen wir vitalisierende Gewohnheiten auf, die direkt am Arbeitsplatz und im Alltag zur Erhöhung der Stressresilienz und zur bewussten Entspannungssteuerung eingesetzt werden können. Auch erhöhen wir so die Wahrscheinlichkeit, dass die Menschen positiven Einfluss auf ihre direkte Umgebung ausüben und so zu weniger Stressoren beizutragen vermögen.
+                        </p>
+                      </div>
+                    </div>
+                    <button class="togglebutton">&#43;</button>
+                </div>
+            </div>
+            <figure class="container50">
+                <img class="" src="img/play-stress-away-neuen-sinne-de-menschen.svg" alt="play-stress-away-stressoren-stressabbau" width="100%"/>
+                <figcaption>Die neun Sinne des Menschen</figcaption>
+            </figure>
+        </article>
+        
+        <article class="articlecontainer">
+            <figure class="container50">
+                <img class="" src="img/play-stress-away-hirnnutzungsfaehigkeiten.svg" alt="play-stress-away-stressoren-stressabbau" width="100%"/>
+                <figcaption>Hirnnutzungsfähigkeiten</figcaption>
+            </figure>
+            <div class="container50">
+                <h1>Hirnnutzungsfähigkeiten</h1>
+                <p class="lauftext">
+                    Die Menge der Stresshormone steuert den Zugang zu unseren Hirnnutzungsfähigkeiten und der Aktivität unseres Immunsystems. Können wir uns nicht mehr entspannen, leben wir in ständiger Anspannung, was zu diffusen Schmerzen führen kann und den typischen Stresstunnelblick erzeugt. Steuern wir die Stresshormone, bevor sie uns steuern!
+                </p>
+                <button><a class="button" href="stresstest">Wie hoch ist dein Stresslevel</a></button>
+            </div>
+        </article>
+    </section>
+    
+    <section id="stress">
+        <div class="wave"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="101%" /></div>
+        <article class="articlecontainer">
             <figure class="container50">
                 <img class="animation" src="img/play-stress-away-neuronale-aktivierung-stressabbau.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
                 <svg version="1.1" id="neuronaleAktivierung" class="pulsing" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 360 360" style="enable-background:new 0 0 360 360;" xml:space="preserve">
@@ -115,97 +156,9 @@
                 </div>
             </div>
         </article>
+    
     </section>
-    
-    
-    
-    <div id="konzept">
-        <img class="grad" src="img/pltest.svg" alt="test" />
-        <h1>play stress away® Konzept</h1>
-        <h2>Wirkungsvolle Pr&auml;vention und Aktivierung dank neurobiologischen Fakten</h2>
-        <div class="imgcontainer">
-            <img class="underimg hoverimg" src="img/play-stress-away-konzept.svg" alt="play-stress-away-konzept"/>
-        </div>
-        <div class="column50">
-            <h1 class="left">Aktivierung</h1>
-            <h2 class="left">
-                Die aktuellsten neurobiologischen Fakten zum Stresssystem werden erarbeitet und die Wirkung auf die Arbeitsumgebung von den teilnehmenden Vorgesetzten und Mitarbeitenden verstanden. Die wirksamen &Uuml;bungen werden vermittelt und vor Ort gemeinsam trainiert.
-            </h2>
-            <div class="togglecontainer">
-                <div class="togglebox">
-                  <div class="content">
-                    <h2 class="left">
-                        folgt
-                    </h2>
-                  </div>
-                </div>
-                <button class="togglebutton hoverimg">&#43;</button>
-            </div>
-        </div>
-        <div class="column50">
-            <h1 class="left">Verankerung</h1>
-            <h2 class="left">
-                Neue Gewohnheiten ben&ouml;tigen zur Verankerung vierzig Wiederholungen w&auml;hrend drei Monaten. Damit sich diesmal die Arbeitsumgebung tats&auml;chlich zu ver&auml;ndern vermag, begleiten wir die Teilnehmenden w&auml;hrend dieser Zeitspanne in w&ouml;chentlichen kurzen Sessions.
-            </h2>
-            <!--<div class="togglecontainer">
-                <div class="togglebox">
-                  <div class="content">
-                    <h2 class="left">
-                        folgt
-                    </h2>
-                  </div>
-                </div>
-                <button class="togglebutton hoverimg">&#43;</button>
-            </div>-->
-        </div>
-    </div>
-    
-    <div id="loesung">
-        <div class="column50">
-            <div class="imgcontainer50 hoverimg">
-                <img class="underimg" src="img/play-stress-away-neuro-agility-01.svg" alt="play-stress-away-neuro-agility"/>
-                <img class="overimg" src="img/play-stress-away-neuro-agility-02.svg" alt="play-stress-away-neuro-agility"/>
-            </div>
-            <h1 class="left">Neuro-Agility</h1>
-            <h2 class="left">
-                Optimal aktivierte Hirnnutzungsf&auml;higkeiten f&ouml;rdern die konstruktive Zusammenarbeit, Freude an der Arbeit und gewinnbringende Kundenbeziehungen.
-            </h2>
-            <!--<div class="togglecontainer">
-                <div class="togglebox">
-                  <div class="content">
-                    <h2 class="left">
-                        folgt
-                    </h2>
-                  </div>
-                </div>
-                <button class="togglebutton hoverimg">&#43;</button>
-            </div>-->
-        </div>
-        <div class="column50">
-            <div class="imgcontainer50 hoverimg">
-                <img class="underimg" src="img/play-stress-away-body-agility-01.svg" alt="play-stress-away-body-agility"/>
-                <img class="overimg" src="img/play-stress-away-body-agility-02.svg" alt="play-stress-away-body-agility" />
-            </div>
-            <h1 class="left">Body-Agility</h1>
-            <h2 class="left">
-                Ein dynamisches Arbeitsumfeld f&ouml;rdert geistige Beweglichkeit und bringt Bewegung in den gesunden Arbeitsalltag.
-            </h2>
-            <!--<div class="togglecontainer">
-                <div class="togglebox">
-                  <div class="content">
-                    <h2 class="left">
-                        folgt
-                    </h2>
-                  </div>
-                </div>
-                <button class="togglebutton hoverimg">&#43;</button>
-            </div>-->
-        </div>
-    </div>
-    
-    <div id="stresstest">
-        <a href="stresstest">Mach den Stresstest</a>
-    </div>
+
     
     
     
