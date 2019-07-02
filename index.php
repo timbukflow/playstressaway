@@ -31,7 +31,7 @@
     
     
     <section id="stress">
-        <div class="wave"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="101%" /></div>
+        <div class="wave"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
         <article class="articlecontainer">
             <div class="container50">
                 <h1>Job Stress Index</h1>
@@ -127,8 +127,8 @@
         </article>
     </section>
     
-    <section id="stress">
-        <div class="wave"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="101%" /></div>
+    <section id="konzept">
+        <div class="wave"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
         <article class="articlecontainer">
             <figure class="container50">
                 <img class="animation" src="img/play-stress-away-neuronale-aktivierung-stressabbau.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
