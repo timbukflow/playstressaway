@@ -1,6 +1,6 @@
 $(document).ready(function () {
     
-///////////////// nav ///////////////// 
+// nav //
     
 	$('#navburger').click(function(){
 		$(this).toggleClass('open');
@@ -9,8 +9,7 @@ $(document).ready(function () {
         $('.nav li').toggleClass('open');
 	});
     
-    $('.bookmark').click(function(e) {
-	e.preventDefault();
+    $('.bookmark').click(function() {
         
         var position = $($(this).attr('href')).offset().top;
         
@@ -23,8 +22,14 @@ $(document).ready(function () {
         }, 2000);
     });
     
+    $('.footer').click(function() {
+        var position = $($(this).attr('href')).offset().top;
+        $("body, html").animate({
+            scrollTop: position
+        }, 2000);
+    });
     
-///////////////// Sroll resizing Navigation ///////////////// 
+// Sroll resizing Navigation //
     
     $(document).on('scroll', function () {
         if ($(document).scrollTop() > 10) {
@@ -40,14 +45,7 @@ $(document).ready(function () {
     });
     
     
-///////////////// slider ///////////////// 
-    
-    setInterval(function () {
-        $('.overimg').fadeOut(1500).delay(5000).fadeIn(1500).delay(5000);
-    }, 5000);
-    
-    
-///////////////// show and hide ///////////////// 
+// + button //
     
     $(".togglebox").hide();
     $(".togglebutton").click(function(){
@@ -61,7 +59,7 @@ $(document).ready(function () {
     });
     
     
-///////////////// impressum ///////////////// 
+// impressum //
 
     $('.togglelink').click(function() {
         var totoggle = $(this).attr("data-toggle");
@@ -72,13 +70,12 @@ $(document).ready(function () {
         }     
     });
 
-    
-///////////////// Page Load ///////////////// 
+// page load //
     
     $('.pagefadein').fadeOut(1000);
 
     
-///////////////// Check Box /////////////////     
+// Check Box //
      
     $(".stresstest").click(function(event) {
         var total = 0;

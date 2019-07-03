@@ -3,35 +3,45 @@
 <!--[if IE 8]>	 <html class="no-js lt-ie9" lang="de"><![endif]-->
 <!--[if gt IE 8]><!--><html class="no-js" lang="de"><!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
-<title>playstressaway</title>
-<meta name="description" content="Wirkungsvolle Pr&auml;vention und Aktivierung dank neurobiologischen Fakten. Mit dem play stress away® Konzept reduzieren Sie in Ihrem Unternehmen die Fehlzeiten und Produktionsausf&auml;lle, sparen Kosten und ihre vitalisierten Mitarbeitenden mit aktivierten Hirnnutzungsf&auml;higkeiten generieren viele weitere Kunden, die Sie weiterempfehlen.">
-<?php include 'head.php'; ?>
+    <title>playstressaway</title>
+    <meta name="description" content="Wirkungsvolle Pr&auml;vention und Aktivierung dank neurobiologischen Fakten. Mit dem play stress away® Konzept reduzieren Sie in Ihrem Unternehmen die Fehlzeiten und Produktionsausf&auml;lle, sparen Kosten und ihre vitalisierten Mitarbeitenden mit aktivierten Hirnnutzungsf&auml;higkeiten generieren viele weitere Kunden, die Sie weiterempfehlen.">
+    <?php include 'head.php'; ?>
 </head>
 
 <body>
     <?php include 'header.php'; ?>
     
     <section class="start-container">
-        <div class="circle-container">
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-        </div>
-        <article class="header-container">
-            <h3>
-                <span class="aus">tief ausatmen</span>
-                <span class="ein">einatmen</span>
-            </h3>
-        </article> 
+        <article class="homecontainer">
+             <div class="circle-container50">
+                <div class="circle-container">
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                </div>
+                <div class="header-container">
+                    <h3>
+                        <span class="aus">tief ausatmen</span>
+                    </h3>
+                </div>
+            </div>
+            <div class="container50">
+                <h1>Stresshormone abbauen</h1>
+                <p class="lauftext">
+                    Wirkungsvolle Prävention und Aktivierung dank neurobiologischen Fakten! Entstresse dich mit vitalisierenden Gewohnheiten - direkt am Arbeitsplatz und in deinem Alltag. Entstressung und Entspannung führt zum Stresshormonabbau und Reaktivierung deines Immunsystems.
+                </p>
+                <button><a class="button footer"href="#stress">erfahre mehr</a></button>
+            </div>
+        </article>
+        <div class="wave-home"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
     </section>
     
     
     <section id="stress">
-        <div class="wave"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
         <article class="articlecontainer">
             <div class="container50">
                 <h1>Job Stress Index</h1>
@@ -158,15 +168,6 @@
         </article>
     
     </section>
-
-    
-    
-    
-    <script src="js/vendor/modernizr-3.7.1.min.js"></script>
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
-  <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
+    <?php include 'footer.php'; ?>
 </body>
-
 </html>

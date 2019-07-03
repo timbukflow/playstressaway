@@ -14,25 +14,12 @@
        
 */
  
-/* ==========================================================================
-   Base styles: opinionated defaults
-   ========================================================================== */
 
    html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
 }
-
-/*
- * Remove text-shadow in selection highlight:
- * https://twitter.com/miketaylr/status/12228805301
- *
- * Vendor-prefixed and regular ::selection selectors cannot be combined:
- * https://stackoverflow.com/a/16982510/7133471
- *
- * Customize the background color to match your design.
- */
 
 ::-moz-selection {
     background: #b3d4fc;
@@ -44,10 +31,6 @@
     text-shadow: none;
 }
 
-/*
- * A better looking default horizontal rule
- */
-
 hr {
     display: block;
     height: 1px;
@@ -56,12 +39,6 @@ hr {
     margin: 1em 0;
     padding: 0;
 }
-
-/*
- * Remove the gap between audio, canvas, iframes,
- * images, videos and the bottom of their containers:
- * https://github.com/h5bp/html5-boilerplate/issues/440
- */
 
 audio,
 canvas,
@@ -72,19 +49,11 @@ video {
     vertical-align: middle;
 }
 
-/*
- * Remove default fieldset styles.
- */
-
 fieldset {
     border: 0;
     margin: 0;
     padding: 0;
 }
-
-/*
- * Allow only vertical resizing of textareas.
- */
 
 textarea {
     resize: vertical;
@@ -100,8 +69,6 @@ textarea {
     color: #000;
     padding: 0.2em 0;
 }
-
-
 
 
  /* ==========================================================================
@@ -126,13 +93,16 @@ h1, h2, h3, p, table, figcaption, button {
     padding: 20px;
     margin: 0;
     font-size: 20px;
+    line-height: 1.4;
     letter-spacing: 0.3px;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
-p {padding-top: 0px;}
+p {
+    padding-top: 0px;
+}
 
 figcaption {
     color: #888888;
@@ -146,27 +116,16 @@ h1 {
     margin-top: 100px;
 }
 
-h1.left {
-    margin-top: 40px;
-    text-align: center;
-}
-
 h2 {
     color: #3c3c3c;
     font-size: 21px;
     margin-top: 8px;
 }
 
-h2.left {
-    text-align: center;
-    margin-top: 20px;
-    padding: 0 8%;
-    word-break:keep-all;
-}
-
 h3 {
     padding-top: 70px;
     font-size: 30px;
+    text-align: center;
 }
 
 h3 span {
@@ -178,13 +137,13 @@ a {
     color: #005A32;
     font-weight: 300;
     text-decoration: none;
-    font-size: 40px;
+    font-size: 30px;
     display: block;
 }
 
 .button {
     font-family: 'Signika', sans-serif;
-    color: #575757;
+    color: #fff;
     font-weight: 300;
     text-decoration: none;
     font-size: 20px;
@@ -212,7 +171,7 @@ page fadein
     width: 100%;
     background-color: #fff;
     position: absolute;
-    z-index: 99;
+    z-index: 100;
 }
 
 /*---------------------------------- 
@@ -369,25 +328,24 @@ nav
     font-size: 50px
 }
 
+
+
 /*---------------------------------- 
 + button
 -----------------------------------*/
 
-.togglecontainer {
-}
-
 button {
     border-radius: 100px;
-    border: 1px solid #575757;
-    background: none;
-    margin-left: 20px;
-    padding: 10px 15px;
+    border: none;
+    background: #009632;
+    margin: 20px;
+    padding: 8px 18px;
     cursor: pointer;
+    -webkit-transition: ease 0.5s;
+    transition: ease 0.5s;
 }
 button:hover {
-    background: #575757;
-    color: #fff;
-    border: 1px solid #575757;
+    background: #005A32;
 }
 
 .togglebutton {
@@ -420,6 +378,23 @@ button:hover {
     height: 100vh;
 }
 
+.homecontainer {
+    position: absolute;
+    top: 20%;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.circle-container50 {
+    width: 38%;
+    height: 560px;
+    float: right;
+    margin: 20px 6%;
+    position: relative;
+}
+    
 .circle-container {
     height: 225px;
     width: 225px;
@@ -442,65 +417,13 @@ button:hover {
     atmung
 -----------------------------------*/
 
-.ein {
-    color: #005a32;
-    -webkit-animation: ein 8s ease-in-out infinite;
-    -moz-animation:    ein 8s ease-in-out infinite; 
-    -o-animation:      ein 8s ease-in-out infinite;
-    animation:         ein 8s ease-in-out infinite;
-}
-
-@-webkit-keyframes ein {
-    0%   { color: #fff; }
-    30%  { color: #005a32; }
-    50%  { color: #fff; }
-    100% { color: #fff; }
-}
-
-@-moz-keyframes ein {
-    0%   { color: #fff; }
-    30%  { color: #005a32; }
-    50%  { color: #fff; }
-    100% { color: #fff; }
-}
-
-@-o-keyframes ein {
-    0%   { color: #fff; }
-    30%  { color: #005a32; }
-    50%  { color: #fff; }
-    100% { color: #fff; }
-}
-
-@keyframes ein {
-    0%   { color: #fff; }
-    30%  { color: #005a32; }
-    50%  { color: #fff; }
-    100% { color: #fff; }
-}
-
 .aus {
     color: #fff;
     -webkit-animation: aus 8s ease-in-out infinite;
-    -moz-animation:    aus 8s ease-in-out infinite; 
-    -o-animation:      aus 8s ease-in-out infinite;
     animation:         aus 8s ease-in-out infinite;
 }
 
 @-webkit-keyframes aus {
-    0%   { color: #fff; }
-    30%  { color: #fff; }
-    50%  { color: #005a32; }
-    100% { color: #fff; }   
-}
-
-@-moz-keyframes aus {
-    0%   { color: #fff; }
-    30%  { color: #fff; }
-    50%  { color: #005a32; }
-    100% { color: #fff; }   
-}
-
-@-o-keyframes aus {
     0%   { color: #fff; }
     30%  { color: #fff; }
     50%  { color: #005a32; }
@@ -525,68 +448,40 @@ button:hover {
 
 .circle:nth-child(1) {
     -webkit-animation: circle-1 8s ease-in-out infinite;
-    -moz-animation:    circle-1 8s ease-in-out infinite; 
-    -o-animation:      circle-1 8s ease-in-out infinite;
     animation:         circle-1 8s ease-in-out infinite;
 }
 
 .circle:nth-child(2) {
     -webkit-animation: circle-2 8s ease-in-out infinite;
-    -moz-animation:    circle-2 8s ease-in-out infinite; 
-    -o-animation:      circle-2 8s ease-in-out infinite;
     animation:         circle-2 8s ease-in-out infinite;
 }
 
 .circle:nth-child(3) {
     -webkit-animation: circle-3 8s ease-in-out infinite;
-    -moz-animation:    circle-3 8s ease-in-out infinite; 
-    -o-animation:      circle-3 8s ease-in-out infinite;
     animation:         circle-3 8s ease-in-out infinite;
 }
 
 .circle:nth-child(4) {
     -webkit-animation: circle-4 8s ease-in-out infinite;
-    -moz-animation:    circle-4 8s ease-in-out infinite; 
-    -o-animation:      circle-4 8s ease-in-out infinite;
     animation:         circle-4 8s ease-in-out infinite;
 }
 
 .circle:nth-child(5) {
     -webkit-animation: circle-5 8s ease-in-out infinite;
-    -moz-animation:    circle-5 8s ease-in-out infinite; 
-    -o-animation:      circle-5 8s ease-in-out infinite;
     animation:         circle-5 8s ease-in-out infinite;
 }
 
 .circle:nth-child(6) {
     -webkit-animation: circle-6 8s ease-in-out infinite;
-    -moz-animation:    circle-6 8s ease-in-out infinite; 
-    -o-animation:      circle-6 8s ease-in-out infinite;
     animation:         circle-6 8s ease-in-out infinite;
 }
 
 .circle:nth-child(7) {
     -webkit-animation: circle-7 8s ease-in-out infinite;
-    -moz-animation:    circle-7 8s ease-in-out infinite; 
-    -o-animation:      circle-7 8s ease-in-out infinite;
     animation:         circle-7 8s ease-in-out infinite;
 }
 
 @-webkit-keyframes circle-1 {
-    0%   { transform: translate(0, 0) scale(0.1); }
-    30%  { transform: translate(-100px, 0px); }
-    35%  { transform: translate(-100px, 0px); }
-    95%  { transform: translate(0, 0) scale(0.1); }
-    100% { transform: translate(0, 0) scale(0.1); }
-}
-@-moz-keyframes circle-1 {
-    0%   { transform: translate(0, 0) scale(0.1); }
-    30%  { transform: translate(-100px, 0px); }
-    35%  { transform: translate(-100px, 0px); }
-    95%  { transform: translate(0, 0) scale(0.1); }
-    100% { transform: translate(0, 0) scale(0.1); }
-}
-@-o-keyframes circle-1 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(-100px, 0px); }
     35%  { transform: translate(-100px, 0px); }
@@ -608,20 +503,7 @@ button:hover {
     95%  { transform: translate(0, 0) scale(0.1); }
     100% { transform: translate(0, 0) scale(0.1); }
 }
-@-moz-keyframes circle-2 {
-    0%   { transform: translate(0, 0) scale(0.1); }
-    30%  { transform: translate(-50px, -86px); }
-    35%  { transform: translate(-50px, -86px); }
-    95%  { transform: translate(0, 0) scale(0.1); }
-    100% { transform: translate(0, 0) scale(0.1); }
-}
-@-o-keyframes circle-2 {
-    0%   { transform: translate(0, 0) scale(0.1); }
-    30%  { transform: translate(-50px, -86px); }
-    35%  { transform: translate(-50px, -86px); }
-    95%  { transform: translate(0, 0) scale(0.1); }
-    100% { transform: translate(0, 0) scale(0.1); }
-}
+
 @keyframes circle-2 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(-50px, -86px); }
@@ -630,7 +512,6 @@ button:hover {
     100% { transform: translate(0, 0) scale(0.1); }
 }
 
-
 @-webkit-keyframes circle-3 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(50px, -86px); }
@@ -638,43 +519,15 @@ button:hover {
     95%  { transform: translate(0, 0) scale(0.1); }
     100% { transform: translate(0, 0) scale(0.1); }
 }
-@-moz-keyframes circle-3 {
+@keyframes circle-3 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(50px, -86px); }
     35%  { transform: translate(50px, -86px); }
     95%  { transform: translate(0, 0) scale(0.1); }
     100% { transform: translate(0, 0) scale(0.1); }
 }
-@-o-keyframes circle-3 {
-    0%   { transform: translate(0, 0) scale(0.1); }
-    30%  { transform: translate(50px, -86px); }
-    35%  { transform: translate(50px, -86px); }
-    95%  { transform: translate(0, 0) scale(0.1); }
-    100% { transform: translate(0, 0) scale(0.1); }
-}@keyframes circle-3 {
-    0%   { transform: translate(0, 0) scale(0.1); }
-    30%  { transform: translate(50px, -86px); }
-    35%  { transform: translate(50px, -86px); }
-    95%  { transform: translate(0, 0) scale(0.1); }
-    100% { transform: translate(0, 0) scale(0.1); }
-}
-
 
 @-webkit-keyframes circle-4 {
-    0%   { transform: translate(0, 0) scale(0.1); }
-    30%  { transform: translate(100px, 0px); }
-    35%  { transform: translate(100px, 0px); }
-    95%  { transform: translate(0, 0) scale(0.1); }
-    100% { transform: translate(0, 0) scale(0.1); }
-}
-@-moz-keyframes circle-4 {
-    0%   { transform: translate(0, 0) scale(0.1); }
-    30%  { transform: translate(100px, 0px); }
-    35%  { transform: translate(100px, 0px); }
-    95%  { transform: translate(0, 0) scale(0.1); }
-    100% { transform: translate(0, 0) scale(0.1); }
-}
-@-o-keyframes circle-4 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(100px, 0px); }
     35%  { transform: translate(100px, 0px); }
@@ -696,20 +549,6 @@ button:hover {
     95%  { transform: translate(0, 0) scale(0.1); }
     100% { transform: translate(0, 0) scale(0.1); }
 }
-@-moz-keyframes circle-5 {
-    0%   { transform: translate(0, 0) scale(0.1); }
-    30%  { transform: translate(50px, 86px); }
-    35%  { transform: translate(50px, 86px); }
-    95%  { transform: translate(0, 0) scale(0.1); }
-    100% { transform: translate(0, 0) scale(0.1); }
-}
-@-o-keyframes circle-5 {
-    0%   { transform: translate(0, 0) scale(0.1); }
-    30%  { transform: translate(50px, 86px); }
-    35%  { transform: translate(50px, 86px); }
-    95%  { transform: translate(0, 0) scale(0.1); }
-    100% { transform: translate(0, 0) scale(0.1); }
-}
 @keyframes circle-5 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(50px, 86px); }
@@ -725,20 +564,6 @@ button:hover {
     95%  { transform: translate(0, 0) scale(0.1); }
     100% { transform: translate(0, 0) scale(0.1); }
 }
-@-moz-keyframes circle-6 {
-    0%   { transform: translate(0, 0) scale(0.1); }
-    30%  { transform: translate(-50px, 86px); }
-    35%  { transform: translate(-50px, 86px); }
-    95%  { transform: translate(0, 0) scale(0.1); }
-    100% { transform: translate(0, 0) scale(0.1); }
-}
-@-o-keyframes circle-6 {
-    0%   { transform: translate(0, 0) scale(0.1); }
-    30%  { transform: translate(-50px, 86px); }
-    35%  { transform: translate(-50px, 86px); }
-    95%  { transform: translate(0, 0) scale(0.1); }
-    100% { transform: translate(0, 0) scale(0.1); }
-}
 @keyframes circle-6 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(-50px, 86px); }
@@ -748,20 +573,6 @@ button:hover {
 }
 
 @-webkit-keyframes circle-7 {
-    0%   { transform: translate(0, 0) scale(0.15); }
-    30%  { transform: translate(0px, 0px); }
-    35%  { transform: translate(0px, 0px); }
-    95%  { transform: translate(0, 0) scale(0.15); }
-    100% { transform: translate(0, 0) scale(0.15); }
-} 
-@-moz-keyframes circle-7 {
-    0%   { transform: translate(0, 0) scale(0.15); }
-    30%  { transform: translate(0px, 0px); }
-    35%  { transform: translate(0px, 0px); }
-    95%  { transform: translate(0, 0) scale(0.15); }
-    100% { transform: translate(0, 0) scale(0.15); }
-} 
-@-o-keyframes circle-7 {
     0%   { transform: translate(0, 0) scale(0.15); }
     30%  { transform: translate(0px, 0px); }
     35%  { transform: translate(0px, 0px); }
@@ -859,10 +670,21 @@ figcaption {
 
 
 .wave {
+    overflow: hidden;
     position: relative;
     height: 280px;
     background: rgb(255,255,255);
-    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(220,232,233,1) 100%);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(220,237,240,1) 100%);
+}
+
+.wave-home {
+    overflow: hidden;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 20%;
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(220,237,240,1) 100%);
 }
 
 .wave img {
@@ -888,55 +710,8 @@ figcaption {
     padding-top: 200px;
 }
 
-.column25 {
-    width: 25%;
-    margin-top: 40px;
-    float: left;
-}
-
-.column33 {
-    width: 33%;
-    float: left;
-}
-
-.column50 {
-    width: 50%;
-    margin-top: 40px;
-    float: left;
-}
-
-.imgcontainer {
-    position: relative;
-    margin: 50px 10% 20px 10%;
-}
-
-.imgcontainer50 {
-    position: relative;
-    width: 40%;
-    margin: 70px auto;
-}
-
-.imgcontainer25 {
-    position: relative;
-    width: 40%;
-    margin: 70px auto;
-}
-
 .questioncontainer{
     overflow: hidden;
-}
-
-.underimg {
-    position: relative;
-    width: 100%;
-}
-
-.overimg {
-    position: absolute;
-    width: 100%;
-    z-index: 10;
-    top: 0;
-    left: 0;
 }
 
 /*---------------------------------- 
@@ -1042,8 +817,6 @@ span.respcheck {
     padding: 30px;
     margin-top: 150px;
     -webkit-transition: ease 0.5s;
-    -moz-transition: ease 0.5s;
-    -o-transition: ease 0.5s;
     transition: ease 0.5s;
     border-radius: 40% 40% 0 0;
 }
@@ -1107,55 +880,71 @@ span.respcheck {
 	background: white;
 }
 
-/*---------------------------------- 
-    svg animation
------------------------------------*/
-
-.hoverimg {
-    -webkit-transition: ease 0.5s;
-    -moz-transition: ease 0.5s;
-    -o-transition: ease 0.5s;
-    transition: ease 0.5s;
-    
-}
-
-.hoverimg:hover {
-    transform: scale(1.1);
-    -webkit-transform: scale(1.1);
-    -moz-transform: scale(1.1);
-    -o-transform: scale(1.1);
-}
 
 /*---------------------------------- 
-    footer impressum
+    footer
 -----------------------------------*/
 
-.contact {
-    margin-top: 140px;
-}
-.impressum p {
-    margin-top: 20px;
-}
-
-.impressum {
+.nav-footer {
+    width: 100%;
     position: relative;
-    padding-top: 10px;
-    padding-bottom: 10px;  
-    text-align: center;
+    z-index: 10;
+    display: block;
 }
 
-.impressum.k {
-   margin-top: 90px;
+.nav-footer ul {
+    text-align: center;
+    padding: 0;
+}
+
+.nav-footer a {
+    padding: 5px;
+    -webkit-transition: 0.25s ease-in-out;
+    transition: 0.25s ease-in-out;
+}
+
+.nav-footer a:hover {
+    font-size: 45px;
 }
 
 #impressum {
     display: none;
 }
 
-.togglelink {
-    cursor: pointer;
+/*---------------------------------- 
+    datenschutz
+-----------------------------------*/
+
+#optoutbanner99 {
+	font-size: 12px;
+	line-height: 18px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+	background-color: #f2f2f2;
+	padding: 20px;
+	text-align: center;
+	z-index: 99;
 }
 
+#optoutbanner99 a,
+#optoutbanner99 p{
+	cursor: pointer;
+    font-size: 15px;
+    display: inline-block;
+    margin: 0px 3px;
+}
+
+#acceptga {
+	text-decoration: none !important;
+	background-color: #718166;
+	color: #fff !important;
+	font-weight: normal !important;
+    padding: 0px 5px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
 
 /*---------------------------------- 
     responsive
