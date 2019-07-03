@@ -85,7 +85,7 @@ body {
   background: #ffffff;
 }
 
-h1, h2, h3, p, table, figcaption, button {
+h1, h2, h3, p, a, table, figcaption, button {
     font-family: 'Signika', sans-serif;
     color: #575757;
     font-weight: 300;
@@ -133,20 +133,14 @@ h3 span {
 }
 
 a {
-    font-family: 'Signika', sans-serif;
-    color: #005A32;
-    font-weight: 300;
     text-decoration: none;
     font-size: 30px;
     display: block;
 }
 
 .button {
-    font-family: 'Signika', sans-serif;
-    color: #fff;
-    font-weight: 300;
-    text-decoration: none;
     font-size: 20px;
+    padding: 0;
 }
 
 #impressum a {
@@ -336,8 +330,8 @@ nav
 
 button {
     border-radius: 100px;
-    border: none;
-    background: #009632;
+    border: 1px solid rgba(87, 87, 87, 0.4);
+    background: none;
     margin: 20px;
     padding: 8px 18px;
     cursor: pointer;
@@ -345,8 +339,10 @@ button {
     transition: ease 0.5s;
 }
 button:hover {
-    background: #005A32;
+    background: rgba(235,245,251,1);
+    border: 1px solid rgba(235,245,251,1);
 }
+
 
 .togglebutton {
     border-radius: 100%;
@@ -674,7 +670,7 @@ figcaption {
     position: relative;
     height: 280px;
     background: rgb(255,255,255);
-    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(220,237,240,1) 100%);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(235,245,251,1) 100%);
 }
 
 .wave-home {
@@ -682,12 +678,12 @@ figcaption {
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 20%;
+    height: 25%;
     background: rgb(255,255,255);
-    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(220,237,240,1) 100%);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(235,245,251,1) 100%);
 }
 
-.wave img {
+.wave img, .wave-home img {
     position: absolute;
     top: -2px;
     padding: 0px;

@@ -34,7 +34,7 @@
                 <p class="lauftext">
                     Wirkungsvolle Prävention und Aktivierung dank neurobiologischen Fakten! Entstresse dich mit vitalisierenden Gewohnheiten - direkt am Arbeitsplatz und in deinem Alltag. Entstressung und Entspannung führt zum Stresshormonabbau und Reaktivierung deines Immunsystems.
                 </p>
-                <button><a class="button footer"href="#stress">erfahre mehr</a></button>
+                <button><a class="button footer" href="#stress">erfahre mehr</a></button>
             </div>
         </article>
         <div class="wave-home"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
