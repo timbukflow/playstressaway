@@ -79,7 +79,7 @@ body {
   background: #ffffff;
 }
 
-h1, h2, h3, p, a, table, figcaption, button {
+h1, h2, h3, p, a, table, figcaption, button , .togglelink {
     font-family: 'Signika', sans-serif;
     color: #575757;
     font-weight: 300;
@@ -106,6 +106,21 @@ figcaption {
     padding: 20px 0;
     text-align: center;
 }
+
+.togglelink {
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+}
+#impressum p,
+#impressum a
+{
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+    padding: 15px;
+}
+
 
 h1 {
     font-size: 40px;
@@ -162,7 +177,7 @@ page fadein
     width: 100%;
     background-color: #fff;
     position: absolute;
-    z-index: 100;
+    z-index: 999;
 }
 
 /*---------------------------------- 
@@ -727,10 +742,17 @@ article .right {
     height: 20%;
     z-index: 1;
     background: rgb(255,255,255);
-    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(235,245,251,1) 100%);
+    background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(235,245,251,1) 100%);
 }
 
-.wave img, .wave-home img {
+.wave-footer {
+    overflow: hidden;
+    position: relative;
+    height: 160px;
+    background: rgba(235,245,251,1);
+}
+
+.wave img, .wave-home img, .wave-footer img {
     position: absolute;
     top: -2px;
     padding: 0px;
@@ -925,6 +947,9 @@ span.respcheck {
 /*---------------------------------- 
     footer
 -----------------------------------*/
+footer {
+    background: rgba(235,245,251,1);
+}
 
 .nav-footer {
     width: 100%;
@@ -940,6 +965,7 @@ span.respcheck {
 
 .nav-footer a {
     padding: 5px;
+    text-align: center;
     -webkit-transition: 0.25s ease-in-out;
     transition: 0.25s ease-in-out;
 }
@@ -957,15 +983,13 @@ span.respcheck {
 -----------------------------------*/
 
 #optoutbanner99 {
-	font-size: 12px;
-	line-height: 18px;
     position: fixed;
-    bottom: 0;
-    right: 0;
-	background-color: #f2f2f2;
-	padding: 20px;
-	text-align: center;
-	z-index: 99;
+    top: 0;
+    left: 0;
+    background-color: rgba(235,245,251,1);
+    padding: 20px;
+    z-index: 100;
+    width: 270px;
 }
 
 #optoutbanner99 a,
@@ -977,14 +1001,14 @@ span.respcheck {
 }
 
 #acceptga {
-	text-decoration: none !important;
-	background-color: #718166;
-	color: #fff !important;
-	font-weight: normal !important;
-    padding: 0px 5px;
+    text-decoration: none !important;
+    background-color: #006AEA;
+    color: #fff !important;
+    font-weight: normal !important;
+    padding: 10px 15px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
-    border-radius: 3px;
+    border-radius: 30px;
 }
 
 /*---------------------------------- 

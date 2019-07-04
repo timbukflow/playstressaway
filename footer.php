@@ -1,32 +1,31 @@
 <footer>
-    <div class="wave"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
+    <div class="wave-footer"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
     <div class="nav-footer">
         <ul>
             <li><a class="footer" href="#stress">Stress</a></li>
             <li><a class="footer" href="#konzept">Konzept</a></li>
             <li><a href="stresstest">Stresstest</a></li>
+            <li><a href="angebot">Angebot</a></li>
             <li><a href="kontakt">Kontakt</a></li>
         </ul>
     </div>
     
-    <div class="impressum" data-toggle="#impressum">Impressum</div>
+    <div class="togglelink" data-toggle="#impressum">Impressum</div>
         <div id="impressum">    
-            <p><b>Design &#38; Interaction:</b><br>Schwizer &#38; Schlatter GmbH<br>Davidstrasse 45<br>9000 St.Gallen<br>
+            <p>
+                <b>Konzept</b><br>
+                play stress away gmbh<br>
+                Schaffhauserstrasse 115<br>
+                8302 Kloten<br>
+            </p>
+            <p>
+                <b>Design &#38; Interaction:</b><br>
+                Schwizer &#38; Schlatter GmbH<br>
+                Davidstrasse 45<br>
+                9000 St.Gallen<br>
                 <a class="linkw" href="https://www.schwizerschlatter.com" target="_blank">www.schwizerschlatter.com</a>
             </p>
-            
-            <h1 class="left">
-            play stress away gmbh<br>
-            Schaffhauserstrasse 115<br>
-            8302 Kloten<br><br>
-            <a href="tel:+41448306000">Telefon +41 44 830 60 00</a>
-            <a href="mailto:gil.monroy@playstressaway.ch">gil.monroy@playstressaway.ch</a>
-        </h1>
-            
-            <p><b>Design &#38; Interaction:</b><br>Schwizer &#38; Schlatter GmbH<br>Davidstrasse 45<br>9000 St.Gallen<br>
-                <a class="linkw" href="https://www.schwizerschlatter.com" target="_blank">www.schwizerschlatter.com</a>
-            </p>
-            <p>© 2019 Bauherrengemeinschaft Baumgarten. All rights reserved | <span class="linkw disclamer impressum" data-toggle="#datenschutz">Disclamer</span></p>
+            <p>© 2019 play stress away gmbh. All rights reserved</p>
         </div>
 </footer>
 

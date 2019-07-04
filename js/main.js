@@ -64,7 +64,7 @@ $(document).ready(function () {
 
     $('.togglelink').click(function() {
         var totoggle = $(this).attr("data-toggle");
-        $(totoggle).toggle();
+        $(totoggle).slideToggle(500);
         
         if ($(totoggle).is(":visible")) {
             $('html,body').animate({scrollTop:$(totoggle).offset().top}, 1000);

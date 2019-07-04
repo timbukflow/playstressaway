@@ -168,7 +168,7 @@
                     <circle class="puls" cx="180" cy="180" r="120"/>
                     <circle class="puls" cx="180" cy="180" r="180"/>
                 </svg>
-                <figcaption>??????????????????????????????????</figcaption>
+                <figcaption>Neuronale Aktivierung</figcaption>
             </figure>
             <div class="container50">
                 <h1>2. Neuronale Aktivierung</h1>
@@ -186,13 +186,9 @@
         
         <article class="articlecontainer">
             <figure class="container50">
-                <img src="img/play-stress-away-neuronale-aktivierung-stressabbau.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
-                <svg version="1.1" id="neuronaleAktivierung" class="animation3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 360 360" style="enable-background:new 0 0 360 360;" xml:space="preserve">
-                    <circle class="puls" cx="180" cy="180" r="150"/>
-                    <circle class="puls" cx="180" cy="180" r="120"/>
-                    <circle class="puls" cx="180" cy="180" r="180"/>
-                </svg>
-                <figcaption>??????????????????????????????????</figcaption>
+                <img src="img/play-stress-away-embodiment-stressabbau-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <img class="animation3" src="img/play-stress-away-embodiment-stressabbau-2.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <figcaption>Embodiment</figcaption>
             </figure>
             <div class="container50">
                 <h1>3. Embodiment</h1>
