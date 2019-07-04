@@ -3,33 +3,34 @@ $(document).ready(function () {
 // nav //
     
 	$('#navburger').click(function(){
-		$(this).toggleClass('open');
-        $('.nav').fadeToggle(1000);
-        $('.nav ul').toggleClass('up');
-        $('.nav li').toggleClass('open');
+		$(this).stop(true).toggleClass('open');
+        $('.nav').stop(true).fadeToggle(1000);
+        $('.nav ul').stop(true).toggleClass('up');
+        $('.nav li').stop(true).toggleClass('open');
 	});
     
+   
+    
     $('.bookmark').click(function() {
-        
-        var position = $($(this).attr('href')).offset().top;
+        var position = $($(this).attr('href')).offset().top - 150;
         
         $('#navburger').removeClass('open');
         $('.nav').fadeToggle(1000);
         $('.nav ul').removeClass('up');
         $('.nav li').removeClass('open');
-        $("body, html").animate({
-            scrollTop: position
-        }, 2000);
+        $("body, html").animate({scrollTop: position}, 2000);
     });
     
     $('.footer').click(function() {
-        var position = $($(this).attr('href')).offset().top;
+         var position = $($(this).attr('href')).offset().top - 150;
         $("body, html").animate({
             scrollTop: position
         }, 2000);
     });
     
+    
 // Sroll resizing Navigation //
+    
     
     $(document).on('scroll', function () {
         if ($(document).scrollTop() > 10) {
@@ -49,12 +50,12 @@ $(document).ready(function () {
     
     $(".togglebox").hide();
     $(".togglebutton").click(function(){
-        var x = $(this).prev(".togglebox").css("display");  
+        var x = $(this).parents("div").next(".togglebox").css("display");  
         if(x=="block")
             $(this).text("\53");
         else
             $(this).text("\u2013");
-            $(this).prev(".togglebox").slideToggle("slow");
+            $(this).parents("div").next(".togglebox").slideToggle("slow");
         return true;
     });
     
