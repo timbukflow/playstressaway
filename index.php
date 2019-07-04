@@ -143,10 +143,8 @@
         
         <article class="articlecontainer">
             <figure class="container50">
-                <img src="img/play-stress-away-vitalisierende-gewohnheiten-1.svg" alt="play-stress-away-vitalisierende-gewohnheiten" width="100%"/>
-                <img class="animation3" src="img/play-stress-away-vitalisierende-gewohnheiten-2.svg" alt="play-stress-away-vitalisierende-gewohnheiten" width="100%"/>
-                
-                <figcaption>??????????????????????????????????</figcaption>
+                <img src="img/play-stress-away-vitalisierende-gewohnheiten.svg" alt="play-stress-away-vitalisierende-gewohnheiten" width="100%"/>
+                <figcaption>3 Monate Begleitung mit play stress away</figcaption>
             </figure>
             <div class="container50">
                 <h1>1. Vitalisierende Gewohnheiten</h1>
