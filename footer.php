@@ -2,8 +2,8 @@
     <div class="wave-footer"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
     <div class="nav-footer">
         <ul>
-            <li><a class="footer" href="#stress">Stress</a></li>
-            <li><a class="footer" href="#konzept">Konzept</a></li>
+            <li><a class="footer" href="index#stress">Stress</a></li>
+            <li><a class="footer" href="index#konzept">Konzept</a></li>
             <li><a href="stresstest">Stresstest</a></li>
             <li><a href="angebot">Angebot</a></li>
             <li><a href="kontakt">Kontakt</a></li>

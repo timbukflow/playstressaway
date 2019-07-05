@@ -105,7 +105,7 @@
                 <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
                 <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
                 <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
-                <figcaption class="figcaptionstb green">konzentriert, hört zu und versteht, hohe Merkfähigkeit und Flexibilität, Resilienz, Neuro-Agility</figcaption>
+                <figcaption class="figcaptionstb ">konzentriert, hört zu und versteht, hohe Merkfähigkeit und Flexibilität, Resilienz, Neuro-Agility</figcaption>
             </figure>
             <div class="container50">
                 <h1>0 - 5 Punkte</h1>
@@ -135,7 +135,7 @@
                 <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
                 <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
                 <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
-                <figcaption class="figcaptionstb yellow">Missverständnisse, Fehler, Anspannung, emotional instabil, Anfälligkeit auf Krankheiten</figcaption>
+                <figcaption class="figcaptionstb">Missverständnisse, Fehler, Anspannung, emotional instabil, Anfälligkeit auf Krankheiten</figcaption>
             </figure>
             <div class="container50">
                 <h1>11 - 17 Punkte</h1>
@@ -150,7 +150,7 @@
                 <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
                 <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
                 <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
-                <figcaption class="figcaptionstb red">Realitätsverzerrung, Misstrauen, hohe Anspannung, berufliche und private Konflikte, Anfälligkeit auf Langzeitausfälle</figcaption>
+                <figcaption class="figcaptionstb">Realitätsverzerrung, Misstrauen, hohe Anspannung, berufliche und private Konflikte, Anfälligkeit auf Langzeitausfälle</figcaption>
             </figure>
             <div class="container50">
                 <h1>18 - 25 Punkte</h1>
@@ -159,82 +159,104 @@
                 </p>
             </div>
         </article>
-    </section><!--sectionend stress-->
+    </section><!--sectionend stresstest-->
     
-    <div class="kontakt">    
-        <div class="column50">
-            <div class="imgcontainer50 stressimg">
-                <img class="underimg hoverimg" src="img/play-stress-away-hirnnutzungsfaehigkeiten-04.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
+    <section id="konzept">
+        <div class="wave"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
+        <article class="articlecontainer">
+            <div class="container100">
+                <h1>play stress away® Konzept</h1>
+                <p class="lauftext">
+                    Basierend auf aktuellsten neurobiologischen Fakten, dem Wissen über die Wirkung andauernder Stressanspannung und aufgrund jahrelanger Erfahrung in Personalwesen, wurde das vitalisierende Konzept mit den wirkungsvollen Gewohnheiten aus den folgenden drei Säulen entwickelt, sodass sich dieses Mal wirklich etwas verändert:
+                </p>
             </div>
-            <h2 class="left"><span class="result">0 - 5</span><br>Herzlichen Glückwunsch! Deine Stressbelastung wirkt sich beneidenswert wenig aus.</h2>
-            <div class="togglecontainer">
-                <div class="togglebox">
-                  <div class="content">
-                    <h2 class="left">Bei diesem Testergebnis musst du nichts unternehmen. Wenn du allerdings Probleme hast, die hier nicht abgefragt wurden oder eine innere Stimme dich warnt, nimm das ernst.</h2>
-                  </div>
-                </div>
-                <button class="togglebutton hoverimg">&#43;</button>
-            </div>
-        </div>
+        </article>
         
-        <div class="column50">
-            <div class="imgcontainer50 stressimg">
-                <img class="underimg hoverimg" src="img/play-stress-away-hirnnutzungsfaehigkeiten-03.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
+        <article class="articlecontainer">
+            <figure class="container50">
+                <img src="img/play-stress-away-vitalisierende-gewohnheiten.svg" alt="play-stress-away-vitalisierende-gewohnheiten" width="100%"/>
+                <figcaption>3 Monate Begleitung mit play stress away</figcaption>
+            </figure>
+            <div class="container50">
+                <h1>1. Vitalisierende Gewohnheiten</h1>
+                <p class="lauftext">
+                    Veränderte Hirnverschaltungen benötigen wiederkehrende Impulse während zwölf Wochen  bis sie reflexartig verinnerlicht sind, und die neuen vitalisierenden Gewohnheiten ihre Wirkung im Alltag entfalten. Oder, nach welchem Eintages-Seminar hast du nachhaltig tatsächlich etwas verändert?
+                </p>
+                <button class="togglebutton">&#43;</button>
             </div>
-            <h2 class="left"><span class="result">6 - 10</span><br>Deine Belastungen lösen noch keine besorgniserregenden Stressfolgen aus.</h2>
-            <div class="togglecontainer">
-                <div class="togglebox">
-                  <div class="content">
-                    <h2 class="left">Achte aber dennoch auf dich, damit sich die Stressanzeichen nicht langsam und schleichend vermehren. Du kannst aus eigener Kraft Themen in Angriff nehmen und deine Lage verbessern. Mach das, und wiederhole den Test nach sechs Wochen.</h2>
-                  </div>
-                </div>
-                <button class="togglebutton hoverimg">&#43;</button>
+            <div class="togglebox">
+                <p class="lauftext">
+                    Mit dieser Erkenntnis und dem Ziel, das betriebliche Umfeld mit real veränderten Verhaltensweisen spürbar zu entstressen, begleiten wir die Teilnehmenden über diese drei Monate hinweg.<br><br>In den Dienstleistungspaketen Team, Enterprise und Enterprise+ ist die Zeit von zwei Seminartagen auf zwölf Wochen aufgeteilt. Wir starten mit dem Kick-off von ca. einem halben Tag, in dem viel neues Know how erarbeitet und selbst erfahren wird.<br><br>In der folgenden Aktivierungsphase setzen wir uns wöchentlich eine Stunde mit der Thematik auseinander und investieren in den tatsächlichen Transfer, so dass alle Teilnehmenden aus den vielfältigen Vorschlägen auch für sich ein paar wirkungsvolle vitalisierende Gewohnheiten verankern können. Die unbändige Kraft der Gewohnheit machen wir uns folglich zu Nutzen, indem wir bewusst ein paar Verhaltensweisen optimieren und sich danach die positiven Veränderungen im Alltag und direkt am Arbeitsplatz auswirken.
+                </p>
             </div>
-        </div>
-    </div>
-    
-    <div class="kontakt">
-        <div class="column50">
-            <div class="imgcontainer50 stressimg">
-                <img class="underimg hoverimg" src="img/play-stress-away-hirnnutzungsfaehigkeiten-02.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
-            </div>
-            <h2 class="left"><span class="result">10 - 17</span><br>Du bist in einem Zustand, der schnell kritisch werden kann.</h2>
-            <div class="togglecontainer">
-                <div class="togglebox">
-                  <div class="content">
-                    <h2 class="left">Bitte nimm das Ergebnis ernst und besprich es mit einer Person deines Vertrauens. Wenn dieser Zustand schon länger anhält, dann beeinflusst die hormonelle Stresssituation deine Leistungsfähigkeit und deine Lebensqualität erheblich.</h2>
-                  </div>
-                </div>
-                <button class="togglebutton hoverimg">&#43;</button>
-            </div>
-        </div>
+        </article>
         
-        <div class="column50">
-            <div class="imgcontainer50 stressimg">
-                <img class="underimg hoverimg" src="img/play-stress-away-hirnnutzungsfaehigkeiten-01.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
+        <article class="articlecontainer">
+            <figure class="container50 right">
+                <img src="img/play-stress-away-neuronale-aktivierung-stressabbau.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <svg version="1.1" id="neuronaleAktivierung" class="animation3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 360 360" style="enable-background:new 0 0 360 360;" xml:space="preserve">
+                    <circle class="puls" cx="180" cy="180" r="150"/>
+                    <circle class="puls" cx="180" cy="180" r="120"/>
+                    <circle class="puls" cx="180" cy="180" r="180"/>
+                </svg>
+                <figcaption>Neuronale Aktivierung</figcaption>
+            </figure>
+            <div class="container50">
+                <h1>2. Neuronale Aktivierung</h1>
+                <p class="lauftext">
+                    Mit imaginierten, positiven und selbsterlebten Erfahrungen aus der eigenen Vergangenheit, aktivieren wir alle neun Sinne und stossen so deine persönliche Selbstregulation an. Damit beeinflussen wir selbstgesteuert unseren Stresshormon Abbau und unsere Entspannungskompetenz.  So wird der dringend benötigten tiefe Schlaf und die tatsächliche Regeneration wieder Teil unseres Alltags!
+                </p>
+                <button class="togglebutton">&#43;</button>
             </div>
-            <h2 class="left"><span class="result">18 - 25</span><br>Sicher hast du gewusst, dass dein Zustand bedenklich ist.</h2>
-            <div class="togglecontainer">
-                <div class="togglebox">
-                  <div class="content">
-                    <h2 class="left">Es geht nun darum, einen Totalausfall mit lang andauernden Folgen zu vermeiden. Dazu solltest du dir unbedingt so schnell wie möglich eine professionelle Fachberatung gönnen. Vermeide, noch mehr Zeit zu verlieren und einen Burn-out zu riskieren.</h2>
-                  </div>
-                </div>
-                <button class="togglebutton hoverimg">&#43;</button>
+            <div class="togglebox">
+                <p class="lauftext">
+                    In den zwölf Wochen erlernen wir die Zusammenhänge der kombinierten Körperabläufe und der neuronalen Aktivierung, die im Alltag die volle Kraft aufbauen können. Da unsere Gewohnheiten im Grunde unbewusste Programme sind, ermöglicht dir die neuronale Aktivierung, eine Neuprogrammierung deiner unbewusst ablaufenden Gewohnheiten. Hast du diese verändert, wendest du die neuen vitalisierenden Gewohnheiten ohne Kraftanstrengung an, oder musstest du dich schon mal anstrengen beim Zähne putzen?<br><br>Zur nachhaltigen selbstgesteuerten Veränderung erhältst du als Teilnehmender des play stress away® Konzepts digitale Hilfsmittel, die du einsetzen kannst, damit du die vollen Hirnnutzungsfähigkeiten entfalten wirst, vitalisierende Gewohnheiten für dich programmierst und damit die Stresshormone im Griff hältst.
+                </p>
             </div>
-        </div>
-
-    </div>
-    
-    <div id="stresstest">
-        <a href="kontakt">Kontaktiere uns</a>
-    </div>
-    
-    <script src="js/vendor/modernizr-3.7.1.min.js"></script>
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.3.1.min.js"><\/script>')</script>
-  <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
+        </article>
+        
+        <article class="articlecontainer">
+            <figure class="container50">
+                <img src="img/play-stress-away-embodiment-stressabbau-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <img class="animation3" src="img/play-stress-away-embodiment-stressabbau-2.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <figcaption>Embodiment</figcaption>
+            </figure>
+            <div class="container50">
+                <h1>3. Embodiment</h1>
+                <p class="lauftext">
+                    Gemäss aktuellsten Forschungen, aber auch aus uraltem Erfahrungswissen, kennen wir die sich wechselseitig stärkenden Wirkungen von Körper und Geist. Diesem gemeinsamen Wirken von Körper und Geist messen wir in allen Aspekten des play stress away® Programms grosse Bedeutung bei.
+                </p>
+                <button class="togglebutton">&#43;</button>
+            </div>
+            <div class="togglebox">
+                <p class="lauftext">
+                    Damit stellst du für dich sicher, dass du das neue Know How direkt anwendest und mit der körperlichen Verinnerlichung die neuen vitalisierenden Gewohnheiten nachhaltig neu programmierst. Indem du dir deine bisherigen Gewohnheiten bewusst werden lässt und die neuen vitalisierenden Gewohnheiten auch körperlich verinnerlichst, wirken diese neuen Kräfte in deinem Alltag und verhelfen dir zu mehr Energie und Lebensqualität.<br><br>
+                    Folgende Beispiele erwarten dich mit dem play stress away® Konzept, direkt am Arbeitsplatz:<br>
+                    <br>1. Selbststeuerung und bewusste Veränderung der hormonell beeinflussten Emotionen
+                    <br>2. Bewusste Atemübungen, die nachweislich Stresshormone, insbesondere Adrenalin abbauen
+                    <br>3. Vitalisierende Abwechslung im Büroalltag zwischen sitzender und stehender Haltung
+                    <br>4. Dynamisches Stehen als Sitzungsvorbereitung
+                    <br>5. Plantarfaszien ausrollen, damit du trotz häufigem Sitzen, körperliche Entspannung wahrnimmst
+                    <br>6. Dank den Utensilien der play box während gestressten Situation Fokus zurückgewinnen
+                    <br>7. Aktive Blitzpausen für neuen Fokus und Entspannung, alleine und auch mit TeamkollegInnen
+                </p>
+            </div>
+        </article>
+        
+        <article class="articlecontainer">
+            <figure class="container50 right">
+                <img src="img/play-stress-away-gemeinsame-ziele-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <figcaption>Embodiment</figcaption>
+            </figure>
+            <div class="container50">
+                <h1>Gemeinsame Ziele erreichen</h1>
+                <p class="lauftext">
+                    Wir begleiten auch dein Unternehmen zur aktivierenden Arbeitsumgebung, in der es normal ist, dass die Mitarbeitenden vital sind und über den vollen Zugang zu ihren Hirnnutzungsfähigkeiten verfügen. Arbeitest du auch lieber motiviert im Team und begeistert deine Kunden, dass sie euch gerne weiterempfehlen? - Dann kontaktiere uns noch heute für ein erstes Treffen. play stress away!
+                </p>
+                <button><a class="button" href="kontakt">Kontaktiere uns</a></button>
+            </div>
+        </article>
+    </section><!--sectionend konzept-->
+    <?php include 'footer.php'; ?>
 </body>
-
 </html>
