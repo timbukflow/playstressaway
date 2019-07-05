@@ -12,7 +12,7 @@ $(document).ready(function () {
    
     
     $('.bookmark').click(function() {
-        var position = $($(this).attr('href')).offset().top - 150;
+        var position = $($(this).attr('href')).offset().top - 120;
         
         $('#navburger').removeClass('open');
         $('.nav').fadeToggle(1000);
@@ -22,7 +22,7 @@ $(document).ready(function () {
     });
     
     $('.footer').click(function() {
-         var position = $($(this).attr('href')).offset().top - 150;
+         var position = $($(this).attr('href')).offset().top - 120;
         $("body, html").animate({
             scrollTop: position
         }, 2000);

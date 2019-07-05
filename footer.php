@@ -41,7 +41,7 @@
 <script src="js/main.js"></script>
 
 <script>
-    var gaProperty = 'UA-142487628-1';
+    var gaProperty = 'UA-142487628-2';
     var disableStr = 'ga-disable-' + gaProperty;
     if (document.cookie.indexOf(disableStr + '=true') > -1) { 
         window[disableStr] = true;
@@ -61,7 +61,7 @@
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-142487628-1', 'auto');
+ga('create', 'UA-142487628-2', 'auto');
 ga('set', 'anonymizeIp', true);
 ga('send', 'pageview');
 </script>

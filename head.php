@@ -51,4 +51,4 @@
 <meta name="google-site-verification" content="VtYYXQk1_zESEOygnvAPPyfo_84PJzyJUegJvUIPjj8" />
 <link rel="stylesheet" href="css/normalize.css">
 <link rel="stylesheet" href="css/main.css">
-<link href="https://fonts.googleapis.com/css?family=Signika:300,400" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Signika:300,400&display=swap" rel="stylesheet">

@@ -38,14 +38,16 @@
                 <button><a class="button footer" href="#stress">Erfahre mehr</a></button>
             </div>
         </article>
-        <div class="wave-home"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
     </section>
     
     
     <section id="stress">
+        <div class="wave-container">
+            <div class="wave-home"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
+        </div>
         <article class="articlecontainer">
             <figure class="container50 right">
-                <img src="img/play-stress-away-job-stress-index-schweiz.svg" alt="play-stress-away-job-stress-index-schweiz" width="100%" height="auto"/>
+                <img src="img/play-stress-away-job-stress-index-schweiz.png" alt="play-stress-away-job-stress-index-schweiz" width="100%" height="auto"/>
                 <figcaption>Job-Stress-Index Schweiz 2018 der 5 Mio. Erwerbstätigen</figcaption>
             </figure>
             <div class="container50">
@@ -209,6 +211,20 @@
                     <br>6. Dank den Utensilien der play box während gestressten Situation Fokus zurückgewinnen
                     <br>7. Aktive Blitzpausen für neuen Fokus und Entspannung, alleine und auch mit TeamkollegInnen
                 </p>
+            </div>
+        </article>
+        
+        <article class="articlecontainer">
+            <figure class="container50 right">
+                <img src="img/play-stress-away-gemeinsame-ziele-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <figcaption>Embodiment</figcaption>
+            </figure>
+            <div class="container50">
+                <h1>Gemeinsame Ziele erreichen</h1>
+                <p class="lauftext">
+                    Wir begleiten auch dein Unternehmen zur aktivierenden Arbeitsumgebung, in der es normal ist, dass die Mitarbeitenden vital sind und über den vollen Zugang zu ihren Hirnnutzungsfähigkeiten verfügen. Arbeitest du auch lieber motiviert im Team und begeistert deine Kunden, dass sie euch gerne weiterempfehlen? - Dann kontaktiere uns noch heute für ein erstes Treffen. play stress away!
+                </p>
+                <button><a class="button" href="kontakt">Kontaktiere uns</a></button>
             </div>
         </article>
     </section><!--sectionend konzept-->

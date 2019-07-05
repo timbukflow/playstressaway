@@ -79,7 +79,7 @@ body {
   background: #ffffff;
 }
 
-h1, h2, h3, p, a, table, figcaption, button , .togglelink {
+h1, h2, h3, p, a, table, figcaption, button, .togglelink, .tr, .td, .th {
     font-family: 'Signika', sans-serif;
     color: #575757;
     font-weight: 300;
@@ -187,6 +187,8 @@ main-nav
 #navcontainer {
     width: 100%;
     position: fixed;
+    top: 0;
+    left: 0;
     z-index: 100;
     background-color: #fff;
 }
@@ -729,17 +731,22 @@ article .right {
 .wave {
     overflow: hidden;
     position: relative;
-    height: 280px;
+    height: 250px;
     background: rgb(255,255,255);
     background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(235,245,251,1) 100%);
 }
 
-.wave-home {
-    overflow: hidden;
-    position: absolute;
-    bottom: 0;
+.wave-container {
+    position: relative;
+    height: 80px;
     width: 100%;
-    height: 20%;
+}
+
+.wave-home {
+    position: absolute;
+    top: -120px;
+    width: 100%;
+    height: 300px;
     z-index: 1;
     background: rgb(255,255,255);
     background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(235,245,251,1) 100%);
@@ -752,17 +759,9 @@ article .right {
     background: rgba(235,245,251,1);
 }
 
-.wave img, .wave-home img, .wave-footer img {
-    position: absolute;
-    top: -2px;
-    padding: 0px;
-    margin: 0px;
-    width: 105%;
-    left: -5px;
-}
-
-#stress, #konzept{
+#stress, #konzept, #stresstest{
     width: 100%;
+    position: relative;
 }
 
 .top {
@@ -781,13 +780,6 @@ article .right {
     stresstest
 -----------------------------------*/
 
-.imgcontainerstress {
-    position: relative;
-    width: 35%;
-    margin: 70px auto;
-    margin-top: 40px;
-}
-
 .kontakt h1 {
     margin: 0;
 }
@@ -798,32 +790,34 @@ article .right {
     margin-top: 10px;
 }
 
+
+
+
+
 .table {
-    color: #005A32;
-    font-size: 21px;
-    width: 100%;
-    margin-top: 100px;
+    width: 88%;
+    margin: 0px 6%;
     display: inline-block;
 }
 
 .tr {
     width: 100%;
     display: inline-block;
-    border-bottom: 1px solid #005A32;
+    border-bottom: 1px solid #888888;
     float: left;
+    box-sizing: border-box;
 }
 
 .td, .th {
-    font-family: 'Signika', sans-serif;
     text-align: center;
     padding: 15px 10px;
     width: 12%;
     float: left;
+    box-sizing: border-box;
 }
 
-.th {
+.th{
     font-size: 16px;
-    font-weight: 300;
 }
 
 .td span {
@@ -832,15 +826,9 @@ article .right {
     display: inline-block;
 }
 
-.th span.yellow {
-    color: #f7c45a;
-}
-
-.th span.red {
-    color: #e1614a;
-}
 
 .first {
+    font-weight: 400;
     width: 52%;
     text-align: left;
 }
@@ -848,6 +836,7 @@ article .right {
 .firstg {
     width: 88%;
     text-align: left;
+    font-size: 40px;
 }
 
 .last {
@@ -855,10 +844,8 @@ article .right {
     text-align: left;
 }
 
-.result span,
-.result {
-    font-size: 60px;
-    color: #005A32;
+.result span {
+    font-size: 40px;
 }
 
 span.respcheck {
@@ -866,26 +853,28 @@ span.respcheck {
     font-size: 16px;
 }
 
-.stressimg {
-    width: 36%;
+.copyright {
+    font-size: 16px;
+    padding: 10px 35px;
+    width: 88%;
+    margin: 0px 6%;
+    box-sizing: border-box;
 }
 
-#stresstest a {
-    display: block;
-    color: #fff;
-    width: 100%;
-    font-size: 30px;
-    text-align: center;
-    background-color: #005A32;
-    padding: 30px;
-    margin-top: 150px;
-    -webkit-transition: ease 0.5s;
-    transition: ease 0.5s;
-    border-radius: 40% 40% 0 0;
+
+.figcaptionstb {
+    font-size: 20px;
+    margin: 0;
 }
 
-#stresstest a:hover {
-   
+.green {
+    color: #009632;
+}
+.yellow {
+    color: #f7c45a;
+}
+.red {
+    color: #e1614a;
 }
 
 /*---------------------------------- 
@@ -921,7 +910,7 @@ span.respcheck {
 }
 
 .container input:checked ~ .checkmark {
-  background-color: #005A32;
+  background-color: #006AEA;
 }
 
 .checkmark:after {
@@ -984,23 +973,29 @@ footer {
 
 #optoutbanner99 {
     position: fixed;
-    top: 0;
+    bottom: 0;
+    border-radius: 100px;
     left: 0;
+    right: 0;
+    margin: 40px auto;
     background-color: rgba(235,245,251,1);
-    padding: 20px;
+    padding: 15px;
     z-index: 100;
-    width: 270px;
+    width: 470px;
+    height: 40px;
 }
 
 #optoutbanner99 a,
 #optoutbanner99 p{
-	cursor: pointer;
     font-size: 15px;
     display: inline-block;
-    margin: 0px 3px;
+}
+#optoutbanner99 p{
+   padding: 10px;
 }
 
 #acceptga {
+    cursor: pointer;
     text-decoration: none !important;
     background-color: #006AEA;
     color: #fff !important;
