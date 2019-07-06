@@ -3,8 +3,8 @@
 <!--[if IE 8]>	 <html class="no-js lt-ie9" lang="de"><![endif]-->
 <!--[if gt IE 8]><!--><html class="no-js" lang="de"><!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
-    <title>playstressaway</title>
-    <meta name="description" content="Wirkungsvolle Pr&auml;vention und Aktivierung dank neurobiologischen Fakten. Mit dem play stress away® Konzept reduzieren Sie in Ihrem Unternehmen die Fehlzeiten und Produktionsausf&auml;lle, sparen Kosten und ihre vitalisierten Mitarbeitenden mit aktivierten Hirnnutzungsf&auml;higkeiten generieren viele weitere Kunden, die Sie weiterempfehlen.">
+    <title>playstressaway | Stresstest</title>
+<meta name="description" content="playstressaway | Stresstest">
     <?php include 'head.php'; ?>
 </head>
 
