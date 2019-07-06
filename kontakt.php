@@ -13,9 +13,10 @@
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
 
+  <header>
     <nav id="navcontainer" >  
         <a href="index" target="_top" class="nav-logo">
-            <img class="logo" src="img/playstressaway-logo.svg" alt="playstressaway-logo">
+            <img class="logo" src="img/playstressaway-logo.svg" alt="playstressaway-logo"/>
         </a>
        
         <div id="navburger">
@@ -29,13 +30,14 @@
                 <li><a href="index#stress">Stress</a></li>
                 <li><a href="index#konzept">Konzept</a></li>
                 <li><a href="stresstest">Stresstest</a></li>
-                <!--<li><a href="produkte">Produkte</a></li>-->
+                <li><a href="angebot">Angebot</a></li>
                 <li><a href="kontakt">Kontakt</a></li>
             </ul>
-        </div> 
+        </div>
     </nav>
     
     <div class="pagefadein"></div>
+</header>
     
     <div class="kontakt ktop">
         <h1 class="left">

@@ -9,8 +9,7 @@ $(document).ready(function () {
         $('.nav li').stop(true).toggleClass('open');
 	});
     
-   
-    
+
     $('.bookmark').click(function() {
         var position = $($(this).attr('href')).offset().top - 120;
         
@@ -20,14 +19,6 @@ $(document).ready(function () {
         $('.nav li').removeClass('open');
         $("body, html").animate({scrollTop: position}, 2000);
     });
-    
-    $('.footer').click(function() {
-         var position = $($(this).attr('href')).offset().top - 120;
-        $("body, html").animate({
-            scrollTop: position
-        }, 2000);
-    });
-    
     
 // Sroll resizing Navigation //
     
