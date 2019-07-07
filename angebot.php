@@ -44,131 +44,193 @@
                 </p>
             </div>
         </article>
-        <article class="articlecontainer top">
-            <div class="container25 left">
-                <h1>play stress away® Package</h1>
-                <p class="lauftext">
-                    Kurzer Einleitungstext. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                </p>
+        <article class="articlecontainer">
+            <div class="tabscontainer">
+                <div class="container25">
+                    <h1>Enterprise</h1>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>Live vor Ort</strong><br>wöchentlich während 12 Wochen</span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>Live</strong><br>wöchentlich während 12 Wochen</span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>Online Tutorials</strong><br>Zugang während dem Programm</span>
+                    </p>
+                    <p class="lauftext full">
+                        Ab 20 Mitarbeitenden werden die Trainings vor Ort in 10er Gruppen druchgeführt.
+                    </p>
+                    <p class="lauftext chf">
+                        777.-
+                    </p>
+                    <a href="mailto:gil.monroy@playstressaway.ch?subject=Anfrage%20Enterprise">Anfrage</a>
+                </div>
+                <div class="container25">
+                    <h1>Enterprise +</h1>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>Live vor Ort</strong><br>wöchentlich während 12 Wochen</span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>Live</strong><br>wöchentlich während 12 Wochen</span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>Online Tutorials</strong><br>Zugang während dem Programm</span>
+                    </p>
+                    <p class="lauftext full">
+                        Ab 40 Mitarbeitenden werden die Trainings vor Ort in 10er Gruppen druchgeführt.
+                    </p>
+                    <p class="lauftext chf">
+                        555.-
+                    </p>
+                    <a href="mailto:gil.monroy@playstressaway.ch?subject=Anfrage%20Enterprise+">Anfrage</a>
+                </div>
+                <div class="container25">
+                    <h1>Team</h1>
+                    <p class="lauftext">
+                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>Live vor Ort</del></strong><br><del>wöchentlich während 12 Wochen</del></span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>Live</strong><br>wöchentlich während 12 Wochen</span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>Online Tutorials</strong><br>Zugang während dem Programm</span>
+                    </p>
+                    <p class="lauftext full">
+                        Die einzelnen Teilnehmenden werden in 10er Gruppen eingeteilt. Sessions finden in den Trainingsräumen von play stress away statt.
+                    </p>
+                    <p class="lauftext chf">
+                        999.-
+                    </p>
+                    <a href="mailto:gil.monroy@playstressaway.ch?subject=Anfrage%20Team">Anfrage</a>
+                </div>
+                <div class="container25">
+                    <h1>Change +</h1>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>Live vor Ort</strong><br>eintägiger Workshop</span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>Live</del></strong><br><del>wöchentlich während 12 Wochen</del></span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>Online Tutorials</del></strong><br><del>Zugang während dem Programm</del></span>
+                    </p>
+                    <p class="lauftext full">
+                        Ausgewählte Führungskräfte und Mitarbeitende erarbeiten die Inhalte für die internen Stressoren Workshops, die begleitend in den Teams durchgeführt werden.
+                    </p>
+                    <p class="lauftext chf">
+                        2345.-
+                    </p>
+                    <a href="mailto:gil.monroy@playstressaway.ch?subject=Anfrage%20Change+">Anfrage</a>
+                </div>
             </div>
-            <div class="container25">
-                <h1>play stress away® Package</h1>
-                <p class="lauftext">
-                    Kurzer Einleitungstext. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                </p>
-            </div>
-            <div class="container25">
-                <h1>play stress away® Package</h1>
-                <p class="lauftext">
-                    Kurzer Einleitungstext. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                </p>
-            </div>
-            <div class="container25">
-                <h1>play stress away® Package</h1>
-                <p class="lauftext">
-                    Kurzer Einleitungstext. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                </p>
-            </div>
+            <figcaption>Preis in CHF inkl. MwSt / Teilnehmenden</figcaption>
         </article>
-        
-    </section><!--sectionend stresstest-->
+    </section><!--sectionend package-->
     
-    <section id="konzept">
+    <section id="toolbox">
         <div class="wave"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
         <article class="articlecontainer">
-            <div class="container100">
-                <h1>play stress away® Konzept</h1>
+            <div class="container100 toolbox">
+                <h1>play stress away® Tools</h1>
                 <p class="lauftext">
-                    Basierend auf aktuellsten neurobiologischen Fakten, dem Wissen über die Wirkung andauernder Stressanspannung und aufgrund jahrelanger Erfahrung in Personalwesen, wurde das vitalisierende Konzept mit den wirkungsvollen Gewohnheiten aus den folgenden drei Säulen entwickelt, sodass sich dieses Mal wirklich etwas verändert:
+                    Kurzer Einleitungstext. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
                 </p>
             </div>
         </article>
-        
         <article class="articlecontainer">
-            <figure class="container50">
-                <img src="img/play-stress-away-vitalisierende-gewohnheiten.svg" alt="play-stress-away-vitalisierende-gewohnheiten" width="100%"/>
-                <figcaption>3 Monate Begleitung mit play stress away</figcaption>
-            </figure>
-            <div class="container50">
-                <h1>1. Vitalisierende Gewohnheiten</h1>
-                <p class="lauftext">
-                    Veränderte Hirnverschaltungen benötigen wiederkehrende Impulse während zwölf Wochen  bis sie reflexartig verinnerlicht sind, und die neuen vitalisierenden Gewohnheiten ihre Wirkung im Alltag entfalten. Oder, nach welchem Eintages-Seminar hast du nachhaltig tatsächlich etwas verändert?
-                </p>
-                <button class="togglebutton">&#43;</button>
+            <div class="tabscontainer">
+                <div class="container25">
+                    <h1>PlayBox</h1>
+                    <p class="lauftext">
+                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>Vitalisierungen</del></strong><br><del>Session vor Ort für die Mitarbeitenden</del></span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>kybun® Matte</del></strong><br><del>96 x 46 x 6 cm</del></span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>PlayBox</strong></span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>TrainingsLetter</strong></span>
+                    </p>
+                    <p class="lauftext full">
+                        Baue deine Stresshormone ab und entfalte deine Hirnnutzungsfähigkeiten. Mittels dem TrainingsLetter hast du Zugang zu wirkungsvollen Übungen, die du direkt am Arbeitsplatz zur vitalisierenden Gewohnheit verankerst.
+                    </p>
+                    <p class="lauftext chf">
+                        55.-
+                    </p>
+                    <a href="mailto:gil.monroy@playstressaway.ch?subject=Anfrage%20PlayBox">Anfrage</a>
+                </div>
+                <div class="container25">
+                    <h1>PlayBox +</h1>
+                    <p class="lauftext">
+                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>Vitalisierungen</del></strong><br><del>Session vor Ort für die Mitarbeitenden</del></span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>kybun® Matte</strong><br>96 x 46 x 6 cm</span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>PlayBox</strong></span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>TrainingsLetter</strong></span>
+                    </p>
+                    <p class="lauftext full">
+                        Fördere alle deine Sinne, mit der PlayBox+ zusätzlich gezilt deinen Gleichgewichtssinn. Mittels dem TrainingsLetter hast du Zugang zu wirkungsvollen Übungen, die du direkt am Arbeitsplatz zur vitalisierenden Gewohnheit verankerst.
+                    </p>
+                    <p class="lauftext chf">
+                        333.-
+                    </p>
+                    <a href="mailto:gil.monroy@playstressaway.ch?subject=Anfrage%20PlayBox+">Anfrage</a>
+                </div>
+                <div class="container25">
+                    <h1>PlayBox Enterprise</h1>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>Vitalisierungen</strong><br>Session vor Ort für die Mitarbeitenden</span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>kybun® Matte</del></strong><br><del>96 x 46 x 6 cm</del></span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>PlayBox</strong></span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>TrainingsLetter</strong></span>
+                    </p>
+                    <p class="lauftext full">
+                        Ab 30 Mitarbeitenden Vitalisierungs-Session inkl. Vermittlung elementarer Kenntnisse zum Stresssystem vor Ort mit eigenem Erfahren inkl. 30x PlayBox Dauer nach Absprache und Rahmenprogramm 1h bis 2h.
+                    </p>
+                    <p class="lauftext chf">
+                        1223.-
+                    </p>
+                    <a href="mailto:gil.monroy@playstressaway.ch?subject=Anfrage%20PlayBox%20Enterprise">Anfrage</a>
+                </div>
+                <div class="container25">
+                    <h1>PlayBox Enterprise +</h1>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>Vitalisierungen</strong><br>Session vor Ort für die Mitarbeitenden</span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>kybun® Matte</del></strong><br><del>96 x 46 x 6 cm</del></span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>PlayBox</strong></span>
+                    </p>
+                    <p class="lauftext">
+                        <span class="one">&#x2714;</span><span class="two"><strong>TrainingsLetter</strong></span>
+                    </p>
+                    <p class="lauftext full">
+                        Ab 50 Mitarbeitenden Vitalisierungs-Session inkl. Vermittlung elementarer Kenntnisse zum Stresssystem vor Ort mit eigenem Erfahren inkl. 50x PlayBox Dauer nach Absprache und Rahmenprogramm 1h bis 2h.
+                    </p>
+                    <p class="lauftext chf">
+                        2123.-
+                    </p>
+                    <a href="mailto:gil.monroy@playstressaway.ch?subject=Anfrage%20PlayBox%20Enterprise+">Anfrage</a>
+                </div>
             </div>
-            <div class="togglebox">
-                <p class="lauftext">
-                    Mit dieser Erkenntnis und dem Ziel, das betriebliche Umfeld mit real veränderten Verhaltensweisen spürbar zu entstressen, begleiten wir die Teilnehmenden über diese drei Monate hinweg.<br><br>In den Dienstleistungspaketen Team, Enterprise und Enterprise+ ist die Zeit von zwei Seminartagen auf zwölf Wochen aufgeteilt. Wir starten mit dem Kick-off von ca. einem halben Tag, in dem viel neues Know how erarbeitet und selbst erfahren wird.<br><br>In der folgenden Aktivierungsphase setzen wir uns wöchentlich eine Stunde mit der Thematik auseinander und investieren in den tatsächlichen Transfer, so dass alle Teilnehmenden aus den vielfältigen Vorschlägen auch für sich ein paar wirkungsvolle vitalisierende Gewohnheiten verankern können. Die unbändige Kraft der Gewohnheit machen wir uns folglich zu Nutzen, indem wir bewusst ein paar Verhaltensweisen optimieren und sich danach die positiven Veränderungen im Alltag und direkt am Arbeitsplatz auswirken.
-                </p>
-            </div>
+            <figcaption>Preis in CHF inkl. MwSt und Lieferung</figcaption>
         </article>
-        
-        <article class="articlecontainer">
-            <figure class="container50 right">
-                <img src="img/play-stress-away-neuronale-aktivierung-stressabbau.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
-                <svg version="1.1" id="neuronaleAktivierung" class="animation3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 360 360" style="enable-background:new 0 0 360 360;" xml:space="preserve">
-                    <circle class="puls" cx="180" cy="180" r="150"/>
-                    <circle class="puls" cx="180" cy="180" r="120"/>
-                    <circle class="puls" cx="180" cy="180" r="180"/>
-                </svg>
-                <figcaption>Neuronale Aktivierung</figcaption>
-            </figure>
-            <div class="container50">
-                <h1>2. Neuronale Aktivierung</h1>
-                <p class="lauftext">
-                    Mit imaginierten, positiven und selbsterlebten Erfahrungen aus der eigenen Vergangenheit, aktivieren wir alle neun Sinne und stossen so deine persönliche Selbstregulation an. Damit beeinflussen wir selbstgesteuert unseren Stresshormon Abbau und unsere Entspannungskompetenz.  So wird der dringend benötigten tiefe Schlaf und die tatsächliche Regeneration wieder Teil unseres Alltags!
-                </p>
-                <button class="togglebutton">&#43;</button>
-            </div>
-            <div class="togglebox">
-                <p class="lauftext">
-                    In den zwölf Wochen erlernen wir die Zusammenhänge der kombinierten Körperabläufe und der neuronalen Aktivierung, die im Alltag die volle Kraft aufbauen können. Da unsere Gewohnheiten im Grunde unbewusste Programme sind, ermöglicht dir die neuronale Aktivierung, eine Neuprogrammierung deiner unbewusst ablaufenden Gewohnheiten. Hast du diese verändert, wendest du die neuen vitalisierenden Gewohnheiten ohne Kraftanstrengung an, oder musstest du dich schon mal anstrengen beim Zähne putzen?<br><br>Zur nachhaltigen selbstgesteuerten Veränderung erhältst du als Teilnehmender des play stress away® Konzepts digitale Hilfsmittel, die du einsetzen kannst, damit du die vollen Hirnnutzungsfähigkeiten entfalten wirst, vitalisierende Gewohnheiten für dich programmierst und damit die Stresshormone im Griff hältst.
-                </p>
-            </div>
-        </article>
-        
-        <article class="articlecontainer">
-            <figure class="container50">
-                <img src="img/play-stress-away-embodiment-stressabbau-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
-                <img class="animation3" src="img/play-stress-away-embodiment-stressabbau-2.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
-                <figcaption>Embodiment</figcaption>
-            </figure>
-            <div class="container50">
-                <h1>3. Embodiment</h1>
-                <p class="lauftext">
-                    Gemäss aktuellsten Forschungen, aber auch aus uraltem Erfahrungswissen, kennen wir die sich wechselseitig stärkenden Wirkungen von Körper und Geist. Diesem gemeinsamen Wirken von Körper und Geist messen wir in allen Aspekten des play stress away® Programms grosse Bedeutung bei.
-                </p>
-                <button class="togglebutton">&#43;</button>
-            </div>
-            <div class="togglebox">
-                <p class="lauftext">
-                    Damit stellst du für dich sicher, dass du das neue Know How direkt anwendest und mit der körperlichen Verinnerlichung die neuen vitalisierenden Gewohnheiten nachhaltig neu programmierst. Indem du dir deine bisherigen Gewohnheiten bewusst werden lässt und die neuen vitalisierenden Gewohnheiten auch körperlich verinnerlichst, wirken diese neuen Kräfte in deinem Alltag und verhelfen dir zu mehr Energie und Lebensqualität.<br><br>
-                    Folgende Beispiele erwarten dich mit dem play stress away® Konzept, direkt am Arbeitsplatz:<br>
-                    <br>1. Selbststeuerung und bewusste Veränderung der hormonell beeinflussten Emotionen
-                    <br>2. Bewusste Atemübungen, die nachweislich Stresshormone, insbesondere Adrenalin abbauen
-                    <br>3. Vitalisierende Abwechslung im Büroalltag zwischen sitzender und stehender Haltung
-                    <br>4. Dynamisches Stehen als Sitzungsvorbereitung
-                    <br>5. Plantarfaszien ausrollen, damit du trotz häufigem Sitzen, körperliche Entspannung wahrnimmst
-                    <br>6. Dank den Utensilien der play box während gestressten Situation Fokus zurückgewinnen
-                    <br>7. Aktive Blitzpausen für neuen Fokus und Entspannung, alleine und auch mit TeamkollegInnen
-                </p>
-            </div>
-        </article>
-        
-        <article class="articlecontainer">
-            <figure class="container50 right">
-                <img src="img/play-stress-away-gemeinsame-ziele-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
-                <figcaption>Embodiment</figcaption>
-            </figure>
-            <div class="container50">
-                <h1>Gemeinsame Ziele erreichen</h1>
-                <p class="lauftext">
-                    Wir begleiten auch dein Unternehmen zur aktivierenden Arbeitsumgebung, in der es normal ist, dass die Mitarbeitenden vital sind und über den vollen Zugang zu ihren Hirnnutzungsfähigkeiten verfügen. Arbeitest du auch lieber motiviert im Team und begeistert deine Kunden, dass sie euch gerne weiterempfehlen? - Dann kontaktiere uns noch heute für ein erstes Treffen. play stress away!
-                </p>
-                <button><a class="button" href="kontakt">Kontaktiere uns</a></button>
-            </div>
-        </article>
-    </section><!--sectionend konzept-->
+    </section><!--sectionend toolbox-->
     <?php include 'footer.php'; ?>
 </body>
 </html>
