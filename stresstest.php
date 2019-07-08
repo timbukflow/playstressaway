@@ -186,7 +186,7 @@
     </section><!--sectionend stresstest-->
     
     <section id="konzept">
-        <div class="wave"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
+        <div class="wave"><img src="img/play-stress-away-wave.png" alt="play-stress-away-wave" width="100%" /></div>
         <article class="articlecontainer">
             <div class="container100">
                 <h1>play stress away® Konzept</h1>

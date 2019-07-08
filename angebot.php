@@ -128,7 +128,7 @@
     </section><!--sectionend package-->
     
     <section id="toolbox">
-        <div class="wave"><img src="img/play-stress-away-wave.svg" alt="play-stress-away-wave" width="100%" /></div>
+        <div class="wave"><img src="img/play-stress-away-wave.png" alt="play-stress-away-wave" width="100%" /></div>
         <article class="articlecontainer">
             <div class="container100 toolbox">
                 <h1>play stress away® Tools</h1>
