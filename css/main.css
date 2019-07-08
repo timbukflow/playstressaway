@@ -715,13 +715,6 @@ article .right {
 }
 
 
-
-
-
-
-
-
-
 .wave {
     overflow: hidden;
     position: relative;
@@ -923,9 +916,9 @@ span.respcheck {
     angebot
 -----------------------------------*/
 
-.angebot {
+article .angebot {
     margin-top: 100px;
-    padding: 0 15% !important;
+    padding: 0 15%;
 }
 
 .toolbox {
@@ -1247,6 +1240,14 @@ footer {
         100% { transform: translate(0, 0) scale(0.15); }
     }
 
+    
+    #optoutbanner99 {
+   
+    border-radius: 0;
+    margin: 0;
+    padding: 10%;
+    width: 80%;
+    height: auto;}
 }
 
  /* ==========================================================================
