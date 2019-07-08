@@ -921,8 +921,8 @@ article .angebot {
     padding: 0 15%;
 }
 
-.toolbox {
-    padding: 0 15% !important;
+article .toolbox {
+    padding: 0 15%;
 }
 
 .tabscontainer{
