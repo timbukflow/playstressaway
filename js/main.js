@@ -18,6 +18,12 @@ $('#navburger').click(function(){
         $('.nav li').removeClass('open');
         $("body, html").animate({scrollTop: position}, 2000);
     });
+    
+    $('.goto').click(function() {
+        var goto = $($(this).attr('href')).offset().top - 120;
+        
+        $("body, html").animate({scrollTop: goto}, 2000);
+    });
  
 // Sroll resizing Navigation //
     

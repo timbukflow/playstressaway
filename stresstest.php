@@ -36,7 +36,7 @@
 </header>
     
     <section id="stresstest">
-        <article class="articlecontainer">
+        <article class="articlecontainer stresstesttop">
             <figure class="container50 right">
                 <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-stresstest.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten" width="100%"/>
                 <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten" width="100%"/>
@@ -49,7 +49,7 @@
                 <p class="lauftext">
                     Du spürst Anzeichen von Stress? Du leidest an den Folgen einer Krankheit oder eines Unfalls, die unverhältnismässig langsam heilen? Du merkst, dass deine gewohnte Leistungsfähigkeit reduziert ist? Deine Fehlerquote steigt bei Abnahme deines Arbeitstempos?
                 </p>
-                 <button><a class="button footer" href="#stressteststart">Mach den Stresstest!</a></button>
+                 <button><a class="button goto" href="#stressteststart">Mach den Stresstest!</a></button>
             </div>
         </article>
         
@@ -124,6 +124,12 @@
         </article>
         
         <article class="articlecontainer">
+            <div class="container50">
+                <h1>0 - 5 Punkte</h1>
+                <p class="lauftext">
+                    Herzlichen Glückwunsch! Deine Stressbelastung wirkt sich beneidenswert wenig aus. Bei diesem Testergebnis musst du nichts unternehmen. Wenn du allerdings Probleme hast, die hier nicht abgefragt wurden oder eine innere Stimme dich warnt, nimm das ernst.
+                </p>
+            </div>
             <figure class="container50">
                 <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-01.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten" width="100%"/>
                 <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
@@ -131,14 +137,15 @@
                 <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
                 <figcaption class="figcaptionstb ">konzentriert, hört zu und versteht, hohe Merkfähigkeit und Flexibilität, Resilienz, Neuro-Agility</figcaption>
             </figure>
-            <div class="container50">
-                <h1>0 - 5 Punkte</h1>
-                <p class="lauftext">
-                    Herzlichen Glückwunsch! Deine Stressbelastung wirkt sich beneidenswert wenig aus. Bei diesem Testergebnis musst du nichts unternehmen. Wenn du allerdings Probleme hast, die hier nicht abgefragt wurden oder eine innere Stimme dich warnt, nimm das ernst.
-                </p>
-            </div>
+            
         </article>
         <article class="articlecontainer">
+            <div class="container50">
+                <h1>6 - 10 Punkte</h1>
+                <p class="lauftext">
+                    Deine Belastungen lösen noch keine besorgniserregenden Stressfolgen aus. Achte aber dennoch auf dich, damit sich die Stressanzeichen nicht langsam und schleichend vermehren. Du kannst aus eigener Kraft Themen in Angriff nehmen und deine Lage verbessern. Mach das, und wiederhole den Test nach sechs Wochen.
+                </p>
+            </div>
             <figure class="container50">
                 <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-02.svg" alt="play-stress-away-vitalisierende-gewohnheiten" width="100%"/>
                 <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
@@ -146,14 +153,14 @@
                 <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
                 <figcaption class="figcaptionstb">steigende Fehlerquote, zunehmend vergesslich, Emotionsebene statt Sachebene</figcaption>
             </figure>
-            <div class="container50">
-                <h1>6 - 10 Punkte</h1>
-                <p class="lauftext">
-                    Deine Belastungen lösen noch keine besorgniserregenden Stressfolgen aus. Achte aber dennoch auf dich, damit sich die Stressanzeichen nicht langsam und schleichend vermehren. Du kannst aus eigener Kraft Themen in Angriff nehmen und deine Lage verbessern. Mach das, und wiederhole den Test nach sechs Wochen.
-                </p>
-            </div>
         </article>
         <article class="articlecontainer">
+            <div class="container50">
+                <h1>11 - 17 Punkte</h1>
+                <p class="lauftext">
+                    Du bist in einem Zustand, der schnell kritisch werden kann. Bitte nimm das Ergebnis ernst und besprich es mit einer Person deines Vertrauens. Wenn dieser Zustand schon länger anhält, dann beeinflusst die hormonelle Stresssituation deine Leistungsfähigkeit und deine Lebensqualität erheblich.
+                </p>
+            </div>
             <figure class="container50">
                 <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-03.svg" alt="play-stress-away-vitalisierende-gewohnheiten" width="100%"/>
                 <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
@@ -161,14 +168,14 @@
                 <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
                 <figcaption class="figcaptionstb">Missverständnisse, Fehler, Anspannung, emotional instabil, Anfälligkeit auf Krankheiten</figcaption>
             </figure>
-            <div class="container50">
-                <h1>11 - 17 Punkte</h1>
-                <p class="lauftext">
-                    Du bist in einem Zustand, der schnell kritisch werden kann. Bitte nimm das Ergebnis ernst und besprich es mit einer Person deines Vertrauens. Wenn dieser Zustand schon länger anhält, dann beeinflusst die hormonelle Stresssituation deine Leistungsfähigkeit und deine Lebensqualität erheblich.
-                </p>
-            </div>
         </article>
         <article class="articlecontainer">
+            <div class="container50">
+                <h1>18 - 25 Punkte</h1>
+                <p class="lauftext">
+                    Sicher hast du gewusst, dass dein Zustand bedenklich ist. Es geht nun darum, einen Totalausfall mit lang andauernden Folgen zu vermeiden. Dazu solltest du dir unbedingt so schnell wie möglich eine professionelle Fachberatung gönnen. Vermeide, noch mehr Zeit zu verlieren und einen Burn-out zu riskieren.
+                </p>
+            </div>
             <figure class="container50">
                 <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-04.svg" alt="play-stress-away-vitalisierende-gewohnheiten" width="100%"/>
                 <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
@@ -176,12 +183,6 @@
                 <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
                 <figcaption class="figcaptionstb">Realitätsverzerrung, Misstrauen, hohe Anspannung, berufliche und private Konflikte, Anfälligkeit auf Langzeitausfälle</figcaption>
             </figure>
-            <div class="container50">
-                <h1>18 - 25 Punkte</h1>
-                <p class="lauftext">
-                    Sicher hast du gewusst, dass dein Zustand bedenklich ist. Es geht nun darum, einen Totalausfall mit lang andauernden Folgen zu vermeiden. Dazu solltest du dir unbedingt so schnell wie möglich eine professionelle Fachberatung gönnen. Vermeide, noch mehr Zeit zu verlieren und einen Burn-out zu riskieren.
-                </p>
-            </div>
         </article>
     </section><!--sectionend stresstest-->
     
