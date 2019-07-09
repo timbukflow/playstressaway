@@ -759,6 +759,7 @@ article .right {
 
 .wave-home img, .wave img, .wave-footer img {
     float: left;
+    width: 100%;
 }
 
 #stress, #konzept, #stresstest, #kontakt{
