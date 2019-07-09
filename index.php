@@ -35,7 +35,7 @@
                     Wirkungsvolle Prävention und Aktivierung dank neurobiologischen Fakten! Entstresse dich mit vitalisierenden Gewohnheiten - direkt am Arbeitsplatz und in deinem Alltag. Effektiver <strong>Stresshormon Abbau</strong> und die daraus erst mögliche tiefe Entspannung bringt dir deine vollen Hirnnutzungsfähigkeiten zurück und reaktiviert dein Immunsystem.
 
                 </p>
-                <button><a class="button footer" href="#stress">Erfahre mehr</a></button>
+                <button><a class="button goto" href="#stress">Erfahre mehr</a></button>
             </div>
         </article>
     </section>
@@ -47,7 +47,7 @@
         </div>
         <article class="articlecontainer">
             <figure class="container50 right">
-                <img src="img/play-stress-away-job-stress-index-schweiz.png" alt="play-stress-away-job-stress-index-schweiz" width="100%" height="auto"/>
+                <img src="img/play-stress-away-job-stress-index-schweiz.svg" alt="play-stress-away-job-stress-index-schweiz" width="100%" height="auto"/>
                 <figcaption>Job-Stress-Index Schweiz 2018 der 5 Mio. Erwerbstätigen</figcaption>
             </figure>
             <div class="container50">

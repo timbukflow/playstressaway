@@ -1,9 +1,10 @@
 <header>
     <nav id="navcontainer" >  
-        <a href="index" target="_top" class="nav-logo">
-            <img class="logo" src="img/playstressaway-logo.svg" alt="playstressaway-logo"/>
-        </a>
-       
+        <div class="navbackground">
+            <a href="index" target="_top" class="nav-logo">
+                <img class="logo" src="img/playstressaway-logo.svg" alt="playstressaway-logo"/>
+            </a>
+        </div>
         <div id="navburger">
             <span></span>
             <span></span>

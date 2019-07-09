@@ -24,7 +24,8 @@ $('#navburger').click(function(){
         
         $("body, html").animate({scrollTop: goto}, 2000);
     });
- 
+    
+  
 // Sroll resizing Navigation //
     
     
