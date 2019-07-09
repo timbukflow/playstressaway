@@ -124,7 +124,7 @@
                     <a href="mailto:gil.monroy@playstressaway.ch?subject=Anfrage%20Change+">Anfrage</a>
                 </div>
             </div>
-            <figcaption>Preis in CHF inkl. MwSt / Teilnehmenden</figcaption>
+            <div class="preis">Preis in CHF inkl. MwSt / Teilnehmenden</div>
         </article>
     </section><!--sectionend package-->
     
@@ -229,7 +229,7 @@
                     <a href="mailto:gil.monroy@playstressaway.ch?subject=Anfrage%20PlayBox%20Enterprise+">Anfrage</a>
                 </div>
             </div>
-            <figcaption>Preis in CHF inkl. MwSt und Lieferung</figcaption>
+            <div class="preis">Preis in CHF inkl. MwSt und Lieferung</div>
         </article>
     </section><!--sectionend toolbox-->
     <?php include 'footer.php'; ?>

@@ -79,7 +79,7 @@ body {
   background: #ffffff;
 }
 
-h1, h3, p, a, table, figcaption, button, .togglelink, .tr, .td, .th {
+h1, h3, p, a, table, figcaption, .preis, button, .togglelink, .tr, .td, .th {
     font-family: 'Signika', sans-serif;
     color: #575757;
     font-weight: 300;
@@ -99,7 +99,7 @@ p {
     padding-top: 0px;
 }
 
-figcaption {
+figcaption, .preis {
     color: #888888;
     font-size: 14px;
     margin-top: 20px;
