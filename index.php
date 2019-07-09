@@ -43,11 +43,11 @@
     
     <section id="stress">
         <div class="wave-container">
-            <div class="wave-home"><img src="img/play-stress-away-wave.png" alt="play-stress-away-wave" width="100%" /></div>
+            <div class="wave-home"><img src="img/play-stress-away-wave.png" alt="play-stress-away-wave"/></div>
         </div>
         <article class="articlecontainer">
             <figure class="container50 right">
-                <img src="img/play-stress-away-job-stress-index-schweiz.svg" alt="play-stress-away-job-stress-index-schweiz" width="100%" height="auto"/>
+                <img src="img/play-stress-away-job-stress-index-schweiz.svg" alt="play-stress-away-job-stress-index-schweiz"/>
                 <figcaption>Job-Stress-Index Schweiz 2018 der 5 Mio. Erwerbstätigen</figcaption>
             </figure>
             <div class="container50">
@@ -96,8 +96,8 @@
         
         <article class="articlecontainer">
             <figure class="container50 right">
-                <img src="img/play-stress-away-neuen-sinne-des-menschen-1.svg" alt="play-stress-away-stressoren-stressabbau" width="100%"/>
-                <img class="animation3" src="img/play-stress-away-neuen-sinne-des-menschen-2.svg" alt="play-stress-away-stressoren-stressabbau" width="100%"/>
+                <img src="img/play-stress-away-neuen-sinne-des-menschen-1.svg" alt="play-stress-away-stressoren-stressabbau"/>
+                <img class="animation3" src="img/play-stress-away-neuen-sinne-des-menschen-2.svg" alt="play-stress-away-stressoren-stressabbau" />
                 <figcaption>Mit aktivierten Sinnen hast du vollen Zugang auf deine Ressourcen</figcaption>
             </figure>
             <div class="container50">
@@ -116,10 +116,10 @@
         
         <article class="articlecontainer">
             <figure class="container50">
-                <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten" width="100%"/>
-                <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten" width="100%"/>
-                <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten" width="100%"/>
-                <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-4.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten" width="100%"/>
+                <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
+                <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
+                <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
+                <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-4.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
                 <figcaption>Stressoren lösen Stress aus und reduzieren deine Hirnnutzungsfähigkeiten</figcaption>
             </figure>
             <div class="container50">
@@ -133,7 +133,7 @@
     </section><!--sectionend stress-->
     
     <section id="konzept">
-        <div class="wave"><img src="img/play-stress-away-wave.png" alt="play-stress-away-wave" width="100%" /></div>
+        <div class="wave"><img src="img/play-stress-away-wave.png" alt="play-stress-away-wave" /></div>
         <article class="articlecontainer">
             <div class="container100">
                 <h1>play stress away® Konzept</h1>
@@ -145,7 +145,7 @@
         
         <article class="articlecontainer">
             <figure class="container50">
-                <img src="img/play-stress-away-vitalisierende-gewohnheiten.svg" alt="play-stress-away-vitalisierende-gewohnheiten" width="100%"/>
+                <img src="img/play-stress-away-vitalisierende-gewohnheiten.svg" alt="play-stress-away-vitalisierende-gewohnheiten" />
                 <figcaption>3 Monate Begleitung mit play stress away</figcaption>
             </figure>
             <div class="container50">
@@ -164,7 +164,7 @@
         
         <article class="articlecontainer">
             <figure class="container50 right">
-                <img src="img/play-stress-away-neuronale-aktivierung-stressabbau.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <img src="img/play-stress-away-neuronale-aktivierung-stressabbau.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" />
                 <svg version="1.1" id="neuronaleAktivierung" class="animation3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 360 360" style="enable-background:new 0 0 360 360;" xml:space="preserve">
                     <circle class="puls" cx="180" cy="180" r="150"/>
                     <circle class="puls" cx="180" cy="180" r="120"/>
@@ -188,7 +188,7 @@
         
         <article class="articlecontainer">
             <figure class="container50">
-                <img src="img/play-stress-away-embodiment-stressabbau-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <img src="img/play-stress-away-embodiment-stressabbau-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" />
                 <img class="animation3" src="img/play-stress-away-embodiment-stressabbau-2.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
                 <figcaption>Embodiment</figcaption>
             </figure>
@@ -216,7 +216,7 @@
         
         <article class="articlecontainer">
             <figure class="container50 right">
-                <img src="img/play-stress-away-gemeinsame-ziele-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <img src="img/play-stress-away-gemeinsame-ziele-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" />
                 <figcaption>Embodiment</figcaption>
             </figure>
             <div class="container50">

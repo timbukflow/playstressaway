@@ -1221,7 +1221,6 @@ footer {
     .navbackground { width: 100%; border-radius: 0; height: 80px; }
     .nav ul.up {top: 18%;}
     
-    
     .homecontainer {height: auto; display: inline-block;margin-top: 60px;}
     .circle-container50 {margin: 0; width: 100%; height: 360px; top: 10%; position: relative;}
     .circle-container {height: 160px;width: 150px;}
@@ -1241,8 +1240,6 @@ footer {
     span.respcheck {font-size: 14px;}
     .result span, .firstg {font-size: 30px;}
     
-    
-    
     .respout {display: none;}
     span.respcheck {display: block;}
     .th.first, .td.first {width: 100%;}
@@ -1255,9 +1252,8 @@ footer {
     .tabscontainer {display: inline-block;}
     
     .kontakt, .kontakt a { font-size: 18px;}
-     #kontakt {margin-top: 140px;}
-    
-    
+    #kontakt {margin-top: 140px;}
+     
     #optoutbanner99 { border-radius: 0; margin: 0; padding: 10%; width: 80%; height: auto;}
 }
 

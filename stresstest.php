@@ -39,10 +39,10 @@
     <section id="stresstest">
         <article class="articlecontainer stresstesttop">
             <figure class="container50 right">
-                <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-stresstest.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten" width="100%"/>
-                <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten" width="100%"/>
-                <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten" width="100%"/>
-                <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-4.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten" width="100%"/>
+                <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-stresstest.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"  />
+                <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"  />
+                <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"  />
+                <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-4.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"  />
                 <figcaption>Stresstest???????????</figcaption>
             </figure>
             <div class="container50">
@@ -132,10 +132,10 @@
                 </p>
             </div>
             <figure class="container50">
-                <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-01.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten" width="100%"/>
-                <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
-                <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
-                <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
+                <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-01.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"  />
+                <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren"/>
+                <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren"/>
+                <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren"/>
                 <figcaption class="figcaptionstb ">konzentriert, hört zu und versteht, hohe Merkfähigkeit und Flexibilität, Resilienz, Neuro-Agility</figcaption>
             </figure>
             
@@ -148,10 +148,10 @@
                 </p>
             </div>
             <figure class="container50">
-                <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-02.svg" alt="play-stress-away-vitalisierende-gewohnheiten" width="100%"/>
-                <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
-                <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
-                <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
+                <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-02.svg" alt="play-stress-away-vitalisierende-gewohnheiten"  />
+                <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren"/>
+                <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren"/>
+                <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren"/>
                 <figcaption class="figcaptionstb">steigende Fehlerquote, zunehmend vergesslich, Emotionsebene statt Sachebene</figcaption>
             </figure>
         </article>
@@ -163,10 +163,10 @@
                 </p>
             </div>
             <figure class="container50">
-                <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-03.svg" alt="play-stress-away-vitalisierende-gewohnheiten" width="100%"/>
-                <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
-                <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
-                <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
+                <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-03.svg" alt="play-stress-away-vitalisierende-gewohnheiten"  />
+                <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren"/>
+                <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren"/>
+                <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren"/>
                 <figcaption class="figcaptionstb">Missverständnisse, Fehler, Anspannung, emotional instabil, Anfälligkeit auf Krankheiten</figcaption>
             </figure>
         </article>
@@ -178,17 +178,17 @@
                 </p>
             </div>
             <figure class="container50">
-                <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-04.svg" alt="play-stress-away-vitalisierende-gewohnheiten" width="100%"/>
-                <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
-                <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
-                <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren" width="100%"/>
+                <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-04.svg" alt="play-stress-away-vitalisierende-gewohnheiten"  />
+                <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren"/>
+                <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren"/>
+                <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-stressoren-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten-stressoren"/>
                 <figcaption class="figcaptionstb">Realitätsverzerrung, Misstrauen, hohe Anspannung, berufliche und private Konflikte, Anfälligkeit auf Langzeitausfälle</figcaption>
             </figure>
         </article>
     </section><!--sectionend stresstest-->
     
     <section id="konzept">
-        <div class="wave"><img src="img/play-stress-away-wave.png" alt="play-stress-away-wave" width="100%" /></div>
+        <div class="wave"><img src="img/play-stress-away-wave.png" alt="play-stress-away-wave"   /></div>
         <article class="articlecontainer">
             <div class="container100">
                 <h1>play stress away® Konzept</h1>
@@ -200,7 +200,7 @@
         
         <article class="articlecontainer">
             <figure class="container50">
-                <img src="img/play-stress-away-vitalisierende-gewohnheiten.svg" alt="play-stress-away-vitalisierende-gewohnheiten" width="100%"/>
+                <img src="img/play-stress-away-vitalisierende-gewohnheiten.svg" alt="play-stress-away-vitalisierende-gewohnheiten"  />
                 <figcaption>3 Monate Begleitung mit play stress away</figcaption>
             </figure>
             <div class="container50">
@@ -219,7 +219,7 @@
         
         <article class="articlecontainer">
             <figure class="container50 right">
-                <img src="img/play-stress-away-neuronale-aktivierung-stressabbau.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <img src="img/play-stress-away-neuronale-aktivierung-stressabbau.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau"  />
                 <svg version="1.1" id="neuronaleAktivierung" class="animation3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 360 360" style="enable-background:new 0 0 360 360;" xml:space="preserve">
                     <circle class="puls" cx="180" cy="180" r="150"/>
                     <circle class="puls" cx="180" cy="180" r="120"/>
@@ -243,8 +243,8 @@
         
         <article class="articlecontainer">
             <figure class="container50">
-                <img src="img/play-stress-away-embodiment-stressabbau-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
-                <img class="animation3" src="img/play-stress-away-embodiment-stressabbau-2.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <img src="img/play-stress-away-embodiment-stressabbau-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau"  />
+                <img class="animation3" src="img/play-stress-away-embodiment-stressabbau-2.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau"  />
                 <figcaption>Embodiment</figcaption>
             </figure>
             <div class="container50">
@@ -271,7 +271,7 @@
         
         <article class="articlecontainer">
             <figure class="container50 right">
-                <img src="img/play-stress-away-gemeinsame-ziele-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <img src="img/play-stress-away-gemeinsame-ziele-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau"  />
                 <figcaption>Embodiment</figcaption>
             </figure>
             <div class="container50">

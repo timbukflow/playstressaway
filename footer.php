@@ -1,5 +1,5 @@
 <footer>
-    <div class="wave-footer"><img src="img/play-stress-away-wave.png" alt="play-stress-away-wave" width="100%" /></div>
+    <div class="wave-footer"><img src="img/play-stress-away-wave.png" alt="play-stress-away-wave" /></div>
     <div class="nav-footer">
         <ul>
             <li><a href="index#stress">Stress</a></li>
