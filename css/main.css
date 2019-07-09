@@ -1234,10 +1234,11 @@ footer {
     
     article .right {float: none;}
     article .container50 { width: 80%; margin: 10px 10%;}
-    .articlecontainer {margin: 60px auto}
+    .articlecontainer {margin: 0px auto}
     .togglebutton {margin:25px 0px 0px;}
     .togglebox { width: 80%; padding: 5% 10%;}
     article .container100 { width: 80%;padding: 0 10% 5%;}
+    article .container100.angebot {margin-top: 100px;}
     span.respcheck {font-size: 14px;}
     .result span, .firstg {font-size: 30px;}
     
