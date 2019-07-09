@@ -66,9 +66,9 @@
         
         <article class="articlecontainer">
             <figure class="container50">
-                <img class="animation1" src="img/play-stress-away-stressoren-stress.svg" alt="play-stress-away-stressoren-stressabbau" width="100%"/>
-                <img class="animation2" src="img/play-stress-away-stressoren-5g.svg" alt="play-stress-away-stressoren-stressabbau" width="100%"/>
-                <img class="animation3" src="img/play-stress-away-stressoren-reorg.svg" alt="play-stress-away-stressoren-stressabbau" width="100%"/>
+                <img class="animation1" src="img/play-stress-away-stressoren-stress.svg" alt="play-stress-away-stressoren-stressabbau"/>
+                <img class="animation2" src="img/play-stress-away-stressoren-5g.svg" alt="play-stress-away-stressoren-stressabbau"/>
+                <img class="animation3" src="img/play-stress-away-stressoren-reorg.svg" alt="play-stress-away-stressoren-stressabbau"/>
                 <figcaption>Dauernde Stressoren lösen bei den meisten Menschen Stress aus.</figcaption>
             </figure>
             <div class="container50">
@@ -189,7 +189,7 @@
         <article class="articlecontainer">
             <figure class="container50">
                 <img src="img/play-stress-away-embodiment-stressabbau-1.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" />
-                <img class="animation3" src="img/play-stress-away-embodiment-stressabbau-2.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau" width="100%"/>
+                <img class="animation3" src="img/play-stress-away-embodiment-stressabbau-2.svg" alt="play-stress-away-neuronale-aktivierung-stressabbau"/>
                 <figcaption>Embodiment</figcaption>
             </figure>
             <div class="container50">
