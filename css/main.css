@@ -945,7 +945,7 @@ article .toolbox {
 
 .container25 {
     margin: 20px;
-    box-shadow: 0 0 10px #00000026;
+    box-shadow: 0 0 10px rgba(136, 136, 136, 0.2);
     border-radius: 20px;
     overflow: hidden;
     float: left;
@@ -1100,6 +1100,7 @@ footer {
     article .container100.angebot {margin-top: 160px;}
     article .container100.toolbox {margin-top: 0;}
     #kontakt {margin-top: 220px;}
+    .result span, .firstg {font-size: 30px;}
     
     .circle {
     height: 150px;
