@@ -45,8 +45,7 @@
     var disableStr = 'ga-disable-' + gaProperty;
     if (document.cookie.indexOf(disableStr + '=true') > -1) { 
         window[disableStr] = true;
-        var child = document.getElementById("optoutbanner99");
-        child.parentNode.removeChild(child);
+        document.getElementById("optoutbanner99").remove();
     }
     function accept() {
         expiry = new Date('July 1, 2099');
