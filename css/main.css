@@ -470,41 +470,69 @@ article .container50home {
 }
 
 .circle:nth-child(1) {
-    -webkit-animation: circle-1 8s ease-in-out infinite;
-    animation:         circle-1 8s ease-in-out infinite;
+    -webkit-animation:  circle-1 8s ease-in-out infinite;
+    -moz-animation:     circle-1 8s ease-in-out infinite;
+    -o-animation:       circle-1 8s ease-in-out infinite;
+    animation:          circle-1 8s ease-in-out infinite;
 }
 
 .circle:nth-child(2) {
-    -webkit-animation: circle-2 8s ease-in-out infinite;
-    animation:         circle-2 8s ease-in-out infinite;
+    -webkit-animation:  circle-2 8s ease-in-out infinite;
+    -moz-animation:     circle-2 8s ease-in-out infinite;
+    -o-animation:       circle-2 8s ease-in-out infinite;
+    animation:          circle-2 8s ease-in-out infinite;
 }
 
 .circle:nth-child(3) {
-    -webkit-animation: circle-3 8s ease-in-out infinite;
-    animation:         circle-3 8s ease-in-out infinite;
+    -webkit-animation:  circle-3 8s ease-in-out infinite;
+    -moz-animation:     circle-3 8s ease-in-out infinite;
+    -o-animation:       circle-3 8s ease-in-out infinite;
+    animation:          circle-3 8s ease-in-out infinite;
 }
 
 .circle:nth-child(4) {
-    -webkit-animation: circle-4 8s ease-in-out infinite;
-    animation:         circle-4 8s ease-in-out infinite;
+    -webkit-animation:  circle-4 8s ease-in-out infinite;
+    -moz-animation:     circle-4 8s ease-in-out infinite;
+    -o-animation:       circle-4 8s ease-in-out infinite;
+    animation:          circle-4 8s ease-in-out infinite;
 }
 
 .circle:nth-child(5) {
-    -webkit-animation: circle-5 8s ease-in-out infinite;
-    animation:         circle-5 8s ease-in-out infinite;
+    -webkit-animation:  circle-5 8s ease-in-out infinite;
+    -moz-animation:     circle-5 8s ease-in-out infinite;
+    -o-animation:       circle-5 8s ease-in-out infinite;
+    animation:          circle-5 8s ease-in-out infinite;
 }
 
 .circle:nth-child(6) {
-    -webkit-animation: circle-6 8s ease-in-out infinite;
-    animation:         circle-6 8s ease-in-out infinite;
+    -webkit-animation:  circle-6 8s ease-in-out infinite;
+    -moz-animation:     circle-6 8s ease-in-out infinite;
+    -o-animation:       circle-6 8s ease-in-out infinite;
+    animation:          circle-6 8s ease-in-out infinite;
 }
 
 .circle:nth-child(7) {
-    -webkit-animation: circle-7 8s ease-in-out infinite;
-    animation:         circle-7 8s ease-in-out infinite;
+    -webkit-animation:  circle-7 8s ease-in-out infinite;
+    -moz-animation:     circle-7 8s ease-in-out infinite;
+    -o-animation:       circle-7 8s ease-in-out infinite;
+    animation:          circle-7 8s ease-in-out infinite;
 }
 
 @-webkit-keyframes circle-1 {
+    0%   { transform: translate(0, 0) scale(0.1); }
+    30%  { transform: translate(-100px, 0px); }
+    35%  { transform: translate(-100px, 0px); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
+}
+@-moz-keyframes circle-1 {
+    0%   { transform: translate(0, 0) scale(0.1); }
+    30%  { transform: translate(-100px, 0px); }
+    35%  { transform: translate(-100px, 0px); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
+}
+@-o-keyframes circle-1 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(-100px, 0px); }
     35%  { transform: translate(-100px, 0px); }
@@ -526,7 +554,20 @@ article .container50home {
     95%  { transform: translate(0, 0) scale(0.1); }
     100% { transform: translate(0, 0) scale(0.1); }
 }
-
+@-moz-keyframes circle-2 {
+    0%   { transform: translate(0, 0) scale(0.1); }
+    30%  { transform: translate(-50px, -86px); }
+    35%  { transform: translate(-50px, -86px); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
+}
+@-o-keyframes circle-2 {
+    0%   { transform: translate(0, 0) scale(0.1); }
+    30%  { transform: translate(-50px, -86px); }
+    35%  { transform: translate(-50px, -86px); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
+}
 @keyframes circle-2 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(-50px, -86px); }
@@ -536,6 +577,20 @@ article .container50home {
 }
 
 @-webkit-keyframes circle-3 {
+    0%   { transform: translate(0, 0) scale(0.1); }
+    30%  { transform: translate(50px, -86px); }
+    35%  { transform: translate(50px, -86px); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
+}
+@-moz-keyframes circle-3 {
+    0%   { transform: translate(0, 0) scale(0.1); }
+    30%  { transform: translate(50px, -86px); }
+    35%  { transform: translate(50px, -86px); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
+}
+@-o-keyframes circle-3 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(50px, -86px); }
     35%  { transform: translate(50px, -86px); }
@@ -557,6 +612,19 @@ article .container50home {
     95%  { transform: translate(0, 0) scale(0.1); }
     100% { transform: translate(0, 0) scale(0.1); }
 }
+@-moz-keyframes circle-4 {
+    0%   { transform: translate(0, 0) scale(0.1); }
+    30%  { transform: translate(100px, 0px); }
+    35%  { transform: translate(100px, 0px); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
+}@-o-keyframes circle-4 {
+    0%   { transform: translate(0, 0) scale(0.1); }
+    30%  { transform: translate(100px, 0px); }
+    35%  { transform: translate(100px, 0px); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
+}
 @keyframes circle-4 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(100px, 0px); }
@@ -566,6 +634,20 @@ article .container50home {
 }
 
 @-webkit-keyframes circle-5 {
+    0%   { transform: translate(0, 0) scale(0.1); }
+    30%  { transform: translate(50px, 86px); }
+    35%  { transform: translate(50px, 86px); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
+}
+@-moz-keyframes circle-5 {
+    0%   { transform: translate(0, 0) scale(0.1); }
+    30%  { transform: translate(50px, 86px); }
+    35%  { transform: translate(50px, 86px); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
+}
+@-o-keyframes circle-5 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(50px, 86px); }
     35%  { transform: translate(50px, 86px); }
@@ -587,6 +669,20 @@ article .container50home {
     95%  { transform: translate(0, 0) scale(0.1); }
     100% { transform: translate(0, 0) scale(0.1); }
 }
+@-moz-keyframes circle-6 {
+    0%   { transform: translate(0, 0) scale(0.1); }
+    30%  { transform: translate(-50px, 86px); }
+    35%  { transform: translate(-50px, 86px); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
+}
+@-o-keyframes circle-6 {
+    0%   { transform: translate(0, 0) scale(0.1); }
+    30%  { transform: translate(-50px, 86px); }
+    35%  { transform: translate(-50px, 86px); }
+    95%  { transform: translate(0, 0) scale(0.1); }
+    100% { transform: translate(0, 0) scale(0.1); }
+}
 @keyframes circle-6 {
     0%   { transform: translate(0, 0) scale(0.1); }
     30%  { transform: translate(-50px, 86px); }
@@ -596,6 +692,20 @@ article .container50home {
 }
 
 @-webkit-keyframes circle-7 {
+    0%   { transform: translate(0, 0) scale(0.15); }
+    30%  { transform: translate(0px, 0px); }
+    35%  { transform: translate(0px, 0px); }
+    95%  { transform: translate(0, 0) scale(0.15); }
+    100% { transform: translate(0, 0) scale(0.15); }
+} 
+@-moz-keyframes circle-7 {
+    0%   { transform: translate(0, 0) scale(0.15); }
+    30%  { transform: translate(0px, 0px); }
+    35%  { transform: translate(0px, 0px); }
+    95%  { transform: translate(0, 0) scale(0.15); }
+    100% { transform: translate(0, 0) scale(0.15); }
+} 
+@-o-keyframes circle-7 {
     0%   { transform: translate(0, 0) scale(0.15); }
     30%  { transform: translate(0px, 0px); }
     35%  { transform: translate(0px, 0px); }
