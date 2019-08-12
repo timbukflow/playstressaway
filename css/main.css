@@ -442,21 +442,21 @@ article .container50home {
 
 .aus {
     color: #fff;
-    -webkit-animation: aus 8s ease-in-out infinite;
-    animation:         aus 8s ease-in-out infinite;
+    -webkit-animation: aus 10s ease-in-out infinite;
+    animation:         aus 10s ease-in-out infinite;
 }
 
 @-webkit-keyframes aus {
     0%   { color: #fff; }
-    30%  { color: #fff; }
-    50%  { color: #888888; }
+    33%  { color: #fff; }
+    38%  { color: #888888; }
     100% { color: #fff; }   
 }
 
 @keyframes aus {
     0%   { color: #fff; }
-    30%  { color: #fff; }
-    50%  { color: #888888; }
+    33%  { color: #fff; }
+    38%  { color: #888888; }
     100% { color: #fff; }   
 }
 

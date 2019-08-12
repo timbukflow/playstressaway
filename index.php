@@ -45,52 +45,55 @@
             <div class="wave-home"><img src="img/play-stress-away-wave.png" alt="play-stress-away-wave"/></div>
         </div>
         <article class="articlecontainer">
-            <figure class="container50 right">
-                <img src="img/play-stress-away-job-stress-index-schweiz.svg" alt="play-stress-away-job-stress-index-schweiz"/>
-                <figcaption>Job-Stress-Index Schweiz 2018 der 5 Mio. Erwerbstätigen</figcaption>
-            </figure>
             <div class="container50">
-                <h1>Job Stress Index</h1>
+                <h1>Stress</h1>
                 <p class="lauftext">
-                    Nur noch 26.5% der Erwerbstätigen verfügen über <strong>ausreichende Ressourcen</strong> und bewegen sich im grünen Bereich. Die dadurch erhöhten Ausfallzeiten und der unproduktive Präsentismus steigen spürbar an bei wachsendem Anteil gestresster Mitarbeitenden.
+                    Nur noch 26.5% der Erwerbstätigen verfügen über ausreichende Ressourcen und fühlen sich nicht dauernd gestresst gemäss des jährlich erhobenen Job-Stress-Index durch die Gesundheitsförderung Schweiz. Die <strong>durch Stress erhöhten Ausfallzeiten</strong> und der <strong>unproduktive Präsentismus steigen</strong> in neuster Zeit signifikant an, und auch die Arbeitsatmosphäre in diesen betroffenen Unternehmen leidet mehr und mehr. Wie sieht es bei dir im Unternehmen aus und wieso sind denn immer mehr Menschen so gestresst?
                 </p>
                 <button class="togglebutton">&#43;</button>
             </div>
             <div class="togglebox">
                 <p class="lauftext">
-                    Diese Umfrage, an welcher über 10‘000 Erwerbstätige teilnehmen, wird seit 2014 durch die Gesundheitsförderung Schweiz erhoben. Nicht nur die betriebswirtschaftlichen Auswirkungen von Stress sollten aufhorchen lassen, sondern vorallem auch das unnötige Leid von stark gestressten Menschen und deren Umfeld wie Familie, Kinder und der Arbeit. Chronisch hoher Stresshormonlevel führt nachgewiesenermassen zu Krankheiten und Ausfällen, was sich in den einzelnen Schicksalen zumeist in einem mehrjährig vorangegangenem Leidensweg entwickelte. Es ist wohl offensichtlich, dass dies die Unternehmenskultur beeinträchtigt und die Anzahl zufriedener Kunden reduziert.
+                    Stresshormone werden bei Gefahr blitzschnell in unserem Organismus ausgeschüttet, was wir nicht bewusst steuern können. Stresshormone, wie Adrenalin, geben uns in diesen Situationen die körperliche Power, die Gefahr zu meistern. In vielen Berufen und Lebenssituationen jedoch, lassen sich die Problemstellungen schon lange nicht mehr mit körperlichen Reaktionen wie Kampf oder Flucht lösen, was die Stresshormone zeitnah abbauen würde. Zudem führt die heutige, körperlich nicht mehr so aktive Lebensweise dazu, dass die ausgeschütteten Stresshormone nur langsam abgebaut werden oder gar in unserem Organismus als Stressspeicher verbleiben. Auch reduziert unser Körper bei Gefahr die „unnötigen“ Funktionen drastisch wie z.B. die Aktivität des Immunsystems oder der natürliche Zugriff auf unsere Kreativität und unsere Hirnnutzungsfähigkeiten.  Dieser Zustand entfaltet sich in neuster Zeit bei immer mehr Menschen und zeigt sich in folgenden unerwünschten Wirkungen der verbleibenden Stresshormone:
+                    <br><br>Die verursachte Körperanspannung verbleibt und führt häufig zu dauernden Nacken- und Schulterverspannungen oder begünstigt die ansteigende Zahl der Schlafstörungen, da wir nur in entspanntem Zustand gut ein- und durchschlafen können. Ein bleibender Stresstunnelblick wird erzeugt und wir leiden unter kreisenden Gedanken, sodass bisher einfach lösbare Herausforderungen zur noch grösseren Belastung beitragen. Oder immer mehr Menschen leiden an chronischen Entzündungen und diffusen Allergien, was medizinisch häufig auf die steigende Unterfunktion des Immunsystems zurückzuführen ist. Diese erforschten Wirkungsweisen der Stresshormone und die dadurch ausbleibende Entspannung sowie die reduzierte Funktionalität des Immunsystems, beeinträchtigen die Lebensqualität von immer mehr Menschen drastisch, so auch bei Erwerbstätigen, was auch die steigenden Zahlen gemäss Job Stress Index ausweisen.
+                    <br><br>Daher sollten nicht nur die kostenintensiven Arbeitsausfälle durch Stress aufhorchen lassen, sondern vorallem auch die stark eingeschränkte Lebensqualität gestresster Menschen und deren Umfeld wie Familie und Kinder sowie die Arbeitsatmosphäre im Unternehmen.So führt chronisch hoher Stresshormonlevel erwiesenermassen zu Krankheiten und Ausfällen, was sich in den einzelnen Schicksalen zumeist über mehrere Jahre schleichend entwickelte und auch andeutete.<br><br>Wichtig zu wissen, dass wir gemeinsam etwas dagegen unternehmen können, um die oben aufgezeigten, in unserer Gesellschaft leider rasant anwachsenden Szenarien, zu mindern oder gänzlich zu verhindern!
                 </p>
             </div>
+            <figure class="container50">
+                <img src="img/play-stress-away-job-stress-index-schweiz.svg" alt="play-stress-away-job-stress-index-schweiz"/>
+                <figcaption>Job-Stress-Index Schweiz 2018 der 5 Mio. Erwerbstätigen</figcaption>
+            </figure>
         </article>
         
         <article class="articlecontainer">
+            <div class="container50 right">
+                <h1>Stressoren</h1>
+                <p class="lauftext">
+                    Stressoren sind externe Einflüsse, die <strong>mit hoher Wahrscheinlichkeit, bei den meisten Menschen Stress auslösen.</strong> Treten diese Stressoren dauerhaft auf, werden laufend Stresshormone ausgeschüttet und der Mensch lebt in ständiger Anspannung und findet so nicht mehr in seinen Entspannungszustand. Mit chronischer Anspannung treten bald auch <strong>Neuro-Stress-Folgen</strong> auf, was erwiesenermassen zu Erschöpfungszuständen und Krankheit führt.
+                </p>
+                <button class="togglebutton">&#43;</button>
+            </div>
+            <div class="togglebox">
+                <p class="lauftext">
+                    Nach Anspannung und entsprechend hohem Stresshormonlevel benötigt der Mensch tiefe Entspannung, um überhaupt in den so wichtigen regenerativen Schlaf zu gelangen. Bei hohem Stresshormonlevel ist guter Schlaf leider nicht möglich, was häufig der Grund für die weitverbreiteten Schlafprobleme ist.<br>
+                    Dauernde Stressoren lösen bei den meisten Menschen Stress aus, und die folgenden in Gruppen eingeteilten Stressoren verstärken sich leider zusehends, wie im Arbeitspapier 26 der Gesundheitsförderung Schweiz ausgewiesen:
+                    <br><br>1. Aufgabenbezogene Stressoren: z.B. Zeitdruck, Monotonie, hohe Komplexität, Unterbrechungen
+                    <br><br>2. Soziale Stressoren: z.B. soziale Interaktionen mit Vorgesetzen, Mitarbeitenden, Kunden; Konflikte, Mobbing, Aggression am Arbeitsplatz, mangelndes Feedback
+                    <br><br>3. Arbeitszeitbezogene Stressoren: z.B. Schichtarbeit, Überstunden
+                    <br><br>4. Rollenstressoren: z.B. Rollenüberlastung (zu viel, zu kompliziert), Rollenkonflikt (widersprüchliche Erwartungen), Rollenambiguität (unklare Erwartungen)
+                    <br><br>5. Laufbahnbezogene Stressoren: z.B. Unterbeschäftigung, geringe Aufstiegsmöglichkeiten, Arbeitsplatzunsicherheit
+                    <br><br>6. Organisatorische Veränderung: z.B. Reorganisationen, Einführung neuer Technologien, Unternehmenszusammenschlüsse
+                    <br><br>7. Physische Stressoren: z.B. physische Arbeitsbedingungen wie Lärm, Schmutz, chemische oder toxische Substanzen usw.
+                    <br><br>8. Traumatische Stressoren: z.B. Unfälle, sehr gefährliche Aktivitäten
+                    <br><br>Im play away stress® Workshop Change+ setzen wir uns mit den in deinem Unternehmen wirkenden Stressoren auseinander, damit aus dem Blickwinkel des Stresssystems und den daraus resultierenden Neuro-Stress-Folgen, Massnahmen zur Reduktion der andauernden Stressoren definiert werden können. Damit tragen wir dazu bei, dass die Arbeitsverhältnisse weniger belastend gestaltet werden können und die Mitarbeitenden mit hoher Wahrscheinlichkeit weniger Stresshormone ausschütten und vitaler bleiben.
+                </p>
+            </div>
             <figure class="container50">
                 <img class="animation1" src="img/play-stress-away-stressoren-stress.svg" alt="play-stress-away-stressoren-stressabbau"/>
                 <img class="animation2" src="img/play-stress-away-stressoren-5g.svg" alt="play-stress-away-stressoren-stressabbau"/>
                 <img class="animation3" src="img/play-stress-away-stressoren-reorg.svg" alt="play-stress-away-stressoren-stressabbau"/>
-                <figcaption>Dauernde Stressoren lösen bei den meisten Menschen Stress aus.</figcaption>
+                <figcaption>Dauernde Stressoren lösen bei den meisten Menschen Stress aus</figcaption>
             </figure>
-            <div class="container50">
-                <h1>Stressoren</h1>
-                <p class="lauftext">
-                    Stressoren sind <strong>externe Einflüsse</strong>, die mit hoher Wahrscheinlichkeit, bei den meisten Menschen Stress auslösen. Treten diese Stressoren dauerhaft auf, findet der Mensch nicht mehr in seinen Entspannungszustand. Mit chronischer Anspannung treten relativ bald Neuro-Stress Folgen auf, was erwiesenermassen zu Erschöpfungen und Krankheit führt.
-                </p>
-                <button class="togglebutton">&#43;</button>
-            </div>
-            <div class="togglebox">
-                <p class="lauftext">
-                    Nach Anspannung und intensivem Einsatz benötigt der Mensch tiefe Entspannung und den daraus folgenden regenerativen Schlaf, was aber bei hohem Stresshormonlevel nicht möglich ist. Gemäss Gesundheitsförderung Schweiz, Arbeitspapier 26, lassen sich Stressoren im Arbeitskontext in folgende Gruppen einteilen:
-                    <br><br>1. Aufgabenbezogene Stressoren: z.B. Zeitdruck, Monotonie, hohe Komplexität, Unterbrechungen
-                    <br>2. Soziale Stressoren: z.B. soziale Interaktionen mit Vorgesetzen, Mitarbeitenden, Kunden; Konflikte, Mobbing, Aggression am Arbeitsplatz, mangelndes Feedback
-                    <br>3. Arbeitszeitbezogene Stressoren: z.B. Schichtarbeit, Überstunden
-                    <br>4. Rollenstressoren: z.B. Rollenüberlastung (zu viel, zu kompliziert), Rollenkonflikt (widersprüchliche Erwartungen), Rollenambiguität (unklare Erwartungen)
-                    <br>5. Laufbahnbezogene Stressoren: z.B. Unterbeschäftigung, geringe Aufstiegsmöglichkeiten, Arbeitsplatzunsicherheit
-                    <br>6. Organisationale Veränderung: z.B. Einführung neuer Technologien, Unternehmenszusammenschluss
-                    <br>7. Physische Stressoren: z.B. physische Arbeitsbedingungen wie Lärm, Schmutz, chemische oder toxische Substanzen usw.
-                    <br>8. Traumatische Stressoren: z.B. Unfälle, sehr gefährliche Aktivitäten
-                    <br><br>Im play stress away® Workshop Change+ werden betriebsinterne Workshops zu den konkreten Stressoren durchgeführt. Zu Beginn einer Veränderung braucht es immer das Bewusstsein über die Missstände, damit Energie in gewinnbringende Lösungen geleitet werden kann - das trifft auf Privatpersonen wie auch auf Unternehmen zu.
-                </p>
-            </div>
         </article>
         
         <article class="articlecontainer">
