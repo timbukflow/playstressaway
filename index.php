@@ -3,8 +3,8 @@
 <!--[if IE 8]>	 <html class="no-js lt-ie9" lang="de"><![endif]-->
 <!--[if gt IE 8]><!--><html class="no-js" lang="de"><!--<![endif]-->
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# place: http://ogp.me/ns/place#">
-    <title>playstressaway</title>
-    <meta name="description" content="Wirkungsvolle Pr&auml;vention und Aktivierung dank neurobiologischen Fakten. Mit dem play stress away® Konzept reduzieren Sie in Ihrem Unternehmen die Fehlzeiten und Produktionsausf&auml;lle, sparen Kosten und ihre vitalisierten Mitarbeitenden mit aktivierten Hirnnutzungsf&auml;higkeiten generieren viele weitere Kunden, die Sie weiterempfehlen.">
+    <title>playawaystress</title>
+    <meta name="description" content="Wirkungsvolle Pr&auml;vention und Aktivierung dank neurobiologischen Fakten. Mit dem play away stress® Konzept reduzieren Sie in Ihrem Unternehmen die Fehlzeiten und Produktionsausf&auml;lle, sparen Kosten und ihre vitalisierten Mitarbeitenden mit aktivierten Hirnnutzungsf&auml;higkeiten generieren viele weitere Kunden, die Sie weiterempfehlen.">
     <?php include 'head.php'; ?>
 </head>
 
@@ -32,8 +32,7 @@
             <div class="container50home">
                 <h1>Stresshormone abbauen</h1>
                 <p class="lauftext">
-                    Wirkungsvolle Prävention und Aktivierung dank neurobiologischen Fakten! Entstresse dich mit vitalisierenden Gewohnheiten - direkt am Arbeitsplatz und in deinem Alltag. Effektiver <strong>Stresshormon Abbau</strong> und die daraus erst mögliche tiefe Entspannung bringt dir deine vollen Hirnnutzungsfähigkeiten zurück und reaktiviert dein Immunsystem.
-
+                    Komm wieder in deine <strong>ureigene Power</strong> und entspanne dich mit vitalisierenden Gewohnheiten - direkt am Arbeitsplatz und in deinem Alltag! Mit play away stress® baust du effektiv Stresshormone ab, kannst dich wieder richtig entspannen und ermöglichst dir damit eine tägliche Regeneration für mehr Energie im Alltag. Auch werden deine <strong>Hirnnutzungsfähigkeiten optimiert und dein Immunsystem gestärkt.</strong> Wirkungsvolle Prävention und effektive Aktivierung dank neurobiologischen Fakten – play away stress!
                 </p>
                 <button><a class="button goto" href="#stress">Erfahre mehr</a></button>
             </div>

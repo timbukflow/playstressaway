@@ -2,7 +2,7 @@
     <nav id="navcontainer" >  
         <div class="navbackground">
             <a href="index" target="_top" class="nav-logo">
-                <img class="logo" src="img/playstressaway-logo.svg" alt="playstressaway-logo"/>
+                <img class="logo" src="img/playawaystress-logo.svg" alt="playawaystress-logo"/>
             </a>
         </div>
         <div id="navburger">
@@ -16,7 +16,7 @@
                 <li><a class="bookmark" href="#stress">Stress</a></li>
                 <li><a class="bookmark" href="#konzept">Konzept</a></li>
                 <li><a href="stresstest">Stresstest</a></li>
-                <li><a href="angebot">Angebot</a></li>
+                <li><a href="angebot">Angebote</a></li>
                 <li><a href="kontakt">Kontakt</a></li>
             </ul>
         </div>
