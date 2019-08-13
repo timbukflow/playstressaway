@@ -1224,7 +1224,7 @@ footer {
     .homecontainer {height: 100vh;}
     .articlecontainer {margin: 20px auto}
     .stresstesttop {margin-top: 100px;}
-    .container25 {margin: 2%; width: 96%;}
+    .container25 {margin: 30px 2%; width: 96%;}
     .wave-home, .wave-footer, .wave {height: 200px;}
     .togglebutton {margin: 0;}
     .kontakt, .kontakt a { font-size: 24px; padding-top: 0;}
