@@ -25,7 +25,7 @@
                 9000 St.Gallen<br>
                 <a class="linkw" href="https://www.schwizerschlatter.com" target="_blank">www.schwizerschlatter.com</a>
             </p>
-            <p>© 2019 play away stress gmbh. All rights reserved</p>
+            <p>© 2019 play away stress gmbh. <br>All rights reserved</p>
         </div>
 </footer>
 
