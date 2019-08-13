@@ -89,7 +89,6 @@ h1, h3, p, a, table, figcaption, .preis, button, .togglelink, .tr, .td, .th {
     font-size: 20px;
     line-height: 1.4;
     hyphens: auto;
-    -webkit-hyphens: auto;
     letter-spacing: 0.3px;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;

@@ -139,7 +139,7 @@
             <div class="container50 right">
                 <h1 class="screentitle">Stress und die Hirnnutzungsfähigkeiten</h1>
                 <p class="lauftext">
-                    Über welche Hirnnutzungsfähigkeiten verfüge ich abhängig vom Stresslevel?Die Menge der Stresshormone steuert den Zugang zu unseren Hirnnutzungsfähigkeiten und die Funktion unseres Immunsystems. Bei andauernd hohem Stresshormonlevel leben wir in <strong>ständiger Anspannung</strong> und reduzierter Funktion des Immunsystems, was zum typischen <strong>unkreativen Stresstunnelblick</strong> führt und auch <strong>diffuse Schmerzzustände</strong> auslösen kann. Steuern wir die Stresshormone, bevor sie uns steuern!
+                    Über welche Hirnnutzungsfähigkeiten verfüge ich abhängig vom Stresslevel? Die Menge der Stresshormone steuert den Zugang zu unseren Hirnnutzungsfähigkeiten und die Funktion unseres Immunsystems. Bei andauernd hohem Stresshormonlevel leben wir in <strong>ständiger Anspannung</strong> und reduzierter Funktion des Immunsystems, was zum typischen <strong>unkreativen Stresstunnelblick</strong> führt und auch <strong>diffuse Schmerzzustände</strong> auslösen kann. Steuern wir die Stresshormone, bevor sie uns steuern!
                 </p>
                 <button><a class="button" href="stresstest">Wie hoch ist dein Stresslevel?</a></button>
             </div>
