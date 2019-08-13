@@ -97,6 +97,7 @@ h1, h3, p, a, table, figcaption, .preis, button, .togglelink, .tr, .td, .th {
 
 p {
     padding-top: 0px;
+    -webkit-hyphens: auto;
 }
 
 figcaption, .preis {
@@ -132,7 +133,6 @@ h3 {
     color: #888888;
     font-size: 20px;
     text-align: center;
-    -webkit-hyphens: auto;
 }
 
 h3 span {
