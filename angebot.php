@@ -120,10 +120,10 @@
                         <span class="one">&#x2714;</span><span class="two"><strong>Live vor Ort</strong><br>eintägiger Workshop</span>
                     </p>
                     <p class="lauftext">
-                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong>Live</strong></span>
+                        <span class="one">&#10007;</span><span class="two"><strong>Live</strong></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one notinclude">&#10007;</span><span class="two"><strong>Online Tutorials</strong><br>Zugang während der Programmdauer</span>
+                        <span class="one">&#10007;</span><span class="two"><strong>Online Tutorials</strong><br>Zugang während der Programmdauer</span>
                     </p>
                     <p class="lauftext full">
                         Motivierte Führungskräfte und Mitarbeitende erarbeiten die Inhalte für die internen Stressoren Workshops, die sie dann begleitend in den Teams für eine optimierte Arbeitsumgebung durchführen.
