@@ -43,7 +43,7 @@
                 <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"  />
                 <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"  />
                 <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-4.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"  />
-                <figcaption>Stresstest???????????</figcaption>
+                <figcaption>Wie ist dein Stresslevel bei den gegenwärtigen Stressoren?</figcaption>
             </figure>
             <div class="container50">
                 <h1>Stresstest</h1>

@@ -124,7 +124,7 @@ figcaption, .preis {
 
 h1 {
     font-size: 40px;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 h3 {
@@ -755,6 +755,10 @@ article .container100 h1 {
 
 article .right {
     float: right;
+}
+
+.responsivimg {
+    display: none;
 }
 
 /*---------------------------------- 
@@ -1440,7 +1444,6 @@ footer {
     button {margin: 25px 0px 35px;}
     .wave-home, .wave-footer, .wave {top:0;height: 100px;}
     
-    article .right {float: none;}
     article .container50 { width: 80%; margin: 10px 10%;}
     .articlecontainer {margin: 0px auto}
     .togglebutton {margin:25px 0px 0px;}
@@ -1449,6 +1452,8 @@ footer {
     article .container100.angebot {margin-top: 100px;}
     span.respcheck {font-size: 14px;}
     .result span, .firstg {font-size: 30px;}
+    .responsivimg {display: block;}
+    .screenimg {display: none;}
     
     .respout {display: none;}
     span.respcheck {display: block;}

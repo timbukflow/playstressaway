@@ -39,34 +39,43 @@
         </article>
     </section>
     
-    
     <section id="stress">
         <div class="wave-container">
             <div class="wave-home"><img src="img/play-stress-away-wave.png" alt="play-stress-away-wave"/></div>
         </div>
         <article class="articlecontainer">
+            <figure class="container50 screenimg right">
+                <img src="img/play-stress-away-job-stress-index-schweiz.svg" alt="play-stress-away-job-stress-index-schweiz"/>
+                <figcaption>Job-Stress-Index Schweiz 2018 der 5 Mio. Erwerbstätigen</figcaption>
+            </figure>
             <div class="container50">
                 <h1>Stress</h1>
                 <p class="lauftext">
                     Nur noch 26.5% der Erwerbstätigen verfügen über ausreichende Ressourcen und fühlen sich nicht dauernd gestresst gemäss des jährlich erhobenen Job-Stress-Index durch die Gesundheitsförderung Schweiz. Die <strong>durch Stress erhöhten Ausfallzeiten</strong> und der <strong>unproduktive Präsentismus steigen</strong> in neuster Zeit signifikant an, und auch die Arbeitsatmosphäre in diesen betroffenen Unternehmen leidet mehr und mehr. Wie sieht es bei dir im Unternehmen aus und wieso sind denn immer mehr Menschen so gestresst?
                 </p>
-                <button class="togglebutton">&#43;</button>
+                <button class="togglebutton" data-toggle="#test">&#43;</button>
             </div>
-            <div class="togglebox">
+            <div class="togglebox" id="test">
                 <p class="lauftext">
                     Stresshormone werden bei Gefahr blitzschnell in unserem Organismus ausgeschüttet, was wir nicht bewusst steuern können. Stresshormone, wie Adrenalin, geben uns in diesen Situationen die körperliche Power, die Gefahr zu meistern. In vielen Berufen und Lebenssituationen jedoch, lassen sich die Problemstellungen schon lange nicht mehr mit körperlichen Reaktionen wie Kampf oder Flucht lösen, was die Stresshormone zeitnah abbauen würde. Zudem führt die heutige, körperlich nicht mehr so aktive Lebensweise dazu, dass die ausgeschütteten Stresshormone nur langsam abgebaut werden oder gar in unserem Organismus als Stressspeicher verbleiben. Auch reduziert unser Körper bei Gefahr die „unnötigen“ Funktionen drastisch wie z.B. die Aktivität des Immunsystems oder der natürliche Zugriff auf unsere Kreativität und unsere Hirnnutzungsfähigkeiten.  Dieser Zustand entfaltet sich in neuster Zeit bei immer mehr Menschen und zeigt sich in folgenden unerwünschten Wirkungen der verbleibenden Stresshormone:
                     <br><br>Die verursachte Körperanspannung verbleibt und führt häufig zu dauernden Nacken- und Schulterverspannungen oder begünstigt die ansteigende Zahl der Schlafstörungen, da wir nur in entspanntem Zustand gut ein- und durchschlafen können. Ein bleibender Stresstunnelblick wird erzeugt und wir leiden unter kreisenden Gedanken, sodass bisher einfach lösbare Herausforderungen zur noch grösseren Belastung beitragen. Oder immer mehr Menschen leiden an chronischen Entzündungen und diffusen Allergien, was medizinisch häufig auf die steigende Unterfunktion des Immunsystems zurückzuführen ist. Diese erforschten Wirkungsweisen der Stresshormone und die dadurch ausbleibende Entspannung sowie die reduzierte Funktionalität des Immunsystems, beeinträchtigen die Lebensqualität von immer mehr Menschen drastisch, so auch bei Erwerbstätigen, was auch die steigenden Zahlen gemäss Job Stress Index ausweisen.
                     <br><br>Daher sollten nicht nur die kostenintensiven Arbeitsausfälle durch Stress aufhorchen lassen, sondern vorallem auch die stark eingeschränkte Lebensqualität gestresster Menschen und deren Umfeld wie Familie und Kinder sowie die Arbeitsatmosphäre im Unternehmen.So führt chronisch hoher Stresshormonlevel erwiesenermassen zu Krankheiten und Ausfällen, was sich in den einzelnen Schicksalen zumeist über mehrere Jahre schleichend entwickelte und auch andeutete.<br><br>Wichtig zu wissen, dass wir gemeinsam etwas dagegen unternehmen können, um die oben aufgezeigten, in unserer Gesellschaft leider rasant anwachsenden Szenarien, zu mindern oder gänzlich zu verhindern!
                 </p>
             </div>
-            <figure class="container50">
+            <figure class="container50 responsivimg">
                 <img src="img/play-stress-away-job-stress-index-schweiz.svg" alt="play-stress-away-job-stress-index-schweiz"/>
                 <figcaption>Job-Stress-Index Schweiz 2018 der 5 Mio. Erwerbstätigen</figcaption>
             </figure>
         </article>
         
         <article class="articlecontainer">
-            <div class="container50 right">
+            <figure class="container50 screenimg">
+                <img class="animation1" src="img/play-stress-away-stressoren-stress.svg" alt="play-stress-away-stressoren-stressabbau"/>
+                <img class="animation2" src="img/play-stress-away-stressoren-5g.svg" alt="play-stress-away-stressoren-stressabbau"/>
+                <img class="animation3" src="img/play-stress-away-stressoren-reorg.svg" alt="play-stress-away-stressoren-stressabbau"/>
+                <figcaption>Dauernde Stressoren lösen bei den meisten Menschen Stress aus</figcaption>
+            </figure>
+            <div class="container50">
                 <h1>Stressoren</h1>
                 <p class="lauftext">
                     Stressoren sind externe Einflüsse, die <strong>mit hoher Wahrscheinlichkeit, bei den meisten Menschen Stress auslösen.</strong> Treten diese Stressoren dauerhaft auf, werden laufend Stresshormone ausgeschüttet und der Mensch lebt in ständiger Anspannung und findet so nicht mehr in seinen Entspannungszustand. Mit chronischer Anspannung treten bald auch <strong>Neuro-Stress-Folgen</strong> auf, was erwiesenermassen zu Erschöpfungszuständen und Krankheit führt.
@@ -77,18 +86,18 @@
                 <p class="lauftext">
                     Nach Anspannung und entsprechend hohem Stresshormonlevel benötigt der Mensch tiefe Entspannung, um überhaupt in den so wichtigen regenerativen Schlaf zu gelangen. Bei hohem Stresshormonlevel ist guter Schlaf leider nicht möglich, was häufig der Grund für die weitverbreiteten Schlafprobleme ist.<br>
                     Dauernde Stressoren lösen bei den meisten Menschen Stress aus, und die folgenden in Gruppen eingeteilten Stressoren verstärken sich leider zusehends, wie im Arbeitspapier 26 der Gesundheitsförderung Schweiz ausgewiesen:
-                    <br><br>1. Aufgabenbezogene Stressoren: z.B. Zeitdruck, Monotonie, hohe Komplexität, Unterbrechungen
-                    <br><br>2. Soziale Stressoren: z.B. soziale Interaktionen mit Vorgesetzen, Mitarbeitenden, Kunden; Konflikte, Mobbing, Aggression am Arbeitsplatz, mangelndes Feedback
-                    <br><br>3. Arbeitszeitbezogene Stressoren: z.B. Schichtarbeit, Überstunden
-                    <br><br>4. Rollenstressoren: z.B. Rollenüberlastung (zu viel, zu kompliziert), Rollenkonflikt (widersprüchliche Erwartungen), Rollenambiguität (unklare Erwartungen)
-                    <br><br>5. Laufbahnbezogene Stressoren: z.B. Unterbeschäftigung, geringe Aufstiegsmöglichkeiten, Arbeitsplatzunsicherheit
-                    <br><br>6. Organisatorische Veränderung: z.B. Reorganisationen, Einführung neuer Technologien, Unternehmenszusammenschlüsse
-                    <br><br>7. Physische Stressoren: z.B. physische Arbeitsbedingungen wie Lärm, Schmutz, chemische oder toxische Substanzen usw.
-                    <br><br>8. Traumatische Stressoren: z.B. Unfälle, sehr gefährliche Aktivitäten
+                    <br>1. Aufgabenbezogene Stressoren: z.B. Zeitdruck, Monotonie, hohe Komplexität, Unterbrechungen
+                    <br>2. Soziale Stressoren: z.B. soziale Interaktionen mit Vorgesetzen, Mitarbeitenden, Kunden; Konflikte, Mobbing, Aggression am Arbeitsplatz, mangelndes Feedback
+                    <br>3. Arbeitszeitbezogene Stressoren: z.B. Schichtarbeit, Überstunden
+                    <br>4. Rollenstressoren: z.B. Rollenüberlastung (zu viel, zu kompliziert), Rollenkonflikt (widersprüchliche Erwartungen), Rollenambiguität (unklare Erwartungen)
+                    <br>5. Laufbahnbezogene Stressoren: z.B. Unterbeschäftigung, geringe Aufstiegsmöglichkeiten, Arbeitsplatzunsicherheit
+                    <br>6. Organisatorische Veränderung: z.B. Reorganisationen, Einführung neuer Technologien, Unternehmenszusammenschlüsse
+                    <br>7. Physische Stressoren: z.B. physische Arbeitsbedingungen wie Lärm, Schmutz, chemische oder toxische Substanzen usw.
+                    <br>8. Traumatische Stressoren: z.B. Unfälle, sehr gefährliche Aktivitäten
                     <br><br>Im play away stress® Workshop Change+ setzen wir uns mit den in deinem Unternehmen wirkenden Stressoren auseinander, damit aus dem Blickwinkel des Stresssystems und den daraus resultierenden Neuro-Stress-Folgen, Massnahmen zur Reduktion der andauernden Stressoren definiert werden können. Damit tragen wir dazu bei, dass die Arbeitsverhältnisse weniger belastend gestaltet werden können und die Mitarbeitenden mit hoher Wahrscheinlichkeit weniger Stresshormone ausschütten und vitaler bleiben.
                 </p>
             </div>
-            <figure class="container50">
+            <figure class="container50 responsivimg">
                 <img class="animation1" src="img/play-stress-away-stressoren-stress.svg" alt="play-stress-away-stressoren-stressabbau"/>
                 <img class="animation2" src="img/play-stress-away-stressoren-5g.svg" alt="play-stress-away-stressoren-stressabbau"/>
                 <img class="animation3" src="img/play-stress-away-stressoren-reorg.svg" alt="play-stress-away-stressoren-stressabbau"/>
@@ -97,40 +106,46 @@
         </article>
         
         <article class="articlecontainer">
-            <figure class="container50 right">
+            <figure class="container50 screenimg right">
                 <img src="img/play-stress-away-neuen-sinne-des-menschen-1.svg" alt="play-stress-away-stressoren-stressabbau"/>
                 <img class="animation3" src="img/play-stress-away-neuen-sinne-des-menschen-2.svg" alt="play-stress-away-stressoren-stressabbau" />
-                <figcaption>Mit aktivierten Sinnen hast du vollen Zugang auf deine Ressourcen</figcaption>
+                <figcaption>Mit aktivierten Sinnen verfügst du über vollen Zugang auf deine Ressourcen</figcaption>
             </figure>
             <div class="container50">
                 <h1>Die neun Sinne des Menschen</h1>
                 <p class="lauftext">
-                    Alle unsere Sinneseindrücke werden zuerst durch das Stresssystem überprüft, ob eine Gefahrenlage besteht oder nicht. So werden <strong>blitzschnell</strong> Stresshormone ausgeschüttet, die uns die Power geben sollen, die Problemstellung zu bewältigen.
+                    Das Stresssystem überprüft ständig unsere Sinneseindrücke. Identifiziert unser Körpersystem über diese Sinneswahrnehmungen eine Gefahrenlage, werden <strong>blitzschnell Stresshormone ausgeschüttet,</strong> bevor wir diese Körperreaktion bewusst steuern könnten. Gemäss aktuellsten Erkenntnissen verfügen wir Menschen sogar über neun Sinne. Insbesondere dem <strong>Gleichgewichts- und dem faszialen Sinn</strong> wird nebst den gängigen fünf Sinnen grosse Bedeutung zugemessen.
+
                 </p>
                 <button class="togglebutton">&#43;</button>
             </div>
             <div class="togglebox">
                 <p class="lauftext">
-                    Können wir dank dieser Power und Anspannung erfolgreich die Herausforderung meistern, stärken wir unser Selbstbewusstsein und gelangen in den Entspannungsmodus, indem auch Stresshormone weiter abgebaut werden. Können wir die Problemstellung hingegen nicht bewältigen und die Stresssituation bleibt erhalten, werden noch mehr Stresshormone, so auch Cortisol ausgeschüttet. Wir gelangen in intensivere Anspannung, so dass auch Stressspeicher entstehen können, und insbesondere unsere Hirnnutzungsfähigkeiten dadurch eingeschränkt werden. In intensiver Anspannung haben wir nur reduzierten Zugang zu unserer Kreativität und Ressourcen, so dass ein Teufelskreis an wachsenden Problemstellungen entsteht.<br><br>Mit dem play stress away® Konzept arbeiten wir mit der aktuellen Erkenntnis von neun Sinnen. Insbesondere zu den gängigen fünf Sinnen wird dem Gleichgewichts- und dem faszialen Sinn grosse Bedeutung zugemessen. Mit gezielter Aktivierung und Nutzung sämtlicher Sinne, erhöhen wir bei den Teilnehmenden deren Zugang zu den gesamten Ressourcen, die zur Problemlösung eingesetzt werden. Damit erhöht sich die Wahscheinlichkeit, dass häufiger die Problemstellung erfolgreich gelöst werden, und Entspannung eintreten kann, sodass der vitalisierende Kreislauf beginnt. Mit Einbezug der körperlichen Reaktionen, also dem wirkungsvollen Embodiment, bauen wir vitalisierende Gewohnheiten auf, die direkt am Arbeitsplatz und im Alltag zur Erhöhung der Stressresilienz und zur bewussten Entspannungssteuerung eingesetzt werden. Auch erhöhen wir so die Wahrscheinlichkeit, dass die Menschen positiven Einfluss auf ihre direkte Umgebung ausüben und so zu weniger Stressoren beizutragen vermögen. 
+                    Mit gezielter Aktivierung und Nutzung aller Sinne, können wir unseren Zugang zu sämtlichen Ressourcen steigern, die zur Problemlösung eingesetzt werden. So erhöht sich die Wahscheinlichkeit, dass Problemstellungen häufiger erfolgreich gelöst werden, und Entspannung eintreten kann, damit der vitalisierende Kreislauf beginnen kann.<br>Mit Einbezug aller Sinneswahrnehmungen und entsprechendem wirkungsvollen Embodiment, können erwiesenermassen vitalisierende Gewohnheiten entwickelt werden, die im Alltag zur Erhöhung der Stressresilienz und zur bewussten Entspannungssteuerung eingesetzt werden.
                 </p>
             </div>
+            <figure class="container50 responsivimg right">
+                <img src="img/play-stress-away-neuen-sinne-des-menschen-1.svg" alt="play-stress-away-stressoren-stressabbau"/>
+                <img class="animation3" src="img/play-stress-away-neuen-sinne-des-menschen-2.svg" alt="play-stress-away-stressoren-stressabbau" />
+                <figcaption>Mit aktivierten Sinnen verfügst du über vollen Zugang auf deine Ressourcen</figcaption>
+            </figure>
         </article>
         
         <article class="articlecontainer">
+            <div class="container50 right">
+                <h1>Stress und die Hirnnutzungsfähigkeiten</h1>
+                <p class="lauftext">
+                    Über welche Hirnnutzungsfähigkeiten verfüge ich abhängig vom Stresslevel?Die Menge der Stresshormone steuert den Zugang zu unseren Hirnnutzungsfähigkeiten und die Funktion unseres Immunsystems. Bei andauernd hohem Stresshormonlevel leben wir in <strong>ständiger Anspannung</strong> und reduzierter Funktion des Immunsystems, was zum typischen <strong>unkreativen Stresstunnelblick</strong> führt und auch <strong>diffuse Schmerzzustände</strong> auslösen kann. Steuern wir die Stresshormone, bevor sie uns steuern!
+                </p>
+                <button><a class="button" href="stresstest">Wie hoch ist dein Stresslevel?</a></button>
+            </div>
             <figure class="container50">
                 <img src="img/play-stress-away-hirnnutzungsfaehigkeiten-1.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
                 <img class="animation2" src="img/play-stress-away-hirnnutzungsfaehigkeiten-2.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
                 <img class="animation3" src="img/play-stress-away-hirnnutzungsfaehigkeiten-3.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
                 <img class="animation4" src="img/play-stress-away-hirnnutzungsfaehigkeiten-4.svg" alt="play-stress-away-hirnnutzungsfaehigkeiten"/>
-                <figcaption>Stressoren lösen Stress aus und reduzieren deine Hirnnutzungsfähigkeiten</figcaption>
+                <figcaption>Stress reduziert deine Hirnnutzungsfähigkeiten und deine Kreativität</figcaption>
             </figure>
-            <div class="container50">
-                <h1>Stress und die Hirnnutzungsfähigkeiten</h1>
-                <p class="lauftext">
-                    Über welche Hirnnutzungsfähigkeiten verfüge ich abhängig vom Stresslevel? Die Menge der Stresshormone steuert den Zugang zu unseren Hirnnutzungsfähigkeiten und der Aktivität unseres <strong>Immunsystems</strong>. Bei andauernd hohem Stresshormon Level leben wir in <strong>ständiger Anspannung</strong> und reduziertem Immunsystem, was zum typischen unkreativen Stresstunnelblick führt und auch diffuse Schmerzzustände auslösen kann. Steuern wir die Stresshormone, bevor sie uns steuern!
-                </p>
-                <button><a class="button" href="stresstest">Wie hoch ist dein Stresslevel?</a></button>
-            </div>
         </article>
     </section><!--sectionend stress-->
     

@@ -57,7 +57,6 @@ $('#navburger').click(function(){
         return true;
     });
     
-    
 // impressum //
 
     $('.togglelink').click(function() {
