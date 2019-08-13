@@ -5,7 +5,7 @@
             <li><a href="index#stress">Stress</a></li>
             <li><a href="index#konzept">Konzept</a></li>
             <li><a href="stresstest">Stresstest</a></li>
-            <li><a href="angebot">Angebot</a></li>
+            <li><a href="angebot">Angebote</a></li>
             <li><a href="kontakt">Kontakt</a></li>
         </ul>
     </div>
@@ -14,9 +14,9 @@
         <div id="impressum">    
             <p>
                 <b>Konzept</b><br>
-                play stress away gmbh<br>
-                Schaffhauserstrasse 115<br>
-                8302 Kloten<br>
+                play away stress gmbh<br>
+                Kaiserstuhlstrasse 27<br>
+                8172 Niederglatt<br>
             </p>
             <p>
                 <b>Design &#38; Interaction:</b><br>
@@ -25,7 +25,7 @@
                 9000 St.Gallen<br>
                 <a class="linkw" href="https://www.schwizerschlatter.com" target="_blank">www.schwizerschlatter.com</a>
             </p>
-            <p>© 2019 play stress away gmbh. All rights reserved</p>
+            <p>© 2019 play away stress gmbh. All rights reserved</p>
         </div>
 </footer>
 

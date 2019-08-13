@@ -757,7 +757,7 @@ article .right {
     float: right;
 }
 
-.responsivimg {
+.responsivtitle {
     display: none;
 }
 
@@ -967,21 +967,25 @@ span.respcheck {
     box-sizing: border-box;
 }
 
-
 .figcaptionstb {
     font-size: 20px;
     margin: 0;
     color: #575757;
+    padding: 20px 90px;
 }
 
 .green {
     color: #009632;
 }
 .yellow {
-    color: #f7c45a;
+    color: #ffc000;
 }
 .red {
-    color: #e1614a;
+    color: #ff2832;
+}
+
+.stresstest {
+    margin-top: 170px;
 }
 
 /*---------------------------------- 
@@ -1082,8 +1086,14 @@ article .toolbox {
     transition: 0.25s ease-in-out;
 }
 
-.container25 a:hover {
-    background: #006522;
+.container25 a.anfrage {
+    background: rgba(235,245,251,1);
+    color: #575757;
+}
+
+.container25 a.anfrage:hover {
+    background: rgb(199, 232, 252);
+    
 }
 
 .container25 p {
@@ -1115,6 +1125,12 @@ article .toolbox {
     font-size: 40px;
     border-bottom: none;
     padding-bottom: 0px;
+}
+
+.chfmwst{
+    border-bottom: none !important;
+    margin-top: 0px !important;
+    font-size: 12px !important;
 }
 
 
@@ -1203,7 +1219,7 @@ footer {
     button {margin: 25px 0px 35px;}
     .circle-container {height: 160px;width: 150px;}
     .circle-container50 {height: 430px; top:20%;}
-    .copyright {padding: 10px 10px;}
+    .copyright {padding: 10px 10px;margin: 0px 10%;}
     .homecontainer {height: 100vh;}
     .articlecontainer {margin: 20px auto}
     .stresstesttop {margin-top: 100px;}
@@ -1439,6 +1455,7 @@ footer {
     .circle-container {height: 160px;width: 150px;}
     article .container50home {position: relative; width: 80%; margin: auto 10%; bottom:0; top: auto;}
     h1 {font-size: 30px;margin-top: 20px;}
+    .stresstest {margin-top: 20px;}
     h1, p, .tr {padding: 10px 0px;}
     p, .button, .td span {font-size: 16px;}
     button {margin: 25px 0px 35px;}
@@ -1452,8 +1469,8 @@ footer {
     article .container100.angebot {margin-top: 100px;}
     span.respcheck {font-size: 14px;}
     .result span, .firstg {font-size: 30px;}
-    .responsivimg {display: block;}
-    .screenimg {display: none;}
+    .responsivtitle {display: block;}
+    .screentitle {display: none;}
     
     .respout {display: none;}
     span.respcheck {display: block;}
@@ -1463,6 +1480,7 @@ footer {
     .table {width: 80%; margin: 0 10%;}
     .last {width: 100%}
     .firstg {width: 75%;}
+    .figcaptionstb {padding: 20px}
     
     .tabscontainer {display: inline-block;}
     
