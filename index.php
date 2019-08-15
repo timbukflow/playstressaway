@@ -32,7 +32,7 @@
             <div class="container50home">
                 <h1>Stresshormone abbauen</h1>
                 <p class="lauftext">
-                    Komm wieder in deine <strong>ureigene Power</strong> und entspanne dich mit vitalisierenden Gewohnheiten - direkt am Arbeitsplatz und in deinem Alltag! Mit play away stress® baust du effektiv Stresshormone ab, kannst dich wieder richtig entspannen und ermöglichst dir damit eine tägliche Regeneration für mehr Energie im Alltag. Auch werden deine <strong>Hirnnutzungsfähigkeiten optimiert und dein Immunsystem gestärkt.</strong> Wirkungsvolle Prävention und effektive Aktivierung dank neurobiologischen Fakten – play away stress!
+                    Dank unserer Methode gewinnst du deine <strong>ureigene Power</strong> zurück und entspannst dich spielend für mehr <strong>Energie und Ausdauer</strong> im Alltag - play away stress!
                 </p>
                 <button><a class="button goto" href="#stress">Erfahre mehr</a></button>
             </div>

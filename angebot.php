@@ -117,7 +117,7 @@
                 <div class="container25">
                     <h1>Change+</h1>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Live vor Ort</strong><br>eintägiger Workshop</span>
+                        <span class="one">&#x2714;</span><span class="two"><strong>Live vor Ort</strong><br>eintägiger<br>Workshop</span>
                     </p>
                     <p class="lauftext">
                         <span class="one">&#x2714;</span><span class="two"><strong>Live</strong></span>
@@ -155,10 +155,10 @@
             <div class="tabscontainer">
                 <div class="container25">
                     <h1>PlayBox</h1>
-                    <p class="lauftext">
+                    <p class="lauftext notincluderesp">
                         <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>Vitalisierungen</del></strong><br><del>Session vor Ort für die Mitarbeitenden</del></span>
                     </p>
-                    <p class="lauftext">
+                    <p class="lauftext notincluderesp">
                         <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>kybun® Matte</del></strong><br><del>96 x 46 x 6 cm</del></span>
                     </p>
                     <p class="lauftext">
@@ -180,7 +180,7 @@
                 </div>
                 <div class="container25">
                     <h1>PlayBox+</h1>
-                    <p class="lauftext">
+                    <p class="lauftext notincluderesp">
                         <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>Vitalisierungen</del></strong><br><del>Session vor Ort für die Mitarbeitenden</del></span>
                     </p>
                     <p class="lauftext">
@@ -208,7 +208,7 @@
                     <p class="lauftext">
                         <span class="one">&#x2714;</span><span class="two"><strong>Vitalisierungen</strong><br>Session vor Ort für die Mitarbeitenden</span>
                     </p>
-                    <p class="lauftext">
+                    <p class="lauftext notincluderesp">
                         <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>kybun® Matte</del></strong><br><del>96 x 46 x 6 cm</del></span>
                     </p>
                     <p class="lauftext">
@@ -233,7 +233,7 @@
                     <p class="lauftext">
                         <span class="one">&#x2714;</span><span class="two"><strong>Vitalisierungen</strong><br>Session vor Ort für die Mitarbeitenden</span>
                     </p>
-                    <p class="lauftext">
+                    <p class="lauftext notincluderesp">
                         <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>kybun® Matte</del></strong><br><del>96 x 46 x 6 cm</del></span>
                     </p>
                     <p class="lauftext">

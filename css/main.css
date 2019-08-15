@@ -416,7 +416,7 @@ article .container50home {
     float: left;
     margin: auto 6%;
     position: absolute;
-    top: 20%;
+    top: 28%;
 }
     
 .circle-container {
@@ -1472,6 +1472,7 @@ footer {
     .result span, .firstg {font-size: 30px;}
     .responsivtitle {display: block;}
     .screentitle {display: none;}
+    .notincluderesp {display: none;}
     
     .respout {display: none;}
     span.respcheck {display: block;}
