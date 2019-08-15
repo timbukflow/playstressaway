@@ -54,10 +54,10 @@
                         <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Live vor Ort</strong><br>wöchentlich während ca. 12 Wochen</span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Live</strong></span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Live</strong></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Online Tutorials</strong><br>Zugang während der Programmdauer</span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Online Tutorials</strong><br>Zugang während der Programmdauer</span>
                     </p>
                     <p class="lauftext full">
                         Ab 20 Mitarbeitenden werden die Sessions vor Ort in 10er Gruppen durchgeführt. Kick-off-Session dauert 3.5 Std. Folgende 2. - 12. Sessions dauern jeweils 75 Min.
@@ -73,13 +73,13 @@
                 <div class="container25">
                     <h1>Enterprise+</h1>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Live vor Ort</strong><br>wöchentlich während ca. 12 Wochen</span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Live vor Ort</strong><br>wöchentlich während ca. 12 Wochen</span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Live</strong></span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Live</strong></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Online Tutorials</strong><br>Zugang während der Programmdauer</span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Online Tutorials</strong><br>Zugang während der Programmdauer</span>
                     </p>
                     <p class="lauftext full">
                         Ab 40 Mitarbeitenden werden die Sessions vor Ort in 10er Gruppen durchgeführt. Kick-off-Session dauert 3.5 Std. Folgende 2. - 12. Sessions dauern jeweils 75 Min.
@@ -98,10 +98,10 @@
                         <span class="one notinclude"><i class="fas fa-times"></i></span><span class="two notinclude"><strong><del>Live vor Ort</del></strong><br><del>wöchentlich während ca. 12 Wochen</del></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Live</strong></span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Live</strong></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Online Tutorials</strong><br>Zugang während der Programmdauer</span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Online Tutorials</strong><br>Zugang während der Programmdauer</span>
                     </p>
                     <p class="lauftext full">
                         Für einzelne Teilnehmende werden die Sessions in Kleingruppen in der play away stress® Academy durchgeführt. Termine der Sessions erfährst du auf Anfrage.
@@ -117,13 +117,13 @@
                 <div class="container25">
                     <h1>Change+</h1>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Live vor Ort</strong><br>eintägiger<br>Workshop</span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Live vor Ort</strong><br>eintägiger<br>Workshop</span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Live</strong></span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Live</strong></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Online Tutorials</strong><br>Zugang während der Programmdauer</span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Online Tutorials</strong><br>Zugang während der Programmdauer</span>
                     </p>
                     <p class="lauftext full">
                         Motivierte Führungskräfte und Mitarbeitende erarbeiten die Inhalte für die internen Stressoren Workshops, die sie dann begleitend in den Teams für eine optimierte Arbeitsumgebung durchführen.
@@ -156,16 +156,16 @@
                 <div class="container25">
                     <h1>PlayBox</h1>
                     <p class="lauftext notincluderesp">
-                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>Vitalisierungen</del></strong><br><del>Session vor Ort für die Mitarbeitenden</del></span>
+                        <span class="one notinclude"><i class="fas fa-times"></i></span><span class="two notinclude"><strong><del>Vitalisierungen</del></strong><br><del>Session vor Ort für die Mitarbeitenden</del></span>
                     </p>
                     <p class="lauftext notincluderesp">
-                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>kybun® Matte</del></strong><br><del>96 x 46 x 6 cm</del></span>
+                        <span class="one notinclude"><i class="fas fa-times"></i></span><span class="two notinclude"><strong><del>kybun® Matte</del></strong><br><del>96 x 46 x 6 cm</del></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>PlayBox</strong></span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>PlayBox</strong></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>TrainingsLetter</strong></span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>TrainingsLetter</strong></span>
                     </p>
                     <p class="lauftext full">
                         Baue deine Stresshormone ab und entfalte deine Hirnnutzungsfähigkeiten. Mittels des TrainingsLetters hast du Zugang zu wirkungsvollen Methoden, die du direkt am Arbeitsplatz zu vitalisierenden Gewohnheiten verankern kannst.
@@ -181,16 +181,16 @@
                 <div class="container25">
                     <h1>PlayBox+</h1>
                     <p class="lauftext notincluderesp">
-                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>Vitalisierungen</del></strong><br><del>Session vor Ort für die Mitarbeitenden</del></span>
+                        <span class="one notinclude"><i class="fas fa-times"></i></span><span class="two notinclude"><strong><del>Vitalisierungen</del></strong><br><del>Session vor Ort für die Mitarbeitenden</del></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>kybun® Matte</strong><br>96 x 46 x 6 cm</span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>kybun® Matte</strong><br>96 x 46 x 6 cm</span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>PlayBox</strong></span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>PlayBox</strong></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>TrainingsLetter</strong></span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>TrainingsLetter</strong></span>
                     </p>
                     <p class="lauftext full">
                         Fördere alle deine Sinne, mit der PlayBox+ zusätzlich gezielt deinen Gleichgewichtssinn. Mittels des TrainingsLetters hast du Zugang zu wirkungsvollen Methoden, die du direkt am Arbeitsplatz zu vitalisierenden Gewohnheiten verankern kannst.
@@ -206,16 +206,16 @@
                 <div class="container25">
                     <h1>PlayBox Enterprise</h1>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Vitalisierungen</strong><br>Session vor Ort für die Mitarbeitenden</span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Vitalisierungen</strong><br>Session vor Ort für die Mitarbeitenden</span>
                     </p>
                     <p class="lauftext notincluderesp">
-                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>kybun® Matte</del></strong><br><del>96 x 46 x 6 cm</del></span>
+                        <span class="one notinclude"><i class="fas fa-times"></i></span><span class="two notinclude"><strong><del>kybun® Matte</del></strong><br><del>96 x 46 x 6 cm</del></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>PlayBox</strong></span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>PlayBox</strong></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>TrainingsLetter</strong></span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>TrainingsLetter</strong></span>
                     </p>
                     <p class="lauftext full">
                         Für 30 Mitarbeitende inkl. 30x PlayBox. Vitalisierungs-Session inkl. Vermittlung elementarer Kenntnisse zum Stresssystem vor Ort mit eigenem Erfahren. Je Rahmenprogramm und Vereinbarung nehmen wir uns ca. 1 bis 2 Std.
@@ -231,16 +231,16 @@
                 <div class="container25">
                     <h1>PlayBox Enterprise+</h1>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Vitalisierungen</strong><br>Session vor Ort für die Mitarbeitenden</span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Vitalisierungen</strong><br>Session vor Ort für die Mitarbeitenden</span>
                     </p>
                     <p class="lauftext notincluderesp">
-                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>kybun® Matte</del></strong><br><del>96 x 46 x 6 cm</del></span>
+                        <span class="one notinclude"><i class="fas fa-times"></i></span><span class="two notinclude"><strong><del>kybun® Matte</del></strong><br><del>96 x 46 x 6 cm</del></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>PlayBox</strong></span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>PlayBox</strong></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>TrainingsLetter</strong></span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>TrainingsLetter</strong></span>
                     </p>
                     <p class="lauftext full">
                         Für 50 Mitarbeitende inkl. 50x PlayBox. Vitalisierungs-Session inkl. Vermittlung elementarer Kenntnisse zum Stresssystem vor Ort mit eigenem Erfahren. Je Rahmenprogramm und Vereinbarung nehmen wir uns ca. 1h bis 2 Std.
