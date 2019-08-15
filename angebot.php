@@ -184,7 +184,7 @@
                         <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>Vitalisierungen</del></strong><br><del>Session vor Ort für die Mitarbeitenden</del></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>kybun® Matte</strong><br>96 x 46 x 6 cm</span>
+                        <span class="one">&#x2714;hallo</span><span class="two"><strong>kybun® Matte</strong><br>96 x 46 x 6 cm</span>
                     </p>
                     <p class="lauftext">
                         <span class="one">&#x2714;</span><span class="two"><strong>PlayBox</strong></span>
