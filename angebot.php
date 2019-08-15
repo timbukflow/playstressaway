@@ -51,7 +51,7 @@
                 <div class="container25">
                     <h1>Enterprise</h1>
                     <p class="lauftext">
-                        <span class="one">&#x2714;</span><span class="two"><strong>Live vor Ort</strong><br>wöchentlich während ca. 12 Wochen</span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Live vor Ort</strong><br>wöchentlich während ca. 12 Wochen</span>
                     </p>
                     <p class="lauftext">
                         <span class="one">&#x2714;</span><span class="two"><strong>Live</strong></span>
@@ -95,7 +95,7 @@
                 <div class="container25">
                     <h1>Individual</h1>
                     <p class="lauftext">
-                        <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>Live vor Ort</del></strong><br><del>wöchentlich während ca. 12 Wochen</del></span>
+                        <span class="one notinclude"><i class="fas fa-times"></i></span><span class="two notinclude"><strong><del>Live vor Ort</del></strong><br><del>wöchentlich während ca. 12 Wochen</del></span>
                     </p>
                     <p class="lauftext">
                         <span class="one">&#x2714;</span><span class="two"><strong>Live</strong></span>
@@ -184,7 +184,7 @@
                         <span class="one notinclude">&#10007;</span><span class="two notinclude"><strong><del>Vitalisierungen</del></strong><br><del>Session vor Ort für die Mitarbeitenden</del></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one">&#x2714;hallo</span><span class="two"><strong>kybun® Matte</strong><br>96 x 46 x 6 cm</span>
+                        <span class="one">&#x2714;</span><span class="two"><strong>kybun® Matte</strong><br>96 x 46 x 6 cm</span>
                     </p>
                     <p class="lauftext">
                         <span class="one">&#x2714;</span><span class="two"><strong>PlayBox</strong></span>
