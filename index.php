@@ -30,7 +30,7 @@
                 </div>
             </div>
             <div class="container50home">
-                <h1>Stresshormone abbauen</h1>
+                <h1>Stress abbauen</h1>
                 <p class="lauftext">
                     Dank unserer Methode gewinnst du deine <strong>ureigene Power</strong> zurück und entspannst dich spielend für mehr <strong>Energie und Ausdauer</strong> im Alltag - play away stress!
                 </p>
