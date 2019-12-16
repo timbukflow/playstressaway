@@ -101,16 +101,16 @@
                         <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Live</strong></span>
                     </p>
                     <p class="lauftext">
-                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Online Tutorials</strong><br>Zugang während der Programmdauer</span>
+                        <span class="one"><i class="fas fa-check"></i></span><span class="two"><strong>Online Tutorials</strong><br>Zugang während der Coachingdauer</span>
                     </p>
                     <p class="lauftext full">
-                        Für einzelne Teilnehmende werden die Sessions in Kleingruppen in der play away stress® Academy durchgeführt. Termine der Sessions erfährst du auf Anfrage.
+                        Individuelles Stresscoaching für dich ganz persönlich. Wir lösen deine Stressspeicher auf, damit du deine Ziele selbstgesteuert angehen kannst. Ort und Zeit, persönlich oder mit Videokonferenz sehr flexibel planbar.
                     </p>
                     <p class="lauftext chf">
-                        999.-
+                        333.-
                     </p>
                     <p class="chfmwst">
-                        in CHF inkl. MwSt / Teilnehmenden
+                        in CHF inkl. MwSt / Coachingstunde
                     </p>
                     <a class="anfrage" href="mailto:angebote@playawaystress.ch?subject=Anfrage%20Individual">Anfrage</a>
                 </div>
