@@ -1165,6 +1165,10 @@ footer {
     font-size: 45px;
 }
 
+#impressum .linkw {
+    padding: 0;
+}
+
 #impressum {
     display: none;
 }

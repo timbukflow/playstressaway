@@ -19,13 +19,12 @@
                 8172 Niederglatt<br>
             </p>
             <p>
-                <b>Design &#38; Interaction:</b><br>
-                Schwizer &#38; Schlatter GmbH<br>
-                Davidstrasse 45<br>
-                9000 St.Gallen<br>
-                <a class="linkw" href="https://www.schwizerschlatter.com" target="_blank">www.schwizerschlatter.com</a>
+                <b>Design &amp; Code:</b><br>
+                Schwizer Design GmbH
+                <a class="linkw" href="https://goo.gl/maps/bBmLDGMJSYqbwbmj8">Gallusstrasse 43<br>9000 St. Gallen</a>
+                <a class="linkw" href="https://schwizerdesign.ch/" target="_blank">www.schwizerdesign.ch</a>
             </p>
-            <p>© 2019 play away stress gmbh. <br>All rights reserved</p>
+            <p>© 2023 play away stress gmbh. <br>All rights reserved</p>
         </div>
 </footer>
 
