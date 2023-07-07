@@ -45,28 +45,33 @@ $('#navburger').click(function(){
     
 // + button //
     
-    $(".togglebox").hide();
-    $(".togglebutton").click(function(){
-        var togglebox = $(this).parents("div").next(".togglebox").css("display");  
-        var scrolto = $(this).parents("div").next(".togglebox");
-        if(togglebox=="block")
-            $(this).text("\53");
-        else
-            $(this).text("\u2013");
-            $(this).parents("div").next(".togglebox").slideToggle("slow");
-        return true;
-    });
+$(".togglebox").hide();
+
+$(".togglebutton").click(function() {
+    var $this = $(this);
+    var $toggleBox = $this.parents("div").next(".togglebox");
+    
+    if ($toggleBox.is(":visible")) {
+        $this.text("+");
+    } else {
+        $this.text("\u2013");
+    }
+
+    $toggleBox.slideToggle("slow");
+    return false;
+});
+
     
 // impressum //
 
-    $('.togglelink').click(function() {
-        var totoggle = $(this).attr("data-toggle");
-        $(totoggle).slideToggle(500);
-        
-        if ($(totoggle).is(":visible")) {
-            $('html,body').animate({scrollTop:$(totoggle).offset().top}, 1000);
-        }     
-    });
+    $('.targetlink').click(function() {
+        var $target = $($(this).data("target"));
+        $target.slideToggle(500, function() {
+            if ($target.is(":visible")) {
+                $('html,body').animate({scrollTop: $target.offset().top}, 1000);
+            }
+        });
+      });
 
 // page load //
     

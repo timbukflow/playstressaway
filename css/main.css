@@ -1,21 +1,4 @@
-/*
-    Theme Name: playstressaway
-    Description: playstressaway
-    Version: 1.0
-    Author: Ivo Schwizer
-    Author URI: http://schwizerschlatter.com
-    Tags: No Tags
-*/
-
-/*
-    Color Theme: playstressaway
-    Main Color Green: #718166;
-    Boarder Green: #BEC7BE;
-       
-*/
- 
-
-   html {
+html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
@@ -79,7 +62,7 @@ body {
   background: #ffffff;
 }
 
-h1, h3, p, a, table, figcaption, .preis, button, .togglelink, .tr, .td, .th {
+h1, h3, p, a, table, figcaption, .preis, button, .targetlink, .tr, .td, .th {
     font-family: 'Signika', sans-serif;
     color: #575757;
     font-weight: 300;
@@ -108,7 +91,7 @@ figcaption, .preis {
     text-align: center;
 }
 
-.togglelink {
+.targetlink {
     font-size: 16px;
     text-align: center;
     cursor: pointer;
@@ -1173,44 +1156,64 @@ footer {
     display: none;
 }
 
-/*---------------------------------- 
-    datenschutz
+/*----------------------------------
+    Cookiebanner
 -----------------------------------*/
 
-#optoutbanner99 {
+#cookiebanner {
     position: fixed;
-    bottom: 0;
-    border-radius: 100px;
-    left: 0;
-    right: 0;
-    margin: 40px auto;
-    background-color: rgba(235,245,251,1);
-    padding: 15px;
-    z-index: 100;
-    width: 470px;
-    height: 40px;
-}
-
-#optoutbanner99 a,
-#optoutbanner99 p{
-    font-size: 15px;
-    display: inline-block;
-}
-#optoutbanner99 p{
-   padding: 10px;
-}
-
-#acceptga {
-    cursor: pointer;
-    text-decoration: none !important;
-    background-color: #006AEA;
-    color: #fff !important;
-    font-weight: normal !important;
-    padding: 10px 15px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
+    bottom: -300px;
+    left: 40px;
+    border-radius: 20px;
+    width: 350px;
+    background-color: rgb(235,245,251);
+    padding: 25px;
+    z-index: 9999;
+    transition: bottom 0.5s cubic-bezier(0.2, 0.8, 0.3, 2);
+  }
+  
+  #cookiebanner p {
+    color: #575757;
+    margin: 0;
+    padding-bottom: 20px;
+  }
+  
+  #cookiebanner.visible {
+    bottom: 25px;
+  }
+  
+  #cookiebanner button {
+    font-size: 20px;
+    letter-spacing: 0;
+    text-decoration: none;
+    margin: 0px 5px 0px 0px;
+  }
+  
+  #declineBtn, #acceptBtn {
     border-radius: 30px;
-}
+    margin-top: 20px;
+  }
+  
+  #declineBtn {
+    padding: 10px 20px;
+    background:none;
+    border: 1px solid #006AEA; 
+    color: #006AEA;
+    opacity: 0.5;
+  }
+  
+  #acceptBtn {
+    border: none;
+    padding: 10px 40px;
+    background: #006AEA;
+    color: white;
+  }
+  
+  #acceptBtn:hover,
+  #declineBtn:hover {
+    transition: opacity 0.5s ease-in-out;
+    opacity: 0.75; ;
+  }
 
 /*---------------------------------- 
     responsive
@@ -1493,7 +1496,8 @@ footer {
     .kontakt, .kontakt a { font-size: 18px;}
     #kontakt {margin-top: 140px;}
      
-    #optoutbanner99 { border-radius: 0; margin: 0; padding: 10%; width: 80%; height: auto;}
+    #cookiebanner {width: calc(100% - 90px); left: 20px;}
+    #cookiebanner.visible {bottom: 60px;}
 }
 
  /* ==========================================================================
